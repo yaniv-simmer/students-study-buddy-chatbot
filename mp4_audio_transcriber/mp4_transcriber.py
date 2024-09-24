@@ -68,20 +68,20 @@ class MP4AudioTranscriber:
         with open(self.output_path, 'w', encoding='utf-8') as json_file:
             json.dump({"data": data}, json_file, ensure_ascii=False, indent=2)
 
-    def run(self, mp4_path: str, output_folder: str) -> List[Dict[str, str]]:
+    def run(self, mp4_path: str, output_path: str) -> List[Dict[str, str]]:
         '''
         Main function to transcribe audio from an mp4 file and save the transcription to a JSON file.
 
         Args:
             mp4_path (str): Path to the mp4 file.
-            output_folder (str): Path to the output folder where the JSON file will be saved.
+            output_path (str): Path to the output JSON file.
 
         Returns:
             List[Dict[str, str]]: List of transcribed segments with the following keys:
                 'offset_start', 'offset_end', 'text', 'lang', 'type', 'ref'.
         '''
         self.mp4_path =  mp4_path
-        self.output_path = output_folder + mp4_path[:-4] + '_Ivrit.json'
+        self.output_path = output_path
         self.temp_audio_path = mp4_path[:-4] + 'temp_audio.wav'
 
         print("Extracting audio...")
