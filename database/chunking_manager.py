@@ -59,11 +59,44 @@ class ChunkingManager:
         if current_chunk['text']:
             chunked_segments.append(current_chunk)
 
-        self.save_json(chunked_segments, output_path[:-4] + '_chunked.json')
         return chunked_segments
     
 
-    def save_json(self, data: List[Dict[str, str]], output_path: str) -> None:
-        '''Save the chunked segments to a JSON file'''
-        with open(output_path, 'w', encoding='utf-8') as json_file:
-            json.dump({"data": data}, json_file, ensure_ascii=False, indent=2)
+
+
+
+import os
+
+RAW_TRANSCRIPTION_FOLDER = 'shared_folder/raw_transcriptions/'
+CHUNKED_TRANSCRIPTION_FILE = 'shared_folder/chunked_transcriptions/combined_transcriptions_chunks.json'
+
+
+def save_json(data: Dict[str, List], output_path: str) -> None:
+    '''Save the chunked segments to a JSON file'''
+    with open(output_path, 'w', encoding='utf-8') as json_file:
+        json.dump(data, json_file, ensure_ascii=False, indent=2)
+
+
+def load_json(file_path: str) -> Dict:
+    '''Load JSON file'''
+    with open(file_path, 'r', encoding='utf-8') as json_file:
+        return json.load(json_file)
+
+
+if __name__ == '__main__':
+    combined_transcriptions = load_json(CHUNKED_TRANSCRIPTION_FILE)
+    
+    chunking_manager = ChunkingManager()
+    for file in os.listdir(RAW_TRANSCRIPTION_FOLDER):
+        if file not in combined_transcriptions['done_files']:
+            segments = load_json(RAW_TRANSCRIPTION_FOLDER + file)['data']
+            chunked_segments = chunking_manager.chunk_text(RAW_TRANSCRIPTION_FOLDER + file, segments)
+            combined_transcriptions['data'].extend(chunked_segments)
+            combined_transcriptions['done_files'].append(file)
+            save_json(combined_transcriptions, CHUNKED_TRANSCRIPTION_FILE)
+
+                
+
+
+
+        
