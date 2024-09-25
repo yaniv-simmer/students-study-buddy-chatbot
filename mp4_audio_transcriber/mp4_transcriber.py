@@ -18,6 +18,7 @@ class MP4AudioTranscriber:
         self.mp4_path = None
         self.output_path = None
         self.temp_audio_path = None
+        self.url = None
         self.device = "cuda:0" if torch.cuda.is_available() else "cpu"
         self.pipe = pipeline(
             "automatic-speech-recognition",
@@ -57,7 +58,7 @@ class MP4AudioTranscriber:
                 "text": chunk['text'].strip(),
                 "lang": "he", #TODO: add language detection
                 "type": "audio",
-                "ref": self.mp4_path
+                "ref": self.url
             })
 
         return segments
@@ -68,13 +69,14 @@ class MP4AudioTranscriber:
         with open(self.output_path, 'w', encoding='utf-8') as json_file:
             json.dump({"data": data}, json_file, ensure_ascii=False, indent=2)
 
-    def run(self, mp4_path: str, output_path: str) -> List[Dict[str, str]]:
+    def run(self, mp4_path: str, output_path: str, url: str) -> List[Dict[str, str]]:
         '''
         Main function to transcribe audio from an mp4 file and save the transcription to a JSON file.
 
         Args:
             mp4_path (str): Path to the mp4 file.
             output_path (str): Path to the output JSON file.
+            url (str): URL of the mp4 file (for reference).
 
         Returns:
             List[Dict[str, str]]: List of transcribed segments with the following keys:
@@ -83,6 +85,7 @@ class MP4AudioTranscriber:
         self.mp4_path =  mp4_path
         self.output_path = output_path
         self.temp_audio_path = mp4_path[:-4] + 'temp_audio.wav'
+        self.url = url
 
         print("Extracting audio...")
         self.extract_audio()
