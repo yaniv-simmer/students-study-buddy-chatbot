@@ -14,12 +14,15 @@ MP4_UPLOADS_FOLDER = '/shared_folder/mp4_uploads/'
 RAW_OUTPUT_FOLDER = '/shared_folder/raw_transcriptions/'
 PROCESSED_OUTPUT_FOLDER = '/shared_folder/chunked_transcriptions/'
 
+URL_LIST = {"sample.mp4": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file"}
+
 
 if __name__ == '__main__':
     mp4_transcriber = MP4AudioTranscriber()
     while True:
         for file in os.listdir(MP4_UPLOADS_FOLDER):        
-            segments = mp4_transcriber.run(MP4_UPLOADS_FOLDER + file, RAW_OUTPUT_FOLDER + file[:-4] + '_Ivrit.json')
+            output_path = RAW_OUTPUT_FOLDER + file[:-4] + '_Ivrit.json'
+            segments = mp4_transcriber.run(MP4_UPLOADS_FOLDER + file, output_path, URL_LIST[file])
             os.remove(MP4_UPLOADS_FOLDER + file)
         
         sleep(SLEEP_TIME)
