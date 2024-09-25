@@ -1,0 +1,1628 @@
+{
+  "data": [
+    {
+      "offset_start": "0:00:00.520",
+      "offset_end": "0:00:05.840",
+      "text": "שלום לכולם, זה השיעור, נדמה לי, השישי, הסמסטר.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:00:07.480",
+      "offset_end": "0:00:11.400",
+      "text": "אנחנו נדבר היום על הצפנה בשיטת מפתח פומבי.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:00:12.360",
+      "offset_end": "0:00:19.400",
+      "text": "בשיעור שעבר למדנו, סקרתי כמה תוצאות, כמה עובדות בסיסיות מתורת המספרים,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:00:19.920",
+      "offset_end": "0:00:27.660",
+      "text": "ולימדתי על מבחנים לבדיקת ראשוניות, מבחנים סטטיסטיים,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:00:27.680",
+      "offset_end": "0:00:32.380",
+      "text": "או מבחנים הסתברותיים לבדיקת ראשוניות.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:00:32.680",
+      "offset_end": "0:00:36.620",
+      "text": "ראינו שני מבחנים, מילר רבין ולמן.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:00:37.180",
+      "offset_end": "0:00:40.680",
+      "text": "כשמילר רבין הוא האלגוריתם המועדף על כולם,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:00:41.660",
+      "offset_end": "0:00:47.600",
+      "text": "לא בגלל שהוא יותר יעיל או יותר מהיר, אלא בגלל שהתוצאה שלו יותר מדויקת.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:00:47.600",
+      "offset_end": "0:00:54.100",
+      "text": "זאת אומרת, יכולים להיות מקרים בודדים, כן, עם הסתברות נמוכה אמנם,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:00:54.100",
+      "offset_end": "0:00:59.400",
+      "text": "אבל מקרים בודדים שבהם אלגוריתם למן יגיד שהמספר הוא ראשוני,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:00:59.400",
+      "offset_end": "0:01:06.000",
+      "text": "ומילר רבין יגיד שהמספר פריק, ואז כמובן זה אומר שאלגוריתם למן טועה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:01:10.800",
+      "offset_end": "0:01:11.100",
+      "text": "ויש דוגמה גם בשקפים, יש עוד כמה שקפים שלא עברתי עליהם במצגת ההיא,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:01:18.800",
+      "offset_end": "0:01:20.600",
+      "text": "אבל אני מעדיף להמשיך הלאה ופשוט סימנתי אותם כחומר רשות לצורך הסמסטר הזה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:01:23.600",
+      "offset_end": "0:01:24.000",
+      "text": "והתקנתי את המצגת בנודל.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:01:32.200",
+      "offset_end": "0:01:46.300",
+      "text": "אוקיי, אז אנחנו עכשיו נעבור לנושא הבא, וזה הנושא של... רגע, שנייה. זה הנושא של אלגוריתמים, או שיטת מפתח פומבי, או קריפטוגרפיה של מפתח פומבי. אוקיי, אז בואו נעבור למצגת.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:01:46.300",
+      "offset_end": "0:01:49.300",
+      "text": "אוקיי.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:01:49.300",
+      "offset_end": "0:02:25.560",
+      "text": "טוב, אז מה זה אומר קריפטוגרפיה של מפתח פ ביניהם בצורה מאובטחת. אין להם, הערוץ שלהם הוא לא בטוח, אבל הם רוצים להתכתב בצורה מאובטחת. אז לבוב יש איזה מסר שרוצה לשלוח לאליס, הוא מצפין אותו באמצעות אחד האלגוריתמים שלמדנו,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:02:25.560",
+      "offset_end": "0:02:31.240",
+      "text": "דה, זה יהיה, זה סלסה, לא יודע מה, הוא מצפין את זה, כמובן הוא צריך מפתח בשביל זה,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:02:32.040",
+      "offset_end": "0:02:37.280",
+      "text": "שולח את זה לאליס, זה הופך, אחרי ההצפנה זה הופך לבלתי מובן, אליס מקבלת את זה,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:02:37.480",
+      "offset_end": "0:02:40.320",
+      "text": "מפענה אחת, ויכולה לקרוא את מה שבוב כתב.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:02:40.480",
+      "offset_end": "0:02:45.600",
+      "text": "הבעיה היא שאליס ובוב לא יכולים להעביר ביניהם את מפתח העצפנה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:02:45.600",
+      "offset_end": "0:02:53.520",
+      "text": "זאת אומרת, איך אליס ובוב, כן? איך אליס ובוב בשלב מוקדם יסכימו על מפתח העצפנה,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:02:53.520",
+      "offset_end": "0:02:57.000",
+      "text": "אם הערוץ שלהם הוא לא בטוח, ואם הם לא יכולים להיפגש פיזית.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:02:57.000",
+      "offset_end": "0:03:05.000",
+      "text": "אז זאת הבעיה, זאת בעיה שכבר היו מודעים עליה לא מהיום, אלא לפני 50-60 שנה כבר היו מודעים עליה,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:03:05.600",
+      "offset_end": "0:03:09.880",
+      "text": "וזאת הבעיה של העברת המפתחות, כן?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:03:11.160",
+      "offset_end": "0:03:14.160",
+      "text": "איך מעבירים מפתח הצפנה?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:03:16.600",
+      "offset_end": "0:03:24.280",
+      "text": "אז פתרון שהיה קיים כבר אז, או כבר בתקופה שלפני המפתחות הבומביים,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:03:24.760",
+      "offset_end": "0:03:26.120",
+      "text": "שנות ה-60-70.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:03:26.120",
+      "offset_end": "0:03:31.320",
+      "text": "אוקיי, אליס ובוב ואנשים אחרים גם, רוצים להתכתב ביניהם,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:03:31.320",
+      "offset_end": "0:03:37.800",
+      "text": "אז יש איזשהו מרכז שמרכז את כל ההתכתבויות, הוא מכיר את המפתחות של כולם.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:03:37.800",
+      "offset_end": "0:03:52.760",
+      "text": "למשל, אם אני רוצה להצטרף, להיות מנוי במרכז, אז אני מצטרף כמנוי, הם שולחים אליי איזשהו נציג, נותנים לי מפתח, את המפתח שאיתו אני אמור להתכתב,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:03:52.760",
+      "offset_end": "0:04:10.000",
+      "text": "ואז אם אליס רוצה לכתוב לבוב, אז היא מצפינה את הידיעה, ומיד אחר כך מצפין אותה באמצעות המפתח של בוב,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:04:10.000",
+      "offset_end": "0:04:32.500",
+      "text": "ושולח לבוב את הידיעה שאליס כתבה, מוצפנת באמצעות המפתח של בוב, ובוב כמובן יכול לפענח את זה כי הוא יודע את המפתח של עצמו, כן? אז זו דרך שעובדת, הבעיה היא שמאוד מאוד מסורבלת, כי זה, תראו, יש פה חמישה שלבים,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:04:32.500",
+      "offset_end": "0:04:39.000",
+      "text": "בכל שלב צריך לעשות איזשהו חישוב, איזה פעולת עצפנה או פענוח, זה יוצר עומס גדול על המרכז,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:04:39.000",
+      "offset_end": "0:04:45.600",
+      "text": "בנוסף לזה, אם מישהו יפרוץ למרכז, הוא ידע את המפתחות של כולם, זאת בעיה...",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:04:46.600",
+      "offset_end": "0:04:51.800",
+      "text": "זאת בעיה... ונשארת הבעיה של... מה? אין מפתחות למרכז בצורה מצוינת.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:04:53.560",
+      "offset_end": "0:04:59.800",
+      "text": "עוד פעם, לא הבנתי מה שאמרת. נשארת הבעיה של איך את מעביר את המפתח שלך למרכז.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:05:00.880",
+      "offset_end": "0:05:17.000",
+      "text": "לא, אז איך אני מעביר למרכז? אז ברגע שאני מצטרף למרכז כמנוי, אז הם דואגים להעביר לי את המפתח בצורה מאובטחת. לא יודע, שולחים אליי שליח הביתה והוא מתקין את המפתח על המצפן שלי.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:05:17.000",
+      "offset_end": "0:05:28.360",
+      "text": "אוקיי? אוקיי. כן, אז כן, זה מסובל, אוקיי? זה אם אתם, למשל, אם אתם משווים את מה שקורה היום בוואטסאפ,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:05:28.360",
+      "offset_end": "0:05:32.860",
+      "text": "שאני יכול היום להתכתב בוואטסאפ עם מישהו שאני לא מכיר ולא פגשתי קודם,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:05:32.860",
+      "offset_end": "0:05:40.660",
+      "text": "ומיד להתחיל להתכתב איתו בצורה מאותחת, בלי שאף אחד ירכז לי את זה, אז כן, יש פרוטאליפט מאוד מסורבל.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:05:42.660",
+      "offset_end": "0:06:11.000",
+      "text": "אז בחור בשם וילדפילדיפי, כבר היה מודע לזה בתחילת שנות ה-70, הוא היה דוקטורנט במדעי המחשב נדמה לי, ב-MIT או ב-Harvard, לא בטוח, והיה לו רעיון, והוא שית שגם אם אני יודע להצפין, אני לא יודע לפענח.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:06:11.000",
+      "offset_end": "0:06:17.000",
+      "text": "זאת אומרת, אם בוב רוצה לשלוח לאליס איזו שיהיה ידיעה מוצפנת,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:06:17.000",
+      "offset_end": "0:06:21.000",
+      "text": "אם בוב רוצה לשלוח לאליס איזו שיהיה ידיעה מוצפנת,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:06:21.000",
+      "offset_end": "0:06:29.000",
+      "text": "הוא מצפין את המסמך על ידי זה שהוא יוצר איזושהי בעיה מתמטית שרק אליס יודעת לפתור.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:06:29.000",
+      "offset_end": "0:06:51.200",
+      "text": "גם בו בעצמו אחרי שהוא הצפין הוא לא יודע לפה הנח, אבל הוא יודע את הידיעה, כן? הוא שולח את הידיעה, הוא מצפין אותה על ידי זה שהוא יוצר בעיה מתמטית שרק אליס יודעת לפתור. רק לאליס יש את המידע הרלוונטית שמאפשר לפתור את הבעיה בקלות, כן? או בסיבוכיות נמוכה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:06:51.200",
+      "offset_end": "0:06:59.800",
+      "text": "כמובן שכל מי שמאזין יכול אולי לפרוץ או לפתור את הבעיה, אבל בסיבוכיות מאוד גבוהה, כך שזה לא מטריד אותה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:06:59.800",
+      "offset_end": "0:07:30.500",
+      "text": "אוקיי, אז זה היה רעיון בסיסי, זה רעיון שלא היה לוויטפילדיפי,, לא היה לו פתרון לזה, זאת אומרת, לא היה לו רעיון איך בדיוק לממש את זה, היה לו איזה רעיון תיאורטי, רעיון אבסטרקטי, הוא לא היה לו, דיפי, מרקל והלמן,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:07:30.500",
+      "offset_end": "0:07:35.500",
+      "text": "יהיה פה עוד שיטה שהוצאה על ידי מרקל כמה זמן לפני דיפי,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:07:35.500",
+      "offset_end": "0:07:39.500",
+      "text": "אבל אני אדלה להגיע אליה, כי לא, שיטה מאוד מוצלחת.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:07:39.500",
+      "offset_end": "0:07:44.000",
+      "text": "בסופו של דבר הוא שיתף ברעיון שלו חוקר אחר בשם הלמן,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:07:44.000",
+      "offset_end": "0:07:54.400",
+      "text": "שישב בסטנפורד, ברחוב המערבי של ארה״ב, והרעיון שלהם הוא היה כזה, יש לנו איזשהו אלגוריתם עצפנה, אוקיי?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:07:54.400",
+      "offset_end": "0:08:07.600",
+      "text": "לאלגוריתם עצפנה, לכל משתמש שמשתמש באלגוריתם עצפנה, יש שני מפתחות. מפתח אחד הוא מפתח פומבי, או�תח ציבורי שכולם מכירים והוא משמש לעצפנה,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:08:07.600",
+      "offset_end": "0:08:13.000",
+      "text": "ומפתח שני שהוא מפתח פרטי, סודי, שמשמש לפי הנוח.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:08:13.000",
+      "offset_end": "0:08:22.900",
+      "text": "זאת אומרת, אם בוב רוצה שיתכתבו איתו, הוא יוצר שני מפתחות, אחד פומבי, שהוא יכול להפיץ לכולם,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:08:22.900",
+      "offset_end": "0:08:31.000",
+      "text": "וכל אחד יכול לכתוב, להצפין משהו בשביל בו, ויש לו מפתח סודי שמשמש לפי הנוח ורק בו מכיר.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:08:32.000",
+      "offset_end": "0:08:46.600",
+      "text": "אוקיי? והאלגוריתם העצבנה הוא כזה, כן? הוא כזה מתוחכם שהוא יכול לעבוד עם שני מפתחות, ויותר מזה, מי שיודע את המפתח הפומבי זה לא מאפשר לו עדיין לגלות את המפתח הסודי.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:08:48.200",
+      "offset_end": "0:08:53.640",
+      "text": "עכשיו, זה רעיון שלא היה ידוע קודם, וגם כשהם הציעו את זה דיפי ואלמן,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:08:53.720",
+      "offset_end": "0:08:59.680",
+      "text": "לא היה להם פתרון לאיך בדיוק ליצור צופן כזה, כי תחשבו על דז או על AES,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:08:59.760",
+      "offset_end": "0:09:07.000",
+      "text": "AES לא היה קיים אז, אבל דז היה קיים אז, כן? או כל שיטה של פי-אר-ג'י.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:09:07.000",
+      "offset_end": "0:09:13.000",
+      "text": "אם אני יודע את המפתח של העצפנה, אני יודע גם את המפתח של הפי הנוח, כן?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:09:13.000",
+      "offset_end": "0:09:17.000",
+      "text": "אותו מפתח שמשמש לעצפנה בדז משמש גם לפי הנוח.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:09:17.000",
+      "offset_end": "0:09:24.000",
+      "text": "אותו מפתח שמשמש לעצפנה ב, אני יודע, צופן קיסר, הוא משמש גם לפי הנוח, כן?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:09:24.000",
+      "offset_end": "0:09:25.840",
+      "text": "אז עם סימן מינוס. כל... אותו מפתח שמשמש לעצפנה בצופן קיסר, הוא משמש גם לפי הנוח, כן? אז עם סימן מינוס.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:09:25.840",
+      "offset_end": "0:09:31.880",
+      "text": "כל, אותו מפתח שמשמש לאצפנה בצופן הצוואר, כן? הצופן של איזושהי תמורה, זה אותה תמורה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:09:31.880",
+      "offset_end": "0:09:34.840",
+      "text": "לפי הנוח צריך את התמורה ההפוכה, אוקיי?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:09:34.840",
+      "offset_end": "0:09:38.640",
+      "text": "אז אם יודעים את מפתח האצפנה, יודעים גם את מפתח הפי הנוח.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:09:38.640",
+      "offset_end": "0:09:46.500",
+      "text": "אז היה להם פה רעיון מהפכני של אפשרות של צופן, שגם אם יודעים את מפתח העצפנה, לא יודעים את מפתח הפיענוח.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:09:46.500",
+      "offset_end": "0:09:55.500",
+      "text": "אז אם אליס ובוב רוצים להתכתב, אין בעיה. אליס, לאליס יש את מפתח העצפנה של בוב,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:09:55.500",
+      "offset_end": "0:10:06.800",
+      "text": "היא מעצפינה באמצעות המפתח העצפנה של בוב, שולחת לו ידיעה מוצפנת, ובוב יכול לפענח כי יש לו את מפתח הפענוח, ורק לא יש אותו.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:10:14.400",
+      "offset_end": "0:10:19.000",
+      "text": "כן? אז ידיעת המפתח ה-public, ה-use-a-me-public, לא מורידה את הסיבוכיות של גילוי מפתח הפענוח. מפתח הפענוח, שזה המפתח הסודי, או private, כן? זה r של private.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:10:20.000",
+      "offset_end": "0:10:26.600",
+      "text": "אוקיי? אז זה הרעיון שלהם, אבל לא היה להם רעיון מעשי איך לממש את זה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:10:26.600",
+      "offset_end": "0:10:31.000",
+      "text": "כן, הנה פה נמצאים השלושה, בתקופה שהם עבדו על הרעיון שלהם.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:10:31.000",
+      "offset_end": "0:10:38.500",
+      "text": "אז דיפי היה, כמו שאמרתי, הראשון שחשב על השימוש בבעיה כזאת, בעיה קשה, בעיית רפדור, כן?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:10:38.500",
+      "offset_end": "0:10:46.080",
+      "text": "בעיית רפדור זה בעיה שרק עם איזשהו מידע סודי אפשר לפתור אותה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:10:47.440",
+      "offset_end": "0:10:50.200",
+      "text": "הם ביחד פיתחו את רעיון באוניברסיטת סטנפורד,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:10:50.200",
+      "offset_end": "0:10:58.280",
+      "text": "והרעיון של שני המפתחות, הם פרסמו אותו עוד לפני שהיה להם איזשהו מימוש ספציפי,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:10:58.280",
+      "offset_end": "0:11:03.000",
+      "text": "איזשהו צופן ספציפי שעומד בקריטריונים, והשאלה הייתה, האם יש דבר כזה?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:11:03.320",
+      "offset_end": "0:12:06.640",
+      "text": "כן? כי זה נראה אנטי-אינטואיטיבי. אם אני יודע את מפתח העצפנה, בהכרח אני צריך לדעת את מפתח הפענוח. אם אני יודע את פונקציית העצפנה, אז אני יודע את פונקצייתיבסט, שמיר ועדלמן בשנת 1977, כן, הם שלושתם חברו יחד בזמן ששמוים עדי שמיר מעיד על זה שהוא, הם יצאו, הם הלכו להסכי, והוא ככה, תוך כדי זה שהוא גלץ במדרון, צץ הרעיון במוחו, ועד שהוא הגיע לתחתית המדרון הוא שכח את הרעיון, אבלון, ‫אבל בסופו של דבר הם עלו ‫על רעיון מאוד פשוט, שאני...",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:12:06.760",
+      "offset_end": "0:12:10.440",
+      "text": "‫שזה הרעיון של ה-RSA, ‫זה השתיבות של השמות שלהם.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:12:12.400",
+      "offset_end": "0:12:27.720",
+      "text": "‫ואז הרעיון הראשון לסכמת כזאת ‫של מפתח קומביט הייתה ה-RSA נמצא בשימוש עד היום,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:12:27.720",
+      "offset_end": "0:12:32.000",
+      "text": "בהמשך הציעו סכמות אחרות, סכמת אל גמל, סכמה של רבין,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:12:32.000",
+      "offset_end": "0:12:36.000",
+      "text": "וסכמה שמבוססת על הקום אליפטי, שגם אותה אני אלמד בקורס הזה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:12:36.000",
+      "offset_end": "0:12:42.700",
+      "text": "אז עכשיו, איך הם עלו על רעיון? כן? איך הם עלו על רעיון?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:12:42.700",
+      "offset_end": "0:12:46.300",
+      "text": "אז הם התבססו על המחשבה של דיפי.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:12:46.300",
+      "offset_end": "0:12:50.400",
+      "text": "דיפי אמר, אנחנו צריכים איזושהי בעיה מתמטית קשה,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:12:51.900",
+      "offset_end": "0:12:55.800",
+      "text": "שהיא קשה, שאם איזשהו מידע אפשר לפתור אותה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:12:56.100",
+      "offset_end": "0:12:58.800",
+      "text": "אם איזשהו מידע נוסף, שזה מפתח העצפנה,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:12:59.000",
+      "offset_end": "0:13:01.400",
+      "text": "סליחה, מפתח הפענוח, אפשר לפתור אותה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:01.400",
+      "offset_end": "0:13:04.800",
+      "text": "זאת אומרת, יש לנו בעיה קשה שמאפשרת לעצפין,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:06.040",
+      "offset_end": "0:13:11.560",
+      "text": "אבל כדי לפענח, אני צריך עוד איזשהו מידע על הבעיה הזאת, אוקיי?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:11.960",
+      "offset_end": "0:13:15.640",
+      "text": "אז הם חיפשו, הם הלכו וחיפשו בעיות קשות במתמטיקה,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:15.640",
+      "offset_end": "0:13:21.240",
+      "text": "שאיזשהו מידע עשוי לאפשר לפתור אותה, והיו שלושה סוגים של בעיות,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:21.240",
+      "offset_end": "0:13:27.360",
+      "text": "בעיית התרמיל הגב, הנאפסק, שאתם אמורים להכיר אותה מקורס ואלגוריתמים,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:27.760",
+      "offset_end": "0:13:30.440",
+      "text": "בעיית הפירוק ובעיית הלוגריתם הדיסקרט.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:31.240",
+      "offset_end": "0:13:36.120",
+      "text": "בעיית הנפסק, היא הייתה בעיה טובה,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:36.160",
+      "offset_end": "0:13:40.360",
+      "text": "ביססו עליה כמה צופנים, אלא שבמהלך שנות ה-80 וה-90,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:40.440",
+      "offset_end": "0:13:43.840",
+      "text": "פרצו את כל הצופנים האלה, מנצו דרך לפרוץ את הצופנים האלה,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:43.880",
+      "offset_end": "0:13:48.440",
+      "text": "כך שבעיית תרמיל הגב היא לא רלוונטית היום לצופני מפתח פומבי.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:48.440",
+      "offset_end": "0:13:51.640",
+      "text": "ועכשיו נדבר על בעיית הפירוק, אוקיי?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:51.640",
+      "offset_end": "0:13:59.160",
+      "text": "אז בעיית הפירוק, מי שחשב עליה לראשונה היה דונלד קנוף, אחד האבות המייסדים של מדעי המחשב.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:13:59.160",
+      "offset_end": "0:14:11.000",
+      "text": "הוא אמר ככה, בעיית הפירוק היא, באופן כללי בעיית הפירוק היא, יש לכם מספר שלם גדול, כן? מספר שלם חיובי מאוד גדול,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:14:11.000",
+      "offset_end": "0:14:17.600",
+      "text": "פרקו אותו לגורמים, זאת בעיית הפירוק. אוקיי? איך אני מפרק אותו לגורמים?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:14:17.600",
+      "offset_end": "0:14:27.600",
+      "text": "מתחיל לנסות לחלק אותו במספרים, כמו שאנחנו יודעים מקורס ועוד במבוא למדעי המחשב, ואחר כך גם ציינתי את זה בקורס הזה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:14:27.600",
+      "offset_end": "0:14:34.200",
+      "text": "אני צריך לחלק אותו במספרים, אני צריך לפחות להגיע, אני צריך להגיע עד לשורש n כדי למצוא,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:14:34.200",
+      "offset_end": "0:14:37.700",
+      "text": "לפעמים אני צריך להגיע עד לשורש n כדי למצוא לו את הגורמים.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:14:37.700",
+      "offset_end": "0:14:42.900",
+      "text": "אם יש לי מזל, יש לו גורמים קטנים, ואז אני יכול להתחיל לפרק, אבל באופן כללי אני צריך להגיע עד לשורש n.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:14:42.900",
+      "offset_end": "0:14:49.000",
+      "text": "אבל אם n הוא מספר מאוד מאוד גדול, אז גם שורש n הוא מספר מאוד מאוד גדול.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:14:50.000",
+      "offset_end": "0:14:58.500",
+      "text": "אז זאת בעיית הפירוק באופן כללי, ספציפית לנושא שלנו, יש לנו מספר n, שהוא מכפלה של שני מספרים ראשונים מאוד גדולים.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:14:58.500",
+      "offset_end": "0:15:05.500",
+      "text": "שכמובן לא יודעים אותם, והבעיה היא למצוא אותם, כן? הבעיה היא למצוא את p ו q.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:15:12.500",
+      "offset_end": "0:15:13.500",
+      "text": "איך אני עושה את זה? אז כמו שאמרתי, אני צריך להתחיל לנסות לחלק את n במספרים, אבל...",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:15:19.000",
+      "offset_end": "0:15:30.000",
+      "text": "יש יותר מדי מספרים כאלה אם n הוא מאוד גדול, אז זה לא יהיה מעשי לעשות את זה, אוקיי? אז צופנים שמבוססים על בעיית הפירוק, זה צופן rsa, צופן רבין, שאותו אני לא אזכור כאן, אני מדבר על צופן RSA, אלה בעצם שני הצופנים המרכזיים שמבוססים על בעיית הפירוק.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:15:32.000",
+      "offset_end": "0:15:49.500",
+      "text": "בעיה אחרת, די דומה, אפשר לומר, לא בדיוק, אבל כשנראית הצופנים נראה שהיא דומה, בעיית הלוגריתם הדיסקרטית. מה זה בעיית הלוגריתם הדיסקרטית? נתון מספר ראשוני q, ויש לי איזה מספרים שלמים a וy.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:15:49.500",
+      "offset_end": "0:16:11.800",
+      "text": "ואני יודע שקיים x, שאם אני מעלה את a בחזקת x, אני אקבל את y. או אם אני עלה את a בחזקת x מודול או q, אני אקבל את y. אוקיי? יש לי פה משוואה a ו-y ו-q. a ו-y ו-q הם ידועים, אוקיי? והבעיה היא למצוא את x.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:16:11.800",
+      "offset_end": "0:16:22.800",
+      "text": "זאת בעיית הלוגריתם הדיסקרטי. למה בעיית הלוגריתם הדיסקרטי? כי לוגריתם זה חזקה, אז צריך למצוא את x, כן? אם אני אעשה... אם זה לא היה מודולו,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:16:22.800",
+      "offset_end": "0:16:26.200",
+      "text": "הייתי יכול להוציא לוג משני אגפים ולגלות את x, נכון?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:16:26.200",
+      "offset_end": "0:16:31.800",
+      "text": "אם זה היה מספרים ממשיים, אם לא היה לי פה את מוד q, אם זה היה במספרים ממשיים,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:16:31.800",
+      "offset_end": "0:16:39.600",
+      "text": "הייתי בחזקת x שווה ל-y, אז זה לא בעיה לגלות את x, אני מחשבת ללוג של שני הצדדים ואני מוצא את x.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:16:39.600",
+      "offset_end": "0:16:46.160",
+      "text": "אבל מה שעושה את זה לבעיה קשה, זה שהמשוואה הז היא מודולו-Q, ולכן זה נקרא דיסקרטי,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:16:46.160",
+      "offset_end": "0:16:53.860",
+      "text": "בגלל שזה מספרים בדידים, זה מספרים שלמים בדידים, זה בעיה סופית, מודולו-Q זה אומר שיש לנו בעיה בין מספרים סופיים.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:16:53.860",
+      "offset_end": "0:17:03.680",
+      "text": "ואז למעשה כמעט אין לי ברירה, אם אני רוצה למצוא את x, להתחיל לחשב את a בחזקת מספרים שונים עד שאני אקבל את y,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:17:03.680",
+      "offset_end": "0:17:06.200",
+      "text": "אבל מכיוון ש-Q מאוד גדול, אז גם מספר האפל את y, אבל מכיוון ש-q הוא מאוד גדול,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:17:06.200",
+      "offset_end": "0:17:10.000",
+      "text": "אז גם מספר האפשרויות שאני צריך לנסות הוא מאוד גדול.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:17:11.400",
+      "offset_end": "0:17:15.700",
+      "text": "אוקיי? אז זאת הבעיה השנייה, בעיית הלוגריתם הדיסקרטי,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:17:15.700",
+      "offset_end": "0:17:20.500",
+      "text": "ומי שמתבסס עליה זה צופן אל-גמל, שציינתי, הזכרתי אותו קודם,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:17:20.500",
+      "offset_end": "0:17:27.000",
+      "text": "אנחנו לא נלמד עליו כאן, אבל אנחנו נלמד על צופן הקומו-אליפטי שמבוסס על סכמה של אלגמל.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:17:27.000",
+      "offset_end": "0:17:30.000",
+      "text": "אז בסופו של דבר אנחנו כן נדע מה הרעיון של אלגמל.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:17:30.000",
+      "offset_end": "0:17:36.000",
+      "text": "אוקיי, אז אלה שתי הבעיות. הבעיות האלה היו ידועות לריבסט, שמיר ועדלמן,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:17:36.000",
+      "offset_end": "0:17:44.000",
+      "text": "אבל הם לא ידעו איך לקחת את הבעיות האלה ולעשות מזה צופן.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:17:44.000",
+      "offset_end": "0:17:45.360",
+      "text": "זה שיש לנו בעיה שקשה לפתור, זה עדיין לא מא�ה ולעשות מזה צופן.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:17:49.040",
+      "offset_end": "0:17:49.120",
+      "text": "זה שיש לנו בעיה שקשה לפתור, זה עדיין לא מאפשר לי לבנות צופן.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:17:52.840",
+      "offset_end": "0:17:52.920",
+      "text": "יש הרבה בעיות שקשה לפתור, אתם מכירים מלא בעיות שקשה לפתור אותן,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:17:57.800",
+      "offset_end": "0:17:57.880",
+      "text": "בעיית הסוכן הנושא, למשל, כן? בעיה שקשה לפתור אותה, עבור עניים גדולים.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:18:01.760",
+      "offset_end": "0:18:02.800",
+      "text": "אבל עדיין זה לא אומר שיש לי רעיון איך לבסס על זה צופן.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:18:07.900",
+      "offset_end": "0:18:12.500",
+      "text": "אוקיי? אז זה האתגר שעמד בפניהם ובפני אנשים אחרים שחשבו על זה באותה זמן.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:18:18.600",
+      "offset_end": "0:18:19.100",
+      "text": "כדי להבין את הבעיה ואת הפתרון, אז אנחנו צריכים לחשוב, לדעת מה זה פונקציה חד-כיוונית.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:18:22.900",
+      "offset_end": "0:18:23.600",
+      "text": "פונקציה חד-כיוונית זה פונקציה F, שקל לחשב אותה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:18:29.280",
+      "offset_end": "0:18:34.180",
+      "text": "אבל גם אם אני יודע לחשב את הפונקציה F, אני לא יודע לחשב את הפונקציה ההופכית. זאת אומרת, למצוא את הפונקציה ההופכית, קשה, זה קשה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:18:34.180",
+      "offset_end": "0:18:38.480",
+      "text": "גם אם אני יודע את הפונקציה f, קשה לי לחשב את הפונקציה ההופכית. למשל,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:18:39.980",
+      "offset_end": "0:18:47.440",
+      "text": "למשל, כן? אם אני אחזור לשקף הקודם,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:18:50.840",
+      "offset_end": "0:18:51.340",
+      "text": "קל לי להעלות את a בחזקת x ולקבל את y,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:18:55.240",
+      "offset_end": "0:18:56.440",
+      "text": "אבל מ-y לקבל את a בלי שאני אדע את x זה קשה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:18:57.440",
+      "offset_end": "0:18:59.240",
+      "text": "אוקיי?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:19:29.140",
+      "offset_end": "0:19:32.560",
+      "text": "אוקיי, אז זאת פונקציה חד-כיוונית, פונקציה חד-כיוונית עם טראפדור או עם דלת סודית זה פונקציה ש... נכון, קשה לחשב את F מינוס אחד, אבל אם יהיה לי עוד איזשהו מידע, איזושהי פית, שקל לחשב אותה, אבל כדי לחשב את פונקציית הפרי הנוח, שהיא הפונקציה הופכית, זה קשה, אלא אם כן, יש לנו עוד פיסת מידע, שזה בדיוק המפתח הסודי.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:19:33.300",
+      "offset_end": "0:19:39.460",
+      "text": "אוקיי? אז היום יש הרבה פונקציות שנחשבות לחד-כיווניות, וצופנים רבים מבוססות עליהן,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:19:39.460",
+      "offset_end": "0:19:42.660",
+      "text": "אבל אף אחד מהם לא הוכח באופן מתמטי שהם...",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:19:42.660",
+      "offset_end": "0:19:46.600",
+      "text": "זה בעצם פי שווה ל-NP, לא?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:19:50.600",
+      "offset_end": "0:19:51.400",
+      "text": "זה לא פי שווה ל-NP, לא, זה לא פי שווה ל-NP.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:19:58.400",
+      "offset_end": "0:19:59.200",
+      "text": "כי זה לא... זה לא בעיות שהן בהכרח NP.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:20:02.400",
+      "offset_end": "0:20:03.800",
+      "text": "או, כן, שהן בהכרח NP.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:20:18.500",
+      "offset_end": "0:20:24.800",
+      "text": "זה... כל פונקציה כזאת שידועה היום, יש מצב שיש לה פתרון בלי שפי שווה ל-np. אוקיי? יכול להיות, מישהו יחשוב, הוא חשב כבר בעבר, אבל לא גילה את זה, זה מתמטיקאי מאוד מאוד חכם,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:20:24.800",
+      "offset_end": "0:20:28.860",
+      "text": "שחשב על פתרון איך לפתור אותם, אבל הוא עדיין לא פרסם את זה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:20:28.860",
+      "offset_end": "0:20:36.100",
+      "text": "או שעוד לא חשבו על זה, אבל יש פתרון כזה, וזה עדיין לא אומר שp שווה ל-np, במקרה הזה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:20:37.760",
+      "offset_end": "0:20:52.000",
+      "text": "אוקיי?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:20:52.000",
+      "offset_end": "0:20:58.300",
+      "text": "בדוגמה, זאת הפונקציה שעליה מבוסס RSA, אז כמו שאמרתי, n הוא מכפלה של שני מספרים ראשוניים,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:20:58.300",
+      "offset_end": "0:21:03.000",
+      "text": "יש לי פונקציה מ-z n ל-z n, זאת אומרת, בין שעריות מודולו n,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:21:03.000",
+      "offset_end": "0:21:07.760",
+      "text": "יש לי מספר b שהוא זר לפי של n, זוכרים מי זה פי של n?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:21:08.920",
+      "offset_end": "0:21:13.440",
+      "text": "פי של n זה כמה מספרים קטנים מ-n שזרים לו.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:21:14.240",
+      "offset_end": "0:21:16.800",
+      "text": "אוקיי? בין 1 ל-n מינוס 1 שזרים לו, זה פי של n.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:21:16.800",
+      "offset_end": "0:21:20.360",
+      "text": "אז יש לי מספר b שזר לפי של n,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:21:20.640",
+      "offset_end": "0:21:25.600",
+      "text": "והפונקציה היא, בואו נחשב את x בחזקת b מודולו n, זאת פונקציה חד-כיוונית.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:21:25.600",
+      "offset_end": "0:21:33.800",
+      "text": "אוקיי? זאת פונקציה חד-כיוונית, כל אחד יכול לעשות את זה, כל מי שיודע את b ואת n יכול לעשות את זה,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:21:33.800",
+      "offset_end": "0:21:39.000",
+      "text": "אבל זה עדיין לא מאפשר לדעת את הפונקציה ההופכית.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:21:39.000",
+      "offset_end": "0:21:44.600",
+      "text": "בשביל לדעת את הפונקציה ההופכית, אנחנו צריכים מידע נוסף, תכף נדבר על זה כשנדבר על rsn.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:21:44.600",
+      "offset_end": "0:21:45.400",
+      "text": "פונקציה הופכית, אנחנו צריכים מידע נוסף, תכף נדבר על זה כשנדבר על RSA.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:21:51.600",
+      "offset_end": "0:22:00.400",
+      "text": "פונקציה אחרת, פונקציה, זאת אומרת, אם אני אחזור רגע חזרה, נניח שיש לי את x בחזקת b מוד n, ואני רוצה לגלות את x, זה קשה, אוקיי? זה קשה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:22:01.100",
+      "offset_end": "0:22:08.500",
+      "text": "פונקציה שמבוססת על הלוגריתם הדיסקרטי, תשימו לב, זו פונקציה מאוד דומה לפונקציה שראינו בשקף הקודם.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:22:08.500",
+      "offset_end": "0:22:14.200",
+      "text": "בשקף הקודם ה-X הוא בבסיס החזקה, בשקף הזה X הוא במעריך החזקה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:22:14.200",
+      "offset_end": "0:22:24.200",
+      "text": "אז עכשיו יש לי לא n שהוא מכפלה של שני ראשונים, יש לי q שהוא מספר ראשוני, יש לי מספר a שזר ל-q, והפונקציה היא, כן?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:22:24.200",
+      "offset_end": "0:22:29.200",
+      "text": "איך אני מפעיל את הפונקציה על x? מעלה את A בחזקת X. אוקיי?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:22:29.200",
+      "offset_end": "0:22:37.800",
+      "text": "אז הפונקציה של X, כן, היא להעלות את A, שידוע לכולם, בחזקת X. אוקיי?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:22:37.800",
+      "offset_end": "0:22:48.520",
+      "text": "נניח שיש לי את A בחזקת X ואני יודע את Q, לגלות מזה את X זה יהיה קשה. אז זו פונקציה גם כן חד-כיוון.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:22:48.520",
+      "offset_end": "0:22:58.720",
+      "text": "אז זה הרעיון בצופנים פומביים, לקחת, לגלות איזושהי פונקציה שהיא חד-כיוונית,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:22:58.720",
+      "offset_end": "0:23:11.500",
+      "text": "ועם דלת צודית. זאת אומרת, שאם יש עוד איזשהו מידע נוסף, אפשר לפתור, כן לגלות את הפונקציה ההופכית, אוקיי? וזה מה שאנחנו יכולים...",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:23:11.500",
+      "offset_end": "0:23:14.000",
+      "text": "ואיך אני אמור להעביר את המידע הנוסף?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:23:16.000",
+      "offset_end": "0:23:25.720",
+      "text": "אוקיי, שאלה טובה, איך אתה אמור להעביר את ה... אתה לא מעביר את המידע הנוסף, המידע הנוסף נמצא אצל מי שאמור לפענח, הוא לא מעביר אותו לאף אחד.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:23:26.640",
+      "offset_end": "0:23:31.200",
+      "text": "הוא כן מעביר לכולם את הפונקציה, את הפונקציה F הוא מפרסם לכולם.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:23:32.000",
+      "offset_end": "0:23:34.600",
+      "text": "אבל הוא לא מפרסם לכולם את המידע הנוסף.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:23:34.840",
+      "offset_end": "0:23:42.920",
+      "text": "אז זה יוצר מצב שכולם יכולים להשתמש בפונקציה F, זאת אומרת, כולם יכולים להצפין, כי הפונקציה F היא פונקציית העצפנה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:23:43.880",
+      "offset_end": "0:23:47.240",
+      "text": "אבל רק לי יש את המידע הנוסף כדי לפענח את זה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:23:47.360",
+      "offset_end": "0:23:49.080",
+      "text": "אני לא מעביר את המדע הזה לאף אחד.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:23:50.840",
+      "offset_end": "0:23:52.320",
+      "text": "זה ברור הרעיון?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:23:52.720",
+      "offset_end": "0:23:56.960",
+      "text": "כאילו אני אומר לכולם איך להצפין בשביל לשלוח לי, ורק אני אוכל לפענח?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:23:57.400",
+      "offset_end": "0:23:58.080",
+      "text": "בדיוק.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:23:58.920",
+      "offset_end": "0:24:06.600",
+      "text": "כן. אני יוצר פונקציה F, שהיא פונקציה חד-כיוונית עם טרפדור,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:24:07.400",
+      "offset_end": "0:24:11.300",
+      "text": "אני מפרסם לכולם את הפונקציה החד-כיוונית, אבל אני לא מפרסם את הטרפדור.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:24:11.300",
+      "offset_end": "0:24:13.400",
+      "text": "את הטרפדור אני שומר אצלי.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:24:14.400",
+      "offset_end": "0:24:16.000",
+      "text": "אגב, זה מה ש...",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:24:16.500",
+      "offset_end": "0:24:19.800",
+      "text": "מה פה המידע הנוסף שעוזר לפתור את הפונקציה הזו?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:24:21.000",
+      "offset_end": "0:24:24.500",
+      "text": "אנחנו נראה בדוגמאות, אבל יש עוד מידע נוסף שעוזר לפתור את זה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:24:24.500",
+      "offset_end": "0:24:31.400",
+      "text": "כן? אבל אני רוצה להגיד, אם אתם זוכרים את הסיפור על הצופן דז,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:24:31.400",
+      "offset_end": "0:24:35.360",
+      "text": "שאמרתי, צופן דז בסופו של דבר הוא אמנם מוצב על ידי IBM,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:24:35.360",
+      "offset_end": "0:24:40.160",
+      "text": "אבל בעצה אחת, ותוך כדי זה תהליך פיתוח ביחד עם ה-NSA.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:24:40.160",
+      "offset_end": "0:24:51.900",
+      "text": "ותיאוריות הקונספירציה אומרות, כן, הם פרסמו לנו פונקציית חד-כיוונית, שזה פונקציית העצפנה, אבל להם יש טראפטור, הם חשבו על איזשהו טראפטור ושומרים אותו אצלם,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:24:51.900",
+      "offset_end": "0:25:29.600",
+      "text": "כך שהם יוכלו ליירט כל ידיעה, לפענח כל ידיעה, שמישהו אי פעם יצפין בדז. זאת הייתה תיאוריות הקונספירציה. כנראה שהיא לא הייתה נכונה, אוקיי? כנראה שהיא לא הייתה נכונה, אבל זה היה החשד. אבל בצופן קומבי... זה מבוסס? כאילו יש... כן? אני שואל אם ההשערה הזאת, הקונספירציה הזאת היא מבוססת? כאילו גם שירו מה הטרפדו או שסתם אמרו אולי יש טרפדו? לא שירו, לא היו השערות, היו כל מיני התחלות של דיונים, הסתכלו על האסבוקסס,",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:25:29.600",
+      "offset_end": "0:25:35.880",
+      "text": "ועשו כל מיני חישובים, ועשו כל מיני סטטיסטיקות על האסבוקסס, אבל לא הגיעו לשום דבר מעשי.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:25:36.880",
+      "offset_end": "0:26:07.440",
+      "text": "אבל פה זה רשמי, פה אנחנו אומרים כן, זאת פונקציית טרפדור, יש פה טרפדור, אני שומר לעצמי את התפתחות. זאת אומרת, כל מה שמישהו יצפין בשבילי, אני אדע לפענח. אני לא אדע לפענח מה שמישהו יצפין בשביל מישהו אחר, כי שם זה טרפדור אחר, ורק לא יש אותו. אוקיי? אז זה הרעיון. עוד דעה קטנה, אפשר לחשוב על זה בעצם כמו שתי מפתחות, אז זה בעצם מנעול ומפתח.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:26:07.440",
+      "offset_end": "0:26:13.560",
+      "text": "כאילו הציבורי יאומין, מנעול, קחו, תנהלו את הדברים, ואני, יש לי את המפתח למנעול. זה משהו כזה בעצם.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:26:13.560",
+      "offset_end": "0:26:29.800",
+      "text": "כן, זה רעיון, זה דימוי, זה אנלוגיה מאוד טובה. זאת אומרת, כל אחד, תחשבו על מנעול קפיצי, כן? לא מנעול רגיל, מנול קפיצי. אתם מכירים את המנולים הקפיציים, שכל אחד יכול ללחוץ ולנעול את המחלול, נו אבל עכשיו אני צריך מפתח בשביל לפתוח אותו.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:26:31.800",
+      "offset_end": "0:26:34.900",
+      "text": "אוקיי? אז זה דימוי מאוד טוב, כן.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:26:37.500",
+      "offset_end": "0:26:38.200",
+      "text": "אוקיי.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:26:38.900",
+      "offset_end": "0:26:40.800",
+      "text": "דני, אנחנו נעשה היום הפסקה?",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    },
+    {
+      "offset_start": "0:26:42.100",
+      "offset_end": "0:26:57.000",
+      "text": "אפשר לעשות עכשיו הפסקה של חמש דקות, אתה יודע מה רוצים? כן? כן, אולי... אז בוא נגיד עד אחד וחמישה, בסדר? הזמן שלי מידוד, בסדר? אז עד אחד וחמישה. סגור, תודה.",
+      "lang": "he",
+      "type": "audio",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1173980"
+    }
+  ]
+}
