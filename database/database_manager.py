@@ -1,4 +1,5 @@
 import json
+import os
 from typing import List, Dict, Any
 
 from langchain.schema import Document
@@ -6,18 +7,20 @@ from langchain.vectorstores import FAISS, Pinecone
 from langchain.embeddings import HuggingFaceEmbeddings
 
 
+SHARE_FOLDER_PATH = 'shared_folder/chunked_transcriptions/combined_transcriptions_chunks.json'
+
 class DataLoader:
     ''' Class to load data from a JSON file. '''
-    def __init__(self, file_path: str):
-        self.file_path = file_path
 
-    def load_data(self) -> List[List[Dict[str, Any]]]:
+    def read_json_file(self) -> List[List[Dict[str, Any]]]:
         ''' Load data from a JSON file. '''
-        with open(self.file_path, "r", encoding='utf-8') as file:
+        #TODO: run the chunking script before running this method
+        with open(SHARE_FOLDER_PATH, 'r', encoding='utf-8') as file:
             data = json.load(file)
-        return data
+        return data['data']
 
-    def data_to_documents(self, data: Dict[str, List[Dict[str, str]]]) -> List[Document]:
+
+    def data_to_document_objects(self, data: Dict[str, List[Dict[str, str]]]) -> List[Document]:
         '''
         Transforms data into a list of Document objects.
     
@@ -55,56 +58,116 @@ class DataLoader:
             doc = Document(page_content=text, metadata=metadata)
             documents.append(doc)
         return documents
+    
+
+    def process_data_from_shared_folder(self) -> List[Document]:
+        ''' 
+        Load data from a JSON file and process it into a list of Document objects.
+
+        Returns:
+            List[Document]: List of Document objects.
+        '''
+        data = self.read_json_file()
+        return self.data_to_document_objects(data)
 
 
-# **EmbeddingHandler** class
-class EmbeddingHandler:
-    def __init__(self, config: Dict[str, Any]):
-        self.config = config
-        self.embedding_model = self.initialize_embeddings()
 
-    def initialize_embeddings(self):
-        embedding_type = self.config['embedding_type']
-        if embedding_type == 'huggingface':
-            model_name = self.config.get('embedding_model_name')
-            return HuggingFaceEmbeddings(model_name=model_name)
+
+PINCONE_ENVIRONMENT = 'us-west1-gcp'
+PINCONE_INDEX_NAME = 'langchain-rag'
+
+class DataBaseHandler:
+    def __init__(self, embeddings_model_config: str, embeddings_database_config: str):
+        self.data_loader = DataLoader()
+        self.embeddings_model = self.initialize_embedding_handler(embeddings_model_config)
+        self.embeddings_database = self.initialize_embeddings_database(embeddings_database_config)
+
+
+    def initialize_embedding_handler(self, embeddings_model_config=None):
+        
+        # use the default faiss is used as the embeddings model, if no model is specified
+        if embeddings_model_config is None:
+            return None 
+        return HuggingFaceEmbeddings(model_name=embeddings_model_config)
+        
+
+    def initialize_embeddings_database(self, embeddings_database_config):
+        '''
+        Initialize the embeddings database based on the configuration. 
+
+        Returns:
+            ???
+        '''
+
+
+        #TODO: check if a SQL is already saved
+        documents = self.data_loader.process_data_from_shared_folder()
+
+        if documents == []:
+            raise ValueError("No documents to add to the database.")
+        
+        if embeddings_database_config == 'faiss':
+            database = FAISS.from_documents(documents, self.embeddings_model)
+        elif embeddings_database_config == 'pinecone':
+            database = self.initialize_pinecone()
         else:
-            raise ValueError(f"Unsupported embedding type: {embedding_type}")
+            raise ValueError(f"Unsupported vector store type: {self.config}")
+        
+        self.remove_processed_transcriptions()
+        return database
 
-
-# TODO : save the vector store to a file and load it from the file
-class VectorStoreHandler:
-    def __init__(self, config: Dict[str, Any], embeddings, documents: List[Document]):
-        self.config = config
-        self.embeddings = embeddings
-        self.documents = documents
-        self.vector_store = self.initialize_vector_store()
-
-    def initialize_vector_store(self):
-        vector_store_type = self.config['vector_store_type']
-        if vector_store_type == 'faiss':
-            return FAISS.from_documents(self.documents, self.embeddings)
-        elif vector_store_type == 'pinecone':
-            return self.initialize_pinecone()
-        else:
-            raise ValueError(f"Unsupported vector store type: {vector_store_type}")
 
     def initialize_pinecone(self):
         pinecone_api_key = os.environ.get('PINECONE_API_KEY')
         pinecone.init(
             api_key=pinecone_api_key,
-            environment=self.config.get('pinecone_environment', 'us-west1-gcp')
+            environment=PINCONE_ENVIRONMENT
         )
-        index_name = self.config.get('index_name', 'langchain-rag')
 
-        if index_name not in pinecone.list_indexes():
-            dimension = len(self.embeddings.embed_query("Test"))
+        if PINCONE_INDEX_NAME not in pinecone.list_indexes():
+            dimension = len(self.embeddings.embed_query("Test")) #TODO: What is this test?
             pinecone.create_index(
-                name=index_name, metric="cosine", dimension=dimension)
-            index = pinecone.Index(index_name)
+                name=PINCONE_INDEX_NAME, metric="cosine", dimension=dimension)
+            index = pinecone.Index(PINCONE_INDEX_NAME)
             Pinecone.from_documents(
-                self.documents, self.embeddings, index_name=index_name)
-        return Pinecone.from_existing_index(index_name, self.embeddings)
+                self.documents, self.embeddings, index_name=PINCONE_INDEX_NAME)
+        return Pinecone.from_existing_index(PINCONE_INDEX_NAME, self.embeddings)
+            
 
-    def similarity_search_with_score(self, query: str, k: int = 4):
-        return self.vector_store.similarity_search_with_score(query, k=k)
+    def search(self, query: str, k: int = 4):
+        return self.embeddings_database.similarity_search_with_score(query, k=k)
+    
+    
+    def remove_processed_transcriptions(self):
+        '''
+        Remove all chunked transcriptions from the shared file.
+        '''
+        with open(SHARE_FOLDER_PATH, "r+") as file:
+            data = json.load(file)
+            data['data'] = []
+            file.seek(0)
+            json.dump(data, file, indent=2)
+            file.truncate()
+
+        
+    def update_database(self):
+        '''
+        Check for new documents in the shared json file and add them to the database.
+        '''
+        new_documents = self.data_loader.process_data_from_shared_folder()
+        if new_documents:
+            #TODO: Test this method !!!
+            self.embeddings_database.add_documents(new_documents) 
+            self.remove_processed_transcriptions()
+
+
+    def save_database(self):
+        '''
+        Save the SQL database to a file.
+        '''
+        pass #TODO: Implement this method
+
+
+        
+
+

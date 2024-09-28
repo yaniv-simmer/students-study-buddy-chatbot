@@ -1,0 +1,20 @@
+{"configs" : 
+    [
+        {
+            "language": "hebrew",
+            "embedding_model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+            "data_base_handler": "faiss",
+            "llm_type": "huggingface",
+            "llm_model_name": "bigscience/mt0-base",
+            "huggingface_model_kwargs": {"temperature": 0.8, "max_length": 20}
+        },
+        {
+            "language": "english",
+            "embedding_model_name": "sentence-transformers/distiluse-base-multilingual-cased-v1",
+            "data_base_handler": "faiss",
+            "llm_type": "huggingface",
+            "llm_model_name": "google/flan-t5-large",
+            "huggingface_model_kwargs": {"max_new_tokens": 250, "temperature": 0.7}
+        }
+    ]
+}
