@@ -32,12 +32,12 @@ class DataLoader:
             Each document object contains the next attributes:
             - page_content: str
             - metadata: Dict[str, Any]
-            - metadata contains the next attributes:
-                - type: str
-                - ref: str
-                - offset_start: str
-                - offset_end: str
-                - lang: str
+                - metadata contains the next attributes:
+                    - type: str
+                    - ref: str
+                    - offset_start: str
+                    - offset_end: str
+                    - lang: str
         '''
         documents = []
         for item in data:
