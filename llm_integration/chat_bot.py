@@ -77,6 +77,11 @@ class ChatBot:
     A class to represent the ChatBot.
 
     '''
+    #TODO: the chatbot should be able to keep running while new data is being added to the vector store
+    #TODO: the chatbot should warn the user if the answer is not accurate enough
+    #TODO: try milvus 
+    #TODO: check if llm can get a 'context' parameter? whats Q&A?
+    #TODO: use radas !!
     def __init__(self, llm_model_name: str, language_config: str, model_kwargs: Dict[str, Any] = {}):
         self.llm_handler = LLMHandler(llm_model_name, model_kwargs)
         self.prompt_manager = PromptManager(language_config)
