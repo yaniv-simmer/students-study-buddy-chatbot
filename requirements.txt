@@ -1,0 +1,6 @@
+moviepy
+torch
+transformers
+APScheduler
+ragas
+python-dotenv
