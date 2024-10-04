@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import scrolledtext
 import requests
 import json
+import webbrowser
 
 class ChatbotApp:
     def __init__(self, root):
@@ -57,14 +58,23 @@ class ChatbotApp:
                 for key, value in metadata.items():
                     self.response_area.insert(tk.INSERT, f"Document {key}:\n")
                     self.response_area.insert(tk.INSERT, f" - Type: {value[0]['type']}\n")
-                    self.response_area.insert(tk.INSERT, f" - Reference: {value[0]['ref']}\n")
+                    self.response_area.insert(tk.INSERT, f" - Reference: \n")
+                    self.response_area.insert(tk.INSERT, f"{value[0]['ref']}\n", "link")
+                    self.response_area.tag_config("link", foreground="blue", underline=True)
+                    self.response_area.tag_bind("link", "<Button-1>", self.open_link)
                     self.response_area.insert(tk.INSERT, f" - : {value[1]}\n")
+                    self.response_area.insert(tk.INSERT, f" - offset start: {value[0]['offset_start']}\n")
+                    self.response_area.insert(tk.INSERT, f" - offset end: {value[0]['offset_end']}\n")
                     self.response_area.insert(tk.INSERT, f" - Content: {value[2]}\n\n")
+
             else:
                 self.response_area.insert(tk.INSERT, "No metadata available.\n")
 
         except requests.exceptions.RequestException as e:
             self.response_area.insert(tk.INSERT, f"Error: {e}")
+
+    def open_link(self, event):
+        webbrowser.open_new(event.widget.get("insert linestart", "insert lineend"))
 
 if __name__ == "__main__":
     # Create the main Tkinter window
