@@ -1,0 +1,2272 @@
+{
+    "data": [
+        {
+            "offset_start": "0:00:00.880",
+            "offset_end": "0:00:02.120",
+            "text": "שלום לכולם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:03.320",
+            "offset_end": "0:00:06.880",
+            "text": "היום אנחנו נתחיל נושא חדש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:06.880",
+            "offset_end": "0:00:09.880",
+            "text": "לפני כן, מי שיכול לפתוח מצלמה, שיפתח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:12.240",
+            "offset_end": "0:00:14.680",
+            "text": "והיום נתחיל נושא חדש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:15.680",
+            "offset_end": "0:00:20.840",
+            "text": "נתחיל ללמוד לקראת הנושא של מפתחות פומביים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:21.280",
+            "offset_end": "0:00:31.000",
+            "text": "ולפני כן, מכיוון שכל העבודה עם מפתחות פומביים מבוססת על אלגברה, או מה שנקרא אלגברה מודרנית, או תורת המספרים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:31.000",
+            "offset_end": "0:00:47.100",
+            "text": "אז אני רוצה לעשות איזו תזכורת קצרה מהנושא הזה, הרוב זה דברים שאתם אמורים לדעת מקורסים קודמים, אבל לא כל מה שאמורים לדעת באמת זוכרים, אז אני אעשה סקירה כזאת של תזכורת של הנושא הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:48.100",
+            "offset_end": "0:00:52.100",
+            "text": "אוקיי, אז בואו ניגש למצגת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:54.900",
+            "offset_end": "0:01:14.000",
+            "text": "איזושהי, כן, אז אנחנו, אני עכשיו אזכור בקצרה כמה עובדות מתורת המספרים, שוב, זה עובדות שאתם אמורים לפגוש בחצי הראשון של קורס באלגברה מודרנית, אולי גם בקורסים אחרים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:14.000",
+            "offset_end": "0:01:30.240",
+            "text": "ואנחנו צריכים את המושגים האלה, זה לא מושגים מסובכים, אוקיי? אז רגע, כן. אז כשאנחנו מדברים על המספרים, אנחנו מתכוונים למספרים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:30.240",
+            "offset_end": "0:01:34.360",
+            "text": "כשמדברים על תורת המספרים, מתכוונים למספרים השלמים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:34.360",
+            "offset_end": "0:01:40.720",
+            "text": "לפעמים מדובר במספרים החיוביים, השלמים החיוביים, לפעמים המספרים הטבעיים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:40.720",
+            "offset_end": "0:01:43.560",
+            "text": "שזה השלמים החיוביים שכוללים גם את האפס.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:43.560",
+            "offset_end": "0:01:50.500",
+            "text": "אז לפעמים אני אגיד אנחנו מדברים על מספרים חיוביים, לפעמים אנחנו נדבר על מספרים שלמים באופן כללי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:50.500",
+            "offset_end": "0:02:11.000",
+            "text": "ואז אנחנו, אם יש לנו שני מספרים, מתי אנחנו אומרים ש-a מחלקת b? אם b הוא כפולה של a, זאת אומרת שאני יכול למצוא איזה מספר שלישי c, כך ש-a כפול C שווה B, והסימון הוא A קו ניצב B, אוקיי? אז אתם בטח מכירים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:13.000",
+            "offset_end": "0:02:35.000",
+            "text": "מה עוד אנחנו יודעים? אם D מחלק משותף של A ו-B, אז D מחלק כל צירוף לינארי של A ו-B, לכל... כל המספרים שאני מדבר עליהם הם עכשיו שלמים, הם שלמים. אז לכל S ו-T, D מחלק גם את S, A ועוד T, B, וזה לא קשה להראות את זה, אז אני אשאיר את זה לכם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:35.000",
+            "offset_end": "0:02:54.000",
+            "text": "המושג הבא זה המושג של קונגרואנציה, יש לי שני מספרים שלמים, ומספר נוסף שהוא חיובי, מתי, אז כשאני אומר a קונגרואנטי ל-b מודולו n,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:54.000",
+            "offset_end": "0:03:06.600",
+            "text": "אז קודם כל ההנחה היא ש-n הוא מספר חיובי, ומתי זה מתקיים? אם n מחלק את ההפרש בין A ל-B. וזה הסימול, אתם יודעים, כן? ה-A שלושה קווים בי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:06.600",
+            "offset_end": "0:03:13.100",
+            "text": "ובעצם זה אומר, A קונגרואנטי ל-B מודולו N, זה אומר של-A ול-B אותה שערית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:13.100",
+            "offset_end": "0:03:30.400",
+            "text": "כשמחלקים אותם ב-N, הם נותנים אותה שערית. אוקיי? אז למשל, 7 קונגרואנטי ל-, מודולו 6, נכון? 54, כי 7 זה 6 ועוד 1, 54 קונגורנטי ל-6, מודולו 12, נכון?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:30.400",
+            "offset_end": "0:03:47.000",
+            "text": "כי 54 זה 6 ועוד כפולה של 12, כן? ועוד 48, ו-21 קונגורנטי לאפס, מודולו 7, זה אומר ששבע מחלק את עשרים ואחד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:53.300",
+            "offset_end": "0:03:56.700",
+            "text": "כשיש לי שני מספרים, אז אתם יודעים, כשבמספרים שלמים אי אפשר תמיד לחלק בין שני מספרים, כי לפעמים החלוקה היא לא שלמה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:57.200",
+            "offset_end": "0:04:00.500",
+            "text": "אבל תמיד אפשר להפעיל אלגוריתם חילוק בין שני מספרים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:00.500",
+            "offset_end": "0:04:10.000",
+            "text": "מה זה אומר? אם יש לי שני מספרים חיוביים, אז אני יכול, a ו-b, אז אני יכול לכתוב את a בצורה, באופן יחיד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:10.000",
+            "offset_end": "0:04:25.600",
+            "text": "כאיזשהו q כפול b ועוד r, כך ש-r הוא בין 0 ל-b פחות 1. אז אם אני מגביל את r להיות בין 0 ל-b פחות 1, אז r ו-q הם יחידים, וזה נקרא אלגוריתם החילוק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:25.600",
+            "offset_end": "0:04:32.800",
+            "text": "r הוא בעצם השארית של b, של a, כשאני מחלק אותו ב-b.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:32.800",
+            "offset_end": "0:04:50.000",
+            "text": "אוקיי? כשאני מחלק את a ב-b, את a ב-b, אז השארית שאני מקבל היא r. אוקיי? דוגמאות. כן, אז בעצם r הוא המספר האישלילי הקטן ביותר שקונגרואנטי ל-a מודולו b.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:50.400",
+            "offset_end": "0:04:56.500",
+            "text": "ולפעמים את ה-r הזה, את השערית הזאת, מסמנים ב-a מוד b, ככה כותבים את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:57.100",
+            "offset_end": "0:05:03.300",
+            "text": "כן, אז השערית של a בחילוק ב-b זה r, ומסמנים אותו גם a מוד b.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:03.300",
+            "offset_end": "0:05:30.000",
+            "text": "דוגמאות, אם אני מחלק את 57 ב-11, אז אני מקבל 57 זה 5 כפול 11 ועוד 2, השארית היא 2. כן? q זה 5, r זה 2. כן? אם אני מחלק את 60 ב-12, אז 60 מתחלק ב-פול שתיים עשרה ועוד אפס, אז ארבע מקרה זהו אפס, והשארית היא אפס.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:32.000",
+            "offset_end": "0:05:54.000",
+            "text": "אוקיי, אנחנו יודעים מתי מספר מחלק מספר אחיותר של שני מספרים, רשת אבות מגב בעברית, או GCD באנגלית, greatest common divisor,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:54.000",
+            "offset_end": "0:06:10.860",
+            "text": "אז המחלק המשותף הגדול ביותר של A ו-B הוא המספר ארכיבי D שהוא מקיים, קודם כל D הוא מחלק משותף של A ו- b, הוא מחלק את שניהם, וכל מחלק אחר של a ו b מחלק גם את d, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:10.860",
+            "offset_end": "0:06:15.560",
+            "text": "אז d הוא המחלק המשותף הגדול ביותר, וזה אומר שהוא מחלק את שניהם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:15.560",
+            "offset_end": "0:06:27.960",
+            "text": "וזה אומר שכל מספר אחר שמחלק את a ו b מחלק גם את d. וזה הסימון GCD AB. כן, עובדה מהקורס באלגברה מודרנית, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:28.440",
+            "offset_end": "0:06:33.660",
+            "text": "אם D הוא המחלק המשותף של A ו-B, אז אני יכול למצוא S ו-T,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:33.960",
+            "offset_end": "0:06:40.160",
+            "text": "כך שאפשר לכתוב את D כ-A כפול S ועוד B כפול T.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:41.260",
+            "offset_end": "0:06:47.600",
+            "text": "כן? אז את המחלק המשותף הגדול ביותר, אפשר לכתוב בצורה כזאת. מחלקים יותר קטנים אי אפשר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:47.600",
+            "offset_end": "0:06:56.200",
+            "text": "זה, זה, מחלק המשותף הגדול ביותר זה המספר הקטן ביותר, החיובי הקטן ביותר שאפשר לכתוב בצורה כזאת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:56.200",
+            "offset_end": "0:07:10.140",
+            "text": "עכשיו, s וt כמובן יכולים להיות שליליים, כן? הם בדרך כלל, אחד מהם לפחות יהיה, אחד מהם יהיה שלילי, כי אם a ו b הם מספרים שלמים חיוביים, אז d הוא בדרך כלל קטן או שווה להם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:10.140",
+            "offset_end": "0:07:16.740",
+            "text": "אז כדי שאני אקבל את d כצירוף לינארי של a ו b, אז אחד מהם כמובן חייב להיות שלילי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:16.740",
+            "offset_end": "0:07:21.900",
+            "text": "ו-s ו-t האלה נקראים מקדמי בזו, ככה הם נקראים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:21.900",
+            "offset_end": "0:07:27.500",
+            "text": "והמספרים שמקבלים בחזור מהאלגוריתם של ה-GCB, זה זה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:27.500",
+            "offset_end": "0:07:35.800",
+            "text": "המספרים, כן, יש את האלגוריתם, תכף נדבר על זה, יש אלגוריתם אוקלידס המורחב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:35.800",
+            "offset_end": "0:07:38.500",
+            "text": "שאלה המספרים שאתם מקבלים, כן, תכף נדבר על זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:38.500",
+            "offset_end": "0:07:45.600",
+            "text": "אז באמת זה הדבר הבא, זאת אומרת, איך אני, קודם כל איך אני מוצא את המחלק המשותף הגדול ביותר?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:45.600",
+            "offset_end": "0:07:51.000",
+            "text": "אז יש את האלגוריתם אוקלידס, פוגשים אותו בקורס הראשון במבוא למדעי המחשב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:51.000",
+            "offset_end": "0:07:57.100",
+            "text": "כן, זה אלגוריתם שאפשר לכתוב אותו איטרטיבית או רקורסיבית, ואיך הוא נראה? הוא נראה כך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:57.100",
+            "offset_end": "0:08:01.400",
+            "text": "כן, יש לי, בוא נניח ש-A גדול מ-B, ושניהם חיוביים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:01.400",
+            "offset_end": "0:08:09.000",
+            "text": "ואני רוצה, אז אני עכשיו מריץ איטרציות, כן? כדי למצוא את הממגף שלהם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:09.000",
+            "offset_end": "0:08:18.500",
+            "text": "אז בואו נגיד, אז אני בונה סדרה של r'ים, של מספרים r1, או סדרה של מספרים r, ri באופן כללי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:18.500",
+            "offset_end": "0:08:28.200",
+            "text": "כשה-r ראשון, r0 זה a, והשני, r1 זה b, ועכשיו אני מתחיל לעשות, להפעיל את האלגוריתם החילוק, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:28.200",
+            "offset_end": "0:08:38.100",
+            "text": "אז A שווה ל-Q1B ועוד R2, כי B זה R1, אז השארית שאני אקבל פה זה R2, ועכשיו אני ממשיך, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:38.100",
+            "offset_end": "0:08:54.500",
+            "text": "R1 ו-R2 עוברים להיות R0 ו-R1, אז R1 שווה ל-Q2, r2 ועוד r3 וכן הלאה, ומתי אני עוצר? אני עוצר ברגע שאני מקבל שערית 0.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:54.500",
+            "offset_end": "0:09:08.000",
+            "text": "וברגע שקיבלתי שערית 0, אז... רגע... שערית 1, לא? לא. שארית אחד, אוקיי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:08.200",
+            "offset_end": "0:09:12.600",
+            "text": "הנה, ברגע שאני מקבל שארית אפס, כן, פה כבר לא קיבלתי שארית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:12.800",
+            "offset_end": "0:09:16.400",
+            "text": "אז השארית האחרונה, הקודמת שקיבלתי היא הממגב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:17.900",
+            "offset_end": "0:09:22.500",
+            "text": "אם הממגב הוא אחד, אני אקבל שארית אחד, אבל לא תמיד הממגב הוא אחד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:22.700",
+            "offset_end": "0:09:24.200",
+            "text": "אז לא תמיד אני אקבל שארית אחד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:24.400",
+            "offset_end": "0:09:26.700",
+            "text": "אם הממגב הוא לא אחד, אני לא אקבל שארית אחד, אבל לא תמיד הממגב הוא אחד, אז לא תמיד אני אקבל שארית אחד. אם הממגב הוא לא אחד, אני לא אקבל שארית אחד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:27.400",
+            "offset_end": "0:09:33.500",
+            "text": "אוקיי? הממגב הולך וקטן, שימו לב שהמספרים האלה, R2, R3 וכן הלאה, הם הולכים וקטנים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:33.900",
+            "offset_end": "0:09:43.500",
+            "text": "בסוף זה יגיע לאפס. זה לא יכול לא להגיע לאפס, כי יש לי סדרה של מספרים חיוביים, שלמים חיוביים, שהולכת וקטנה, בסוף אני אגיע לאפס.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:43.900",
+            "offset_end": "0:09:52.800",
+            "text": "אז המספר שקיבלתי לפני האפס הוא הממגב. אוקיי? תכף נראה דוגמה. אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:52.800",
+            "offset_end": "0:10:01.300",
+            "text": "עכשיו, קיבלתי ממגב, כן? ברגע שכן, RM ועוד אחד פה הוא אפס, אז RM זה הממגב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:01.300",
+            "offset_end": "0:10:09.700",
+            "text": "ואני רוצה, מסיבות שאנחנו נבין בהמשך, לייצג אותו עם מקדמי בזו, זאת אומרת, אני רוצה לכתוב את הממגב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:09.700",
+            "offset_end": "0:10:12.700",
+            "text": "כאיזשהו S כפול A ועוד T כפול B.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:12.700",
+            "offset_end": "0:10:20.200",
+            "text": "אז אני רוצה למצוא את מקדמי בזו, אז כדי למצוא את מקדמי בזו, יש לי את האלגוריתם אוקלידס, כן, זה הממגב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:20.200",
+            "offset_end": "0:10:23.100",
+            "text": "יש לי את האלגוריתם אוקלידס המורחב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:23.100",
+            "offset_end": "0:10:30.400",
+            "text": "אז האלגוריתם אוקלידס המורחב זה בדיוק אותו אלגוריתם, אוקיי? עם ה-Qים וה-Rים, זה בדיוק אותו אלגוריתם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:30.400",
+            "offset_end": "0:10:38.500",
+            "text": "אבל על הדרך אני מוסיף עוד שתי סדרות, אוקיי? אני מוסיף סדרה של Sים וסדרה של Tים, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:38.500",
+            "offset_end": "0:10:55.000",
+            "text": "אז יש לי סדרה של Qים, יש לי סדרה של Rים, ואני מוסיף עוד שתי סדרות של s'ים וt'ים, סדרות סדרות רקורסיביות, שבהם האיבר ה-i ועוד 1 זה האיבר ה-s פחות 1 פחות ה-q המתאים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:55.000",
+            "offset_end": "0:11:09.000",
+            "text": "אוקיי, האיבר ה-i ועוד 1 זה האיבר ה-s פחות 1, ה-i פחות 1 פחות ה-q המתאים כפול האיבר ה-I. ושימו לב שזאת אותה סדרת נסיגה עבור S'ים וT',",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:09.000",
+            "offset_end": "0:11:11.700",
+            "text": "אבל אני לא מקבל את אותה סדרה של S'ים וT'ים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:11.700",
+            "offset_end": "0:11:16.100",
+            "text": "בגלל שהאיברים הראשונים הם לא אותם איברים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:16.100",
+            "offset_end": "0:11:24.300",
+            "text": "כן, אז שימו לב שהסדרה היא סדרת נסיגה, סדרה רקורסיבית, היא בנויה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:24.300",
+            "offset_end": "0:11:29.600",
+            "text": "כל איבר הוא פונקציה של השניים שקדמו,, כמו במספרי פיבונאצ'י למשל, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:29.600",
+            "offset_end": "0:11:35.500",
+            "text": "זאת סדרה שכל מספר הוא תלוי בשניים שקדמו לו, אז אני צריך להגדיר את השניים הראשונים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:35.500",
+            "offset_end": "0:11:40.500",
+            "text": "אז ב-S הראשון הוא 1 והשני הוא 0, וב-T הראשון הוא 0 והשני הוא 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:42.500",
+            "offset_end": "0:11:56.500",
+            "text": "בסדר? אז ברגע שאני מקבל rk ועוד 1 שווה 0, אז rk הוא הממגב, זה שקדם לו, ואז מסתבר ש-rk זה sak ועוד btk, אני לא הוכיח את זה כאן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:56.500",
+            "offset_end": "0:12:03.800",
+            "text": "אתם הייתם אמורים לראות הוכחה לזה באלגברה מודרנית, אבל כדי להבין בואו נראה דוגמה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:03.800",
+            "offset_end": "0:12:10.300",
+            "text": "נניח שאני צריך לחשב את הממגב של 38 ו-250 ושום, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:10.300",
+            "offset_end": "0:12:13.600",
+            "text": "שני מספרים שנגמרים בשמונה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:13.600",
+            "offset_end": "0:12:17.200",
+            "text": "אז אנחנו רואים שהם שניהם חיוביים, אז הממגב הוא לפחות 2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:17.200",
+            "offset_end": "0:12:20.600",
+            "text": "שניהם זוגיים, אז הממגב הוא לפחות 2, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:20.600",
+            "offset_end": "0:12:24.900",
+            "text": "אז בואו נראה, אז אני מתחיל, מגדיר סדרה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:24.900",
+            "offset_end": "0:12:50.700",
+            "text": "אז r0 זה 258, r1 זה 38, s0 זה 1, s1 זה 0, t0 זה 1, t1 זה, סליחה, t0 זה 0, t1 זה 1, אוקיי? אז זאת ההתחלה, זו המצבה ההתחלתי, ועכשיו אני מתחיל לבנות את הסדרות שלי, אוקיי? אז q עוד אין לי, כי אני עוד לא עשיתי אלגוריתם חילוק, אז עוד אין לי את q.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:50.700",
+            "offset_end": "0:13:09.000",
+            "text": "אבל q הוא תמיד בפאזה אחת אחורה, אוקיי? אז אם אני עושה את האלגוריתם החילוק, אז אני מקבל ש-258 זה 6 כפול 38 ועוד 30, זה האלגוריתם החילוק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:09.000",
+            "offset_end": "0:14:36.500",
+            "text": "ואז זה אומר שה-Q1 זה 6, כי פה I זה 2, אז q1 זה 6, אז אנחנו רואים ש-r2 זה 30, אוקיי, ולפי נוסחת הנסיגה, s2 זה s0 פחות q1 כפול s1, נותן 1, לפי נוסחת הנסיגה, פחות 1 כפול 1 זה מינוס 1, ו-t3 זה 1 פחות 1, שזה q הוא 2 כפול t2, אנחנו מקבלים 7.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:36.500",
+            "offset_end": "0:14:48.500",
+            "text": "אוקיי, אז הסימן התחלף, פה קודם הוא היה שלילי, עכשיו הוא חיובי, ואנחנו ממשיכים ככה, עכשיו אני צריך לעשות אלגוריתם חילוק בין 30 לבין 8, אז 30 זה 3 כפול 8 ועוד 6,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:48.500",
+            "offset_end": "0:14:58.500",
+            "text": "ואנחנו ממשיכים לקבל, לחשב את הסדרות האלה, אנחנו קבלים את המספרים בהתאם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:58.500",
+            "offset_end": "0:15:15.800",
+            "text": "ובסוף אנחנו מגיעים לשערית 2, והשערית החיובית האחרונה היא שתיים, זאת אומרת שברגע ש... או, סליחה, ברגע ש-r5 הוא שתיים, אז השארית הבאה היא אפס.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:15.800",
+            "offset_end": "0:15:32.100",
+            "text": "ולכן הממגב הוא שתיים, אוקיי? הממגב הוא שתיים, ועכשיו כדי לקבל את מקדמי בזו, אז אני מסתכל על s, ה-s וה-t האחרון שקיבלתי, ה-s האחרון שקיבלתי הוא מינוס 5, ה-t האחרון שקיבלתי הוא 34,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:32.100",
+            "offset_end": "0:15:51.500",
+            "text": "ולכן אני יכול לומר ש-2, שזה הממגב, זה מינוס 5 כפול 258 ועוד 34 כפול 38. אוקיי? זהו, זה מאוד, זה טכני לגמרי. אוקיי. עכשיו בואו נדבר קצת על מספרים ראשוניים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:51.500",
+            "offset_end": "0:15:58.500",
+            "text": "אז מתי מספר נקרא ראשוני אם הוא לא מכפלה של שני מספרים חיוביים שקטנים ממנו? אוקיי? דיברנו על זה כבר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:58.500",
+            "offset_end": "0:16:12.000",
+            "text": "אז זה אומר שאחד הוא לא ראשוני, כן? למען אסר ספק מכאן ועלה, אחד הוא לא מספר ראשוני, כי הוא לא מכפלה של שני מספרים חיוביים שקטנים ממנו. אחד זה אחד כפול אחד, זהו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:14.000",
+            "offset_end": "0:16:32.200",
+            "text": "כן, אז אוקלידס כבר בלפני, לא יודע, 2,400 שנה בערך, כבר גילה שאין סוף מספרים ראשוניים, כן? ההוכחה של אוקלידס אומרת ככה, בוא נניח בשלילה שיש מספר סופי של מספרים ראשוניים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:32.200",
+            "offset_end": "0:16:47.700",
+            "text": "נכפול את כולם ונוסיף לזה אחד, אז המספר החדש שקיבלנו לא מתחלק באף אחד מהם, אז או שהוא ראשוני בעצמו, או שהוא מתחלק במספר ראשוני שלא נמצא ברשימה, וזה סותר את ההנחה שזאת הייתה הרשימה הסופית של כל המספרים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:47.700",
+            "offset_end": "0:17:11.500",
+            "text": "אוקלידס גם ניסח את המספר היסודי של האריתמטיקה ואומר שכל מספר שלם חיובי הוא מכפלה של מספרים ראשוניים, והמכפלה הזאת היא יחידה. עד כדי סדר. כן? אז 6 זה 2 כפול 3, וזה גם 3 כפול 2, אבל אם אני מסדר אותם אז יש רק דרך אחת לסדר אותם, זה 2 כפול 3.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:11.500",
+            "offset_end": "0:17:46.120",
+            "text": "כן, אז זה מספר יסודי של האריתמטיקה. אנחנו צריכים עכשיו את המושג של חבורה, דיברנו עליו בשבוע שעבר, כן? זאת קבוצה עם פעולה, יש שם סגירות, יש שם מתקיים חוק הקיבוץ, יש איבר יחידה ביחס לפעולה, וברגע שיש איבר יחידה אז יש לנו איברים הופכים. לכל איבר יש את האיבר ההופכי שאם נבצע את הפעולה ביניהם אנחנו נקבל את איבר היחידה, ואם מתקיים גם חוק החילוף אז אומרים שהחבורה קומוטטיבית או חבורה אבלית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:48.000",
+            "offset_end": "0:17:49.000",
+            "text": "אוקיי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:50.440",
+            "offset_end": "0:17:52.560",
+            "text": "אז עכשיו בואו נדבר קצת על חבורות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:52.560",
+            "offset_end": "0:17:57.960",
+            "text": "אז אם אנחנו ניקח איזשהו מספר n, וניקח את כל השאריות מודולו n,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:57.960",
+            "offset_end": "0:18:00.960",
+            "text": "כלומר, את כל המספרים מ-0 עד n פחות 1,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:01.360",
+            "offset_end": "0:18:09.600",
+            "text": "ונגדיר, אז קודם כל, אנחנו מסמנים את הקבוצה הזאת Zn, ואנחנו מגדירים חיבור מודולו-N,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:09.600",
+            "offset_end": "0:18:15.600",
+            "text": "זה אומר שכל שני מספרים אני יכול לחבר אותם, ואז את התוצאה אני לוקח מודולו-N,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:15.600",
+            "offset_end": "0:18:21.300",
+            "text": "זאת אומרת, לוקח את השארית מ-N, אז זה מגדיר, הקבוצה Zn עם חיבור מודולו-N,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:21.300",
+            "offset_end": "0:18:27.000",
+            "text": "מגדירים חבורה קומוטטיבית, כן, Zn פדירים חבורה קומוטטיבית, כן, זאת n פלוס, חבורה קומוטטיבית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:27.000",
+            "offset_end": "0:18:33.500",
+            "text": "ואפשר גם להגדיר כפל מודולו n באותה צורה, אוקיי? כן, אני לוקח שני מספרים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:33.500",
+            "offset_end": "0:18:36.500",
+            "text": "אופל אותם ולוקח את השארית מהן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:36.500",
+            "offset_end": "0:18:42.500",
+            "text": "אז אלה דברים שכבר ראיתם. אם אני לוקח את כל השאריות, אם אני לוקח n כלשהו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:42.500",
+            "offset_end": "0:18:48.000",
+            "text": "ולוקח את כל השאריות מודולו n, זה לא נותן חבורת לגבי הכפל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:48.000",
+            "offset_end": "0:18:56.500",
+            "text": "אוקיי? למשל, 0 הוא, כן, לא יעזור במה נכפול אותו, לא נקבל 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:56.500",
+            "offset_end": "0:19:02.000",
+            "text": "אז אם אני לוקח את כל השאריות מודולו n, אני לא מקבל חבורה לגבי הכפל,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:02.000",
+            "offset_end": "0:19:26.700",
+            "text": "גם אם אני אזרוק את ה-0, אני בדרך כלל לא מקבל חבורה. כדי לקבל חבורה, אני צריך לקחת את כל המספרים שזרים להן, אוקיי? אז אם אני לוקח את כל השאריות שזרות להן, מה זאת אומרת זרות? זאת אומרת שהמגב בינם לבין n הוא 1, אז אם אני לוקח את כל השאריות שזרות להן,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:27.000",
+            "offset_end": "0:19:32.000",
+            "text": "אז הקבוצה הזאת נקראת קבוצת השאריות המצומצמות, מודולו n,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:32.000",
+            "offset_end": "0:19:36.000",
+            "text": "ואז הקבוצה הזאת היא כן חבורה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:37.100",
+            "offset_end": "0:19:42.500",
+            "text": "אם המספר הוא ראשוני, אז כל המספרים שקטנים ממנו הם זרים? לא,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:42.800",
+            "offset_end": "0:19:47.960",
+            "text": "חוץ מאפס, אז הקבוצה הזאת 1, 2 עד p מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:48.760",
+            "offset_end": "0:19:51.760",
+            "text": "ואז אני מקבל חבורה, תכף זה יגיע, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:52.760",
+            "offset_end": "0:19:57.860",
+            "text": "אז הקבוצה הזאת z n כוכב היא חבורה קומוטטיבית עבור הכפל מודול r, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:57.860",
+            "offset_end": "0:20:05.400",
+            "text": "אז שאליות מצומצמות, למשל z 8 כ שמונה כוכב, זה אחד, שלוש, חמש ושבע.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:05.400",
+            "offset_end": "0:20:11.600",
+            "text": "וזאת שתים עשרה כוכב, זה אחד, חמש, שבע ואחד עשרה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:15.000",
+            "offset_end": "0:20:23.300",
+            "text": "אז הגודל של החבורה הזאת, אנחנו מסמנים אותו בפונקציית אוילן, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:23.300",
+            "offset_end": "0:20:30.800",
+            "text": "פי של n זה הגודל של החבורה, זאת n כוכב, זאת אומרת זה מספר המספרים שקטנים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:30.800",
+            "offset_end": "0:20:33.600",
+            "text": "החיובים שקטנים מ-n וזרים ל-n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:33.600",
+            "offset_end": "0:20:50.000",
+            "text": "אז למשל זאת 8, סליחה, פי של 8 זה 4, פי של 7 זהש, כן, דוגמה. או באופן כללי, אם פי הוא מספר ראשוני, פי של פי זה פי פחות אחד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:50.000",
+            "offset_end": "0:20:54.000",
+            "text": "אוקיי? בסדר?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:54.000",
+            "offset_end": "0:21:07.500",
+            "text": "מה אנחנו יכולים, אם אני לוקח שני מספרים ראשוניים וכופל אותם, מה זה פי של פי כפול q? אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:07.500",
+            "offset_end": "0:21:14.400",
+            "text": "אז אני צריך לספור כמה מספרים בין 1 לפי פחות q זרים לפי פחות q.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:14.400",
+            "offset_end": "0:21:16.900",
+            "text": "אז קודם כל יש פי כפול q מספרים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:18.900",
+            "offset_end": "0:21:23.900",
+            "text": "יש פי כפולות של q, אז כפולות של q הן לא זרות לפי כפול q.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:23.900",
+            "offset_end": "0:21:34.200",
+            "text": "יש q כפולות של q, אז כפולות של q הן לא זרות ל-p כפול q. יש q כפולות של p, אוקיי? אז אני מחסיר את כל הכפולות של q, מחסיר את כל הכפולות של p, אבל את p כפול q הכסרתי פעמיים, אז אני מוסיף 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:34.200",
+            "offset_end": "0:21:49.000",
+            "text": "ואם אני אסתכל על המספר הזה, זה בעצם p מינוס 1 כפול q מינוס 1. אז p של p כפול q זה p מינוס 1 כפול q מינוס 1, זאת עובדה שאנחנו נצטרך אותה בהמשך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:50.000",
+            "offset_end": "0:21:52.500",
+            "text": "שאלות עד כאן, אתם שקטים?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:53.500",
+            "offset_end": "0:21:57.000",
+            "text": "אני מספר לכם דברים שאתם מכירים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:58.000",
+            "offset_end": "0:22:05.600",
+            "text": "אוקיי, ואם רוצים באופן כללי לחשב את פי של מספר n, אז יש את נוסחת אוילר, הנה אוילר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:10.000",
+            "offset_end": "0:22:11.000",
+            "text": "הנה אוילר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:13.000",
+            "offset_end": "0:22:21.400",
+            "text": "אוילר הוא המתמטיקאי מהמאה ה-18, והוא נתן נוסחה איך לחשב את פי של מספר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:22.000",
+            "offset_end": "0:22:31.200",
+            "text": "אז באופן כללי, אם יש לי שני מספרים m ו-n שזרים, אז הפי של המכפלה שלהם זה מכפלת הפי, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:32.200",
+            "offset_end": "0:22:45.600",
+            "text": "ופי של חזקה, כן? של חזקה, פי בחזקת קיי זה פי של קיי פחות, סליחה, פי בחזקת קיי פחות פי בחזקת קיי מינוס אחד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:45.600",
+            "offset_end": "0:22:52.320",
+            "text": "אם מוצאים פי בחזקת קיי כגורם משותף, מקבלים פי בחזקת קיי כפול אחד מינוס חד חלקי פי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:52.320",
+            "offset_end": "0:22:57.720",
+            "text": "ונוסחת אוילר, אם מסתמכים על שתי העובדות האלה, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:57.720",
+            "offset_end": "0:23:09.160",
+            "text": "אז אפשר להוכיח שנוסחת אוילר באופן כללי, אם אני יודע את, אם אני מכיר את כל הראשוניים שמחלקים את n, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:09.160",
+            "offset_end": "0:23:13.560",
+            "text": "אם אני לוקח את כל הראשוניים שמחלקים את n, לא משנה באיזה חזקאי הם מחלקים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:13.560",
+            "offset_end": "0:23:49.920",
+            "text": "אז פי של n זה n כפול המכפלה של פחות אחד חלקי פי. אוקיי? זהו, זאת נוסחת אוילר. דני, בנוסחה השנייה פי ראשוני? בנוסחה השנייה פי ראשוני, כן. אחרת זה לא נכון. בנוסחה השנייהחת אוילר, כן? אפשר למשל, בוא ניקח איזשהו n, n שווה, לא יודע, 6, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:50.320",
+            "offset_end": "0:23:56.320",
+            "text": "אז מה זה פי של 6? אז איזה ראשונים מחלקים את 6? 2 ו-3, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:56.520",
+            "offset_end": "0:24:13.000",
+            "text": "אז 1 פחות חצי זה חצי, 1 פחות שליש זה שני שליש, אז פונקציה טוילר של שש זה שש כפול חצי כפול שני שליש, כמה זה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:13.000",
+            "offset_end": "0:24:20.000",
+            "text": "זה בסך הכל יוצא שש חלקת שלוש, זה שתיים, כן, פי של שש זה שתיים, אוקיי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:20.000",
+            "offset_end": "0:24:28.500",
+            "text": "יש פה הוכחה של נוסחת טוילר, היא די ארוכה, אם רוצים לרדת לפרטים, אני אדלג עליה, אומר ראשית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:28.500",
+            "offset_end": "0:24:34.500",
+            "text": "אז מי שזה מעניין אותו יכול לקרוא את ההוכחה, ואני חושב שהייתם אמורים כבר לראות אותה באלגברה מודרנית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:34.500",
+            "offset_end": "0:24:41.500",
+            "text": "רגע, דני, שוב, פונקציית אוילר, זה בעצם כמות המספרים שקטנים מהמספר וזלם לו?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:41.500",
+            "offset_end": "0:24:43.500",
+            "text": "נכון, בדיוק, כן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:43.500",
+            "offset_end": "0:24:53.000",
+            "text": "כן. כמה מספרים, למשל, אמרתי, פונקציית הוילר של 6 זה 2, כמה מספרים קטנים מ-6 וזרים לו?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:53.000",
+            "offset_end": "0:25:12.760",
+            "text": "1 זר ל-6, 2 לא, 3 לא, 4 לא, ו-5, אז 1 ו-5 זה 2.אוקיי, בואו נדבר על הפיכות מודולו n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:12.760",
+            "offset_end": "0:25:16.760",
+            "text": "מתי אני אגיד שמספר a הפיך מודולו n?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:16.760",
+            "offset_end": "0:25:29.600",
+            "text": "אם יש מספר שאם אני אכפול אותו ב-a אני אקבל אחד, זאת אומרת יש ל-a הופכי בכפל מודולו n, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:29.600",
+            "offset_end": "0:25:39.000",
+            "text": "אז במקרה הזה אני גם אגיד ש-b הוא ההופכי של a מודולו n, למשל, אם דיברנו על 6, מודולו 6,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:39.000",
+            "offset_end": "0:25:45.700",
+            "text": "ההופכי של 2 מודולו 6 זה כמה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:48.700",
+            "offset_end": "0:26:14.400",
+            "text": "אה, 2 הוא לא הפיך מודולו 6, אוקיי. ההופכי של 5 מודולו 6 זה 5, כי 5 כפול 5 זה 25, מודולו 6 זה 1. כן? למשל מודולו 12, מה ההופכי של 5 מודולו 12? אז זה גם כן 5, כי 5 כפול 5 זה 25, זה 1 מודולו 12.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:14.400",
+            "offset_end": "0:26:21.300",
+            "text": "מה הופכי של 7 מודולו 12? גם כן 7, 7 כפול 7 זה 48, שזה 1 מודולו 12.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:23.000",
+            "offset_end": "0:26:51.000",
+            "text": "אוקיי? אז מספר הוא הפיך מודולו n, אם קיים, אם, יש לו הפכי, כן? אם יש מספר שאם אני אכפ אבל זה משפט, ש-a הפיך מודולו-n אם ורק אם a ו-n זרים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:51.000",
+            "offset_end": "0:26:55.000",
+            "text": "אוקיי? זה משפט, אבל קל מאוד להוכיח אותו, אני לא אכנס לזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:55.000",
+            "offset_end": "0:27:01.000",
+            "text": "אז בעצם מי המספרים שהפיכים מודולו-n הם אלה שזרים ל-n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:01.000",
+            "offset_end": "0:27:08.960",
+            "text": "אז זה הגיוני, בגלל שהחבורה, החבור, כוצת שעריות מודול או אין תהיה חבורה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:08.960",
+            "offset_end": "0:27:11.560",
+            "text": "אני צריך לקחת את השעריות שזרות לאן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:11.560",
+            "offset_end": "0:27:16.760",
+            "text": "למה אני לוקח את השעריות שזרות? כי הם הפיכים, רק להם יש הופכים מודול או אין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:16.760",
+            "offset_end": "0:27:24.760",
+            "text": "אוקיי? אז, המשפט הזה תזכרו, אי הפיך מודול או אין, אם ורק אם, אי ואין זרים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:24.760",
+            "offset_end": "0:27:29.260",
+            "text": "אבל המשפט הזה גם נותן לנו דרך למצוא את ההופכים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:29.260",
+            "offset_end": "0:27:40.000",
+            "text": "אוקיי? אז הדוגמאות שנתתי, נתתי אותן בעל פה, אני יכול לבד לחשב, אבל אם אני אגיד לכם, אני יודע, N שווה 3 מיליון, 3 מיליון, ו...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:40.000",
+            "offset_end": "0:27:50.560",
+            "text": "תמצאו לי את ההופכי של 17 מודולו 3 מיליון, אז יהיה קצת קשה לעשות את זה בלי דף ובלי איזשהו אמצעי חישוב, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:50.560",
+            "offset_end": "0:27:56.360",
+            "text": "אז באופן כללי, איך אני מוצא את ההופכי של מספר מודולו n?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:56.360",
+            "offset_end": "0:27:59.560",
+            "text": "אני משתמש באלגוריתם אוקלידס, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:59.560",
+            "offset_end": "0:28:07.560",
+            "text": "אז קודם כל, אם a זר ל-n, זה אומר שה-GCD שלהם הוא 1, נכון?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:07.560",
+            "offset_end": "0:28:12.840",
+            "text": "המחלק המשותף הגדול ביותר שלהם הוא 1, אז 1 זה ה-GCD של a ו-n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:12.840",
+            "offset_end": "0:28:25.040",
+            "text": "אבל אנחנו יודעים שאת ה-GCD אפשר לכתוב במקצעות מקדמי בזו, כאיזה ש... כa, כן, אז זה פה, a ו-n, אז זה a כפול s ועוד n כפול t.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:25.840",
+            "offset_end": "0:28:35.800",
+            "text": "אוקיי? בסדר? אז... אז, אוקיי, אז אני יכול לכתוב את 1 כאיזשהו צירוף לינארי של as פלוס nt.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:35.800",
+            "offset_end": "0:28:40.120",
+            "text": "אבל מה זה as, בואו נעביר אגף, as זה 1 פחות כפולה של t.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:41.840",
+            "offset_end": "0:28:51.800",
+            "text": "אבל אם אני מסתכל על הדבר הזה, מודולו n, אז n כפול t זה כפולה של n, אז זה אפס.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:51.800",
+            "offset_end": "0:28:55.600",
+            "text": "אז קיבלתי ש-a, s קונגורנטי לאחד מודולו n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:55.600",
+            "offset_end": "0:29:31.200",
+            "text": "עוד פעם, אחד הוא הממגב של a וn בגלל שהם זרים, אבל את הממגב אני יכול לכתוב עם מקדמי בזו בצורה כזאת. כן. איזשהו אי כפול אס ועוד איזשהו, סליחה, איזשהו אס כפול אי ועוד איזשהו טי כפול אין. אוקיי, בואו נעביר הגף. אוקיי, אז אי כפול אס זה אחד פחות אין טי. נכון? ועכשיו אם נסתכל על זה מודולו אין, אין כפול טי זה אפס מודולו א, כי אין שם שערית, אז קיבלתי 1, אז a כפול s הוא קונגונטי ל-1 מודול n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:29:31.200",
+            "offset_end": "0:29:37.500",
+            "text": "אבל מה זה אומר? זה אומר ש-a כפול s נותן 1, זאת אומרת ש-s הוא ההופכי של a.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:29:37.500",
+            "offset_end": "0:29:47.300",
+            "text": "אז כדי למצוא את ההופכי של מספר מודולו n, אני צריך להפעיל את אלגוריתמו קלידס המורחב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:29:47.300",
+            "offset_end": "0:29:53.000",
+            "text": "לקבל את מקדם בzoo שצמוד ל-a, ויש לי את ההופכי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:29:53.000",
+            "offset_end": "0:30:03.600",
+            "text": "זה לא בדיוק ההופכי, כי ההופכי, ה-s הזה עשוי להיות גדול מ-n, אז כדי שהוא יהיה באמת הופכי, אני אקח את ה-s מודולו n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:03.600",
+            "offset_end": "0:30:05.960",
+            "text": "אבל מצאתי הופכי של A מודול.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:07.720",
+            "offset_end": "0:30:10.000",
+            "text": "בסדר? וזה מאוד חשוב, אנחנו נצטרך...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:10.000",
+            "offset_end": "0:30:11.200",
+            "text": "למה T חשוב פה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:13.200",
+            "offset_end": "0:30:16.000",
+            "text": "שאלה טובה, T לא חשוב פה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:16.440",
+            "offset_end": "0:30:18.760",
+            "text": "לצורך מציאת ההופכית, T לא חשוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:21.680",
+            "offset_end": "0:30:24.680",
+            "text": "אבל, בסדר, אבל T זה מקדם בזו, אבל...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:29.500",
+            "offset_end": "0:30:33.000",
+            "text": "אני צריך את T בשביל להוכיח את העובדה, כן? אבל זה נכון, לצורך החישור T הוא לא חשוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:33.000",
+            "offset_end": "0:30:37.500",
+            "text": "אז אם אני רוצה למצוא את ההופכי של 17 מודולו מיליון,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:37.500",
+            "offset_end": "0:30:41.500",
+            "text": "אני אריץ אלגוריתם אוקלידס עם מיליון ו-17,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:41.500",
+            "offset_end": "0:30:47.100",
+            "text": "ואני אקבל את מקדם, ברגע שאני אקבל את מקדמי בזו, אני יודע את האופחי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:49.600",
+            "offset_end": "0:30:50.600",
+            "text": "אוקיי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:52.600",
+            "offset_end": "0:30:56.600",
+            "text": "וזה חשוב בגלל שאנחנו צריכים למצוא אופחי של מספר מודול או n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:30:57.600",
+            "offset_end": "0:31:03.100",
+            "text": "ועכשיו אנחנו יכולים לחזור לחבורה z n כוכב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:31:03.100",
+            "offset_end": "0:31:07.640",
+            "text": "ועכשיו אנחנו יכולים לראות שבעצם z'-n כוכב היא חבורה כפלית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:31:07.680",
+            "offset_end": "0:31:11.560",
+            "text": "בגלל שיש איברים הופכים, כי כולם שם זרים ל-n,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:31:11.760",
+            "offset_end": "0:31:16.200",
+            "text": "כמובן שאיבר היחידה הוא אחד וכן הלאה, כמובן שיש סגירות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:31:16.240",
+            "offset_end": "0:31:20.600",
+            "text": "כי המכפלה של שני מספרים שזרים ל-n גם נותנת מספר שזר ל-n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:31:20.920",
+            "offset_end": "0:31:28.200",
+            "text": "אז אני לא אתעכב על ההוכחה הזאת, זה רק חזרה לעובדה שחבורת השאריות המצומצמות מודולו-N,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:31:28.200",
+            "offset_end": "0:31:33.200",
+            "text": "או שקבוצת השאריות המצומצמות מודולו-N היא חבורה לגבי הכפל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:31:36.200",
+            "offset_end": "0:31:42.700",
+            "text": "אוקיי, בואו נחזור רגע לנושא של חבורה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:31:43.700",
+            "offset_end": "0:31:47.360",
+            "text": "אז מה זה הסדר של איבר בחבורה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:31:47.360",
+            "offset_end": "0:31:51.720",
+            "text": "הסדר של איבר בחבורה זה המספר הקטן ביותר,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:31:51.720",
+            "offset_end": "0:31:55.240",
+            "text": "שאם אני עלה את האיבר בחזקה, אני אקבל את איבר היחידה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:31:56.240",
+            "offset_end": "0:31:57.040",
+            "text": "אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:31:57.840",
+            "offset_end": "0:32:04.640",
+            "text": "בחבורה, בחבורה ז', תכף נראה דוגמה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:32:06.760",
+            "offset_end": "0:32:14.240",
+            "text": "בחבורה נקראת ציקלית אם יש איבר שכשאני אקח את כל החזקות שלו, אני אקבל את כל איברי החבורה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:32:15.240",
+            "offset_end": "0:32:26.200",
+            "text": "אוקיי? עכשיו, למה שבכלל יהיה מספר כזה? אז אם החבורה היא סופית, חייב להיות מספר כזה, כי אם אני אקח את כל החזקות של A,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:32:32.920",
+            "offset_end": "0:32:35.560",
+            "text": "יש מספר סופי של איברים שאני אוכל, יש מספר סופי של איברים בקבוצת החזקות של A, אז באיזשהו שלב אני אתחיל לחזור על עצמי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:32:35.560",
+            "offset_end": "0:32:39.760",
+            "text": "ואז אפשר באמת להראות שאחד מהם חייב להיות אחד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:32:40.440",
+            "offset_end": "0:32:47.400",
+            "text": "אם זה חבורה אינסופית, אז יכול להיות שהסדר יהיה אינסופי, כן? סדר גם יכול להיות אינסופי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:32:47.400",
+            "offset_end": "0:32:52.500",
+            "text": "אבל אנחנו נדבר רק על חבורות סופיות, ולכן לכל איבר יש סדר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:32:52.500",
+            "offset_end": "0:33:01.300",
+            "text": "וחבורה איציקלית, אם יש איבר שהסדר שלו הוא הגודל של החבורה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:33:01.300",
+            "offset_end": "0:33:27.500",
+            "text": "אוקיי? ומספר כזה, איבר כזה נקרא יוצר של החבורה. אם אני מסתכל על ZP כוכב, אז קודם כל יש משפט, לא טריוויאלי בכלל, שאומר ש-ZP כוכב היא חבורה ציקלית, אוק יוצר, ויוצר של החבורה הזאת נקרא איבר פרימיטיבי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:33:28.500",
+            "offset_end": "0:33:33.700",
+            "text": "בואו נראה דוגמה, בואו ניקח בזאת שבע כוכב, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:33:33.700",
+            "offset_end": "0:33:45.680",
+            "text": "ניקח את המספר 3 בזאת שבע כוכב, אז 3 בחזקת 1 זה 3, כמובן, 3 בר בשלישית, כן, זה שתיים כפול שלוש, זה שש,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:33:46.180",
+            "offset_end": "0:33:52.680",
+            "text": "שלוש ברביעית זה שש כפול שלוש, זה שמונה עשר עשרה, שזה ארבע מודול או שבע וכן הלאה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:33:52.680",
+            "offset_end": "0:33:57.760",
+            "text": "שימו לב שלקחתי את כל החזקות של שלוש, קיבלתי את כל אברי החבורה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:33:57.760",
+            "offset_end": "0:34:00.180",
+            "text": "לא בסדר, לא בסדר עולה, אבל קיבלתי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:34:01.300",
+            "offset_end": "0:34:13.000",
+            "text": "לעומת זאת, שתיים הוא לא יוצר, כי 2 בחזקת 1 זה 2, 2 בריבוע זה 4, ו-2 בשלישית נותן לי 1, זהו, אני לא אקבל יותר איברים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:34:21.000",
+            "offset_end": "0:34:29.300",
+            "text": "עוד עובדה חשובה, משפט לגראנז', כן, הוא בערך בן דורו של אוילר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:34:29.300",
+            "offset_end": "0:34:37.300",
+            "text": "לגראנז' אומר שהסדר של תת חבורה בחבורה מחלק את סדר החבורה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:34:37.300",
+            "offset_end": "0:34:50.500",
+            "text": "זאת אומרת אם h תת חבורה של g, חבורה סופית, אז הסדר, מספר האיברים ב-H מחלק את מספר האיברים ב-G, לא נוכיח את זה, זה לא קשה להוכיח את זה, אבל זה שיעור שלם בארגברה מודרנית, אז לא נעשה את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:34:50.500",
+            "offset_end": "0:35:01.000",
+            "text": "בחבורה סופית, הסדר של כל איבר, המסקנה היא שבחבורה סופית, הסדר של כל איבר מחלק את סדר החבורה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:35:01.000",
+            "offset_end": "0:35:07.600",
+            "text": "שוב, אני לא אסביר למה, אבל זאת מסקנה כמעט ישירה ממשפט לגראנס, מספיק שנהדה אותה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:35:07.600",
+            "offset_end": "0:36:33.600",
+            "text": "ולכן, בחבורה סופית, אם אני לוקח מספר ומעלה אותו בסדר החבורה, אניסביר את זה, רק בשביל שלא יצא שאני לא מסביר שום דבר, אז אני כן אסביר את זה, בואו נסביר את זה, אוקיי, אז יש לי איזושהי חבורה G, ויש לי איזשהו איבר A ב-G, אוקיי? ואנחנו יודעים שהסדר O של A מחלק את גודל החבורה, אוקיי, מה זה אומר שהוא מחלק? זה אומר שקיים איזשהו c כך ש-g, הסדר של החבורה, זה c כפול o של a.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:36:36.600",
+            "offset_end": "0:37:29.000",
+            "text": "o של a, כן, זה oי חזקות בחזקת C, אבל A בחזקת הסדר של A זה E, זה E בחזקת Cיא, זה נותן את אי. אוקיי? אז אי בחזקת סדר החבורה תמיד נותן את איבר היחידה. אוקיי.אז נחזור לשיעור.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:37:35.000",
+            "offset_end": "0:37:47.980",
+            "text": "וזה מביא אותנו לשני משפטים חשובים, המשפט הראשון זה משפט אוילר. משפט אוילר אומר שלכל a ו-n, כך ש-a זר ל-n, מתקיים a בחזקת fi של n קונגוונטי ל-1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:37:49.980",
+            "offset_end": "0:37:58.160",
+            "text": "מודול א, למה? כי a, a זר ל-n, אז a הוא איבר בחבורה z n כוכב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:37:58.160",
+            "offset_end": "0:38:06.200",
+            "text": "fi של n זה גודל החבורה z n כוכב, אז יש לי פה איבר בחבורה בחזקת גודל החבורה, אז צריך לתת 1, איבר יחידה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:38:10.000",
+            "offset_end": "0:38:26.040",
+            "text": "במקרה הספציפי ש-n הוא מספר ראשוני, אוקיי? אם n מספר ראשוני, אז פי... אם p הוא מספר ראשוני, אז פי של פי זה פי מינוס אחד, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:38:30.520",
+            "offset_end": "0:38:30.720",
+            "text": "אם איי הוא לא כפולה של פי, אז הוא זר לפי, כי פי הוא ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:38:36.120",
+            "offset_end": "0:38:39.000",
+            "text": "אז אני לוקח מספר שזר לפי, זאת אומרת, שהוא עבר בחבורת אשריות המצומצמות, מעלה אותו בחזקת סדר החבורה, מקבל אחד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:38:39.200",
+            "offset_end": "0:38:44.760",
+            "text": "המשפט הזה נקרא המשפט, המשפט הקטן של פרמה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:38:46.040",
+            "offset_end": "0:38:49.080",
+            "text": "בניגוד למשפט הגדול, שזה משפט פרמה המפורסם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:38:50.200",
+            "offset_end": "0:38:51.200",
+            "text": "אז...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:38:52.600",
+            "offset_end": "0:38:54.600",
+            "text": "יכול לגבי להסבר שוב את המשפט הקטן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:38:55.080",
+            "offset_end": "0:38:57.440",
+            "text": "את הקטן או את אוילר?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:38:58.880",
+            "offset_end": "0:38:59.880",
+            "text": "את הקטן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:39:00.200",
+            "offset_end": "0:39:01.840",
+            "text": "אוקיי, פי הוא מספר ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:39:03.360",
+            "offset_end": "0:39:15.160",
+            "text": "פי של פי הוא פי מינוס אחד, כי כמה מספרים זרים לפי יש שקטנים ממנו? פי מינוס אחד, כל מה שקדם לו הוא זר לפי, כי הוא הרי ראשוני, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:39:15.160",
+            "offset_end": "0:39:30.440",
+            "text": "אז עכשיו, A הוא לא כפולה של פי, אם הוא לא כפולה של פי, מכיוון שפי הוא ראשוני, הוא חייב להיות זר לפי. אז יש לי פה מספר שזר לפי, וחזקת פי של פי, צריך לתת אחד לפי משפט אוילר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:39:31.480",
+            "offset_end": "0:39:33.000",
+            "text": "כן, זה כאילו מסקנה מאוילר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:39:33.480",
+            "offset_end": "0:39:35.200",
+            "text": "בדיוק, זה מסקנה מאוילר, כן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:39:35.400",
+            "offset_end": "0:39:37.200",
+            "text": "ואוילר הוא מסקנה מלגרנץ'.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:39:38.280",
+            "offset_end": "0:40:08.000",
+            "text": "אבל מבחינה כרונולוגית, קודם כל פרמה גילה את משפט פרמה, ורק אחר כך, שנים אחר כך, אוילר גילה את משפט אוילר, בטח איזה מאה שנה אחר כך, אוילר גילה את משפט אוילר, ואוילר מצאה לזה הוכחה שלא קשורה בחבורות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:40:08.000",
+            "offset_end": "0:40:13.000",
+            "text": "ואחר כך כשהתחילו לדבר על חבורות, אז לגרנז' הוכיח את משפט לגרנז'.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:40:13.000",
+            "offset_end": "0:40:16.000",
+            "text": "אבל שלגרנז' לא בא קודם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:40:16.000",
+            "offset_end": "0:40:31.000",
+            "text": "כן, הוא היה מקל את החיים על פרמה ואוילר, אבל יכול להיות שבכלל הוא לא היה מגלה את המשפט שלו אם לא היו פרמה ואוילר לפניו, מבחינת הידע המתמטי שהוא היה צריך בשביל זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:40:33.000",
+            "offset_end": "0:40:37.000",
+            "text": "אוקיי, אז זה סוף החלק הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170082",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        }
+    ]
+}

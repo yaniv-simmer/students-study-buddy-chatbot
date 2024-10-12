@@ -1,0 +1,1516 @@
+{
+    "data": [
+        {
+            "offset_start": "0:00:01.000",
+            "offset_end": "0:00:05.840",
+            "text": "שלום לכולם, אנחנו בחלק ב' של השיעור על ביטקוין,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:06.640",
+            "offset_end": "0:00:13.000",
+            "text": "ואנחנו נמשיך מהנקודה שבה עצרנו בחלק הקודם, להזכירכם, בחלק הקודם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:14.520",
+            "offset_end": "0:00:28.500",
+            "text": "דיברתי על זה שהביטקוין, או המבנה של בסיס הנתונים של הביטקויןין הוא שרשרת של בלוקים, בכל בלוק יש רשימה של פעולות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:28.500",
+            "offset_end": "0:00:37.100",
+            "text": "הפעולה העיקרית היא פעולה של העברת סכום, מגורם אחד לגורם אחר, מאליס לבוב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:37.100",
+            "offset_end": "0:00:52.000",
+            "text": "ופעולה כזאת של העברה נראית בערך ככה, משתמש X שולח כך וכך ביטקוין על בסיס הסמכטה מסוימת שיש לו את הסכום הזה למשתמש Y,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:52.000",
+            "offset_end": "0:01:13.000",
+            "text": "משתמש X חותם באמצעות חתימה דיגיטלית, ויש בכל בלוק רשימה ארוכה של כאלה פעולות, זה יכול להיות מאות או אלפי פעולות כאלה. המבנה הזה של בלוקים שמחוברים על ידי, זה לזה באמצעות איזשהו קשר חישובי, נקרא בלוקצ'יין. אוקיי? שרשרת בלוקים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:14.000",
+            "offset_end": "0:01:27.160",
+            "text": "מה זה בלוקצ'יין? אם תשאלו את ויקיפדיה או בכל המקום אחר, יגדירו לכם שזה טכנולוגיית פנקס מבוזרת,Decentralized Distributed Ledger Technology,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:27.960",
+            "offset_end": "0:01:30.880",
+            "text": "שאוספת רשומות ממחשבים שונים, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:30.880",
+            "offset_end": "0:01:35.520",
+            "text": "שהיא מבוזרת, אז היא אוספת את זה, את כל מה שיש בה ממחשבים שונים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:35.520",
+            "offset_end": "0:01:39.400",
+            "text": "וגם המידע הזה מפוזר במחשבים שונים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:39.400",
+            "offset_end": "0:01:43.560",
+            "text": "מה התכונות של בלוקצ'יין, כל התכונות היפות שכבר דיברנו עליהן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:43.960",
+            "offset_end": "0:02:08.300",
+            "text": "אין מרכז, זה מבוזר, אין גורם אחד ששולט, יש שקיפות, לכל אחד יש גישה לכל מה שכתוב בפנקס הזה, אי אפשר ללכת אחורה ולשנות פעולות, זה נחשב לבטוח בגלל שזה מוגן בכלים קריפטוגרפיים, זה דינמי, כי כל כמה זמן נוסף בלוק נוסף, נוסף עוד בלוק לשרשרת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:10.000",
+            "offset_end": "0:02:17.500",
+            "text": "וכל בלוק קשור באיזשהו קשר לבלוקים הקודמים, כך שאי אפשר ללכת אחורה ולשנות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:19.200",
+            "offset_end": "0:02:25.800",
+            "text": "אז מה יש, ממה מורכב הבלוקצ'יין? מבלוקים. אז המרכיב הבסיסי זה הבלוק,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:30.680",
+            "offset_end": "0:02:35.520",
+            "text": "והבלוק מכיל רשימה של פעולות ויוצר שרשרת, כן? אז סדרת הבלוקים יוצרת שרשרת, סדורה, כן? בסדר מסוים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:35.720",
+            "offset_end": "0:02:40.240",
+            "text": "כל בלוק קשור אחורה לבלוק הקודם באמצעות פונקציית הש,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:40.240",
+            "offset_end": "0:02:50.880",
+            "text": "אנחנו, אני אסביר את זה עוד מעט,עוד הגורמים שמרכיבים את הבלוקצ'יין זה הצמתים, הצמתים אלה המשתמשים ברשת, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:51.360",
+            "offset_end": "0:02:56.080",
+            "text": "ולכל משתמש כזה יש אותק של השרשרת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:56.560",
+            "offset_end": "0:03:01.640",
+            "text": "ודבר מאוד חשוב שצריך להיות לבלוקצ'יין זה מה שנקרא מכניזם לקונצנזוס.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:01.640",
+            "offset_end": "0:03:05.440",
+            "text": "זאת אומרת, באיזה תהליך ‫מתקבלת החלטה",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:05.640",
+            "offset_end": "0:03:10.040",
+            "text": "‫שבלוק מסוים מותקים ‫ומוסיפים אותו לשרשרת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:10.680",
+            "offset_end": "0:03:14.280",
+            "text": "‫וקיי? וזה מבוסס על איזשהו עיקרון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:14.520",
+            "offset_end": "0:03:19.680",
+            "text": "‫למשל, בביטקוין העיקרון הוא ‫proof of work, אני אסביר מה זה, POW,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:20.040",
+            "offset_end": "0:03:29.160",
+            "text": "‫זה אומר שמי שיש לו יותר כוח חישוב, ‫הוא משפיע יותר על תהליך קבלת ההחלטות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:30.960",
+            "offset_end": "0:03:37.500",
+            "text": "אז הנה, אז בואו נסתכל רגע על איזשהו קטע בבלוקצ'יין, הנה יש לנו כאן שלושה בלוקים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:37.860",
+            "offset_end": "0:03:43.860",
+            "text": "אז בואו ניגש לבלוק האמצעי, כן, הבלוק ה-I,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:43.860",
+            "offset_end": "0:03:47.560",
+            "text": "הבלוק ה-I מחובר לבלוק הקודם. איך הוא מחובר לבלוק הקודם?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:47.560",
+            "offset_end": "0:03:52.320",
+            "text": "הוא מחובר בזה שיש לו ערך אש של הבלוק הקודם, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:52.320",
+            "offset_end": "0:04:13.000",
+            "text": "בביטקוין, הפונקציה תשע משתמשים בה היא שעה 256, אז הוא מקושר לבלוק הקודם בזה שיש לו ערך אש של הבלוק הקודם. אם מישהו ינסה לשנות את הבלוק הקודם, כדי שהשרשרת תהיה תקינה, הוא יצטרך לשנות את הערך אש ששמור גם בבלוק הבא.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:13.000",
+            "offset_end": "0:04:46.880",
+            "text": "אבל הערך האש הזה הוא חלק מהבלוק הזה, ולכן הוא יצטרך ללכת קדימה וגם לשנות את הערך אש כאן. כך שזה מוגן מפני שינויים. בתוך הבלוק, בנוסף לערך של הבלוק הקודם, יש את רשימת הפעולות. כמו שאמרנו עליהן, כולם חתומות על ידי חתימה דיגיטלית, במקרה של ביטקוין זה EC-DSA, זה חתימה מבוססת על עקומים אליפטיים, ‫המשתמשים מזוהים על ידי ‫המפתח הפומבי של החתימה שלהם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:47.560",
+            "offset_end": "0:04:53.160",
+            "text": "‫והם שמורות את הפעולות במבנה מסוים, ‫או מגובות במבנה, יותר נכון,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:53.240",
+            "offset_end": "0:04:55.480",
+            "text": "‫מגובות במבנה מסוים, ‫שנקרא אצטמרקל,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:55.560",
+            "offset_end": "0:04:57.000",
+            "text": "‫אנחנו תכף נדבר עליו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:58.960",
+            "offset_end": "0:05:01.360",
+            "text": "‫עכשיו, איך עובד מגנות הקונצנזוס?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:01.440",
+            "offset_end": "0:05:28.500",
+            "text": "‫אז כל פעם שמוסיפים בלוק לשרשרת, צריך לאשר אותו. האישור נעשה באמצעות סוג של תחרות בין המשתתפים הפעילים, מה שנקרא הקוראים, תכף נדבר על הקוראים. כל בלוק מאושר על ידי, על ידי מי שזוכה בתחרות. זאת אומרת, מי שזוכה הוא זה שמאשר את הבלוק. אז תחרות נהיה כך שהסיכוי של קורא לנצח תלוי בכוח החישוב שלו, ככל שיש יותר כוח חישוב, הסיכוי גדל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:28.500",
+            "offset_end": "0:05:34.500",
+            "text": "תחרות כזאת קוראה proof of work, כמו שאמרתי קודם, כדי להבין איך התחרות עובדת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:34.500",
+            "offset_end": "0:05:42.500",
+            "text": "אנחנו צריכים להבין איך עובדת פונקציית גיבוב קריפטוגרפית, אנחנו מכירים פונקציית גיבוב קריפטוגרפית, ואנחנו תכף נדבר על זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:42.500",
+            "offset_end": "0:05:46.360",
+            "text": "אבל קודם כל אני רוצה לדבר על הקוראים, מי הם הקוראים?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:46.360",
+            "offset_end": "0:05:49.060",
+            "text": "אז הקוראים הם כל אלה שרוצים להיות קוראים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:49.060",
+            "offset_end": "0:05:58.860",
+            "text": "קורא הוא משתמש ברשת הביטקוין שמנסה לזכות בבלוק. מה הוא צריך לעשות כדי לזכות בבלוק, או כדי לנסות לזכות בבלוק?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:58.860",
+            "offset_end": "0:06:09.160",
+            "text": "כדי לזכות בבלוק הוא צריך לפתור סוג של חידה, הוא צריך לעשות איזשהו חישוב שנותן לו פתרון של חידה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:10.560",
+            "offset_end": "0:06:13.680",
+            "text": "כדי שיהיה סיכוי לעשות את זה, צריך, כמו שאמרתי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:13.680",
+            "offset_end": "0:06:18.080",
+            "text": "שיהיה לו אותו משתמש כוח חישוב גבוה, יכולת חישוב גבוהה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:19.080",
+            "offset_end": "0:06:20.960",
+            "text": "עכשיו, למה זה משתלם לעשות את זה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:20.960",
+            "offset_end": "0:06:24.440",
+            "text": "א', כי מי שזוכה בבלוק מקבל את כל העמלות של הבלוק,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:24.440",
+            "offset_end": "0:06:29.520",
+            "text": "ובנוסף לכל העמלות הוא מקבל מה שנקרא גמול בלוק, באנגלית בלוק ריארד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:30.440",
+            "offset_end": "0:06:36.480",
+            "text": "מה זה גמול הבלוק? גמול הבלוק זה סכום ביטקוין קבוע שכל זוכה בבלוק מקבל אותו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:37.920",
+            "offset_end": "0:06:42.080",
+            "text": "והסכום הזה משתנה, תכף נראה באיזה סכום מדובר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:42.960",
+            "offset_end": "0:06:48.520",
+            "text": "ואז ברגע שאני זוכה בבלוק, נגיד שאני זוכה בבלוק,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:48.520",
+            "offset_end": "0:06:52.800",
+            "text": "אז לרשימת הטרנזקציות, הפעולות של הבלוק,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:52.800",
+            "offset_end": "0:06:56.360",
+            "text": "נוספת עוד פעולה אחת שנותנת לי את גמול הבלוק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:56.360",
+            "offset_end": "0:07:01.520",
+            "text": "אם אני ארצה להשתמש בכסף הזה בעתיד, זה תהיה הסמכתא לזה שיש לי את הסכום הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:01.520",
+            "offset_end": "0:07:03.040",
+            "text": "עכשיו, מהו גמול הבלוק?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:03.040",
+            "offset_end": "0:07:06.340",
+            "text": "אז קודם כל, גמול הבלוק הוא קבוע כל 4 שנים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:06.340",
+            "offset_end": "0:07:09.480",
+            "text": "זאת אומרת, כל 4 שנים הוא משתנה והוא נחצה בחצי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:09.480",
+            "offset_end": "0:07:13.500",
+            "text": "זאת אומרת, בהתחלה זה היה 50 ביטקוין, 4 שנים אחרי זה זה היה 25.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:13.500",
+            "offset_end": "0:07:22.840",
+            "text": "ביטקוין ירד ל-12.5, ירד ל-6.25, ולאחרונה, לפני כחודש, זה ירד ל-3.28, 3.25.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:23.840",
+            "offset_end": "0:07:33.560",
+            "text": "זה בערך כל 4 שנים, ואם אנחנו רוצים לדעת כמה, במדוייק כל כמה זמן משתנה גמול הבלוק, זה כל 210 אלף פעולות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:33.560",
+            "offset_end": "0:07:39.680",
+            "text": "אז לא מזמן, הגענו ל-840 אלף פעולות מאז היווסדו של הביטקוין,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:39.680",
+            "offset_end": "0:07:49.720",
+            "text": "ויש לנו פה תאריכים מתי בערך כל דבר כזה קרה, והתהליך הזה של חציית גמול הבלוק נקרא באנגלית halving, כן? חצייה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:49.720",
+            "offset_end": "0:07:59.240",
+            "text": "והגבול הנוכחי, כמו שאמרתי, שלוש ושמינית, שזה בערך 200 אלף דולר. אוקיי? זה די הרבה כסף, אבל צריך להשקיע בזה הרבה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:59.240",
+            "offset_end": "0:08:08.280",
+            "text": "בנוסף לזה יש את העמלות, שכיום הם בערך 20 אלף דולר, וזה הולך ונחצה, ומתי התהליך הזה ייפסק?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:08.400",
+            "offset_end": "0:08:14.160",
+            "text": "כשגמול הבלוק יהיה פחות מאחד סטושי, וזה צפוי לקרות בשנת 2040, עוד הרבה זמן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:14.960",
+            "offset_end": "0:08:16.680",
+            "text": "וכשזה יקרה, כבר לא יהיה גמול הבלוק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:16.680",
+            "offset_end": "0:08:22.000",
+            "text": "זאת אומרת, אם הביטקוין יהיה קיים עד אז, אז הקוראים יצטרכו להסתפק בעמלות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:23.560",
+            "offset_end": "0:08:35.000",
+            "text": "למה... ועכשיו אנחנו רואים שכמה ביטקוין... וזאת הדרך היחידה, גמול הבלוק היא הדרך היחידה ליצור ביטקוין חדשים שלא היו קיימים קודם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:35.000",
+            "offset_end": "0:08:48.800",
+            "text": "אוקיי? אז אם בהתחלה זה היה 50 ואחרי זה 25 וכן הלאה, אז בסך הכל, בדרך הזאת, יהיו, בסוף תהליך ההלווין, יהיו 21 מיליון ביטקוין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:51.160",
+            "offset_end": "0:09:02.680",
+            "text": "אוקיי? וזאת הסיבה, זה החישוב, כן? 210 אלף פעולות, על 50, ואחרי זה על 25 ו-12.5 וכן הלאה, זה נותן 21, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:02.680",
+            "offset_end": "0:09:07.400",
+            "text": "זאת סדרה הנדסית, סכום סדרה הנדסית מתכנסת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:11.200",
+            "offset_end": "0:09:17.100",
+            "text": "אוקיי, אז בואו נדבר עכשיו על החידה שצריך לפתור כדי לזכות בבלוק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:17.100",
+            "offset_end": "0:09:20.100",
+            "text": "אז כאמור, כדי לזכות בבלוק צריך לפתור חידה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:20.100",
+            "offset_end": "0:09:24.000",
+            "text": "כדי להבין את החידה, צריך להבין מהי פונקציית גיבוב קריפטוגרפית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:24.000",
+            "offset_end": "0:09:27.400",
+            "text": "אתם יודעים מהי פונקציית גיבוב קריפטוגרפית, בואו נזכיר לכם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:27.400",
+            "offset_end": "0:09:32.000",
+            "text": "היא פונקציה כזאת שיש לה, הקלט שלה הוא מכרוזת בינארית באורך כלשהו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:32.000",
+            "offset_end": "0:09:35.000",
+            "text": "והפלט מכרוזת בינארית באורך קבוע.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:35.500",
+            "offset_end": "0:09:43.000",
+            "text": "כיום מקובל שהפלט הוא באורך 256 ביט, למשל שם 256, אבל יש גם גדלים אחרים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:43.000",
+            "offset_end": "0:10:05.240",
+            "text": "רצוי שזה יהיה לפחות 256 ביט, אוקיי? אז זה מין קופסה שחורה, אתם מכניסים מחרוזת, מוציאה מחרוזת באורך קבוע, הפונקציה הזאת היא חד-כיוונית, זאת אומרת, אם קיבלתי מחרוזת מסוימת, זה מאוד קשה לדעת מה יהקלט, אם אני יודע את הפלט, זה יהיה מאוד קשה לדעת מבחינה חישובית מה היה הקלט,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:05.240",
+            "offset_end": "0:10:08.940",
+            "text": "או למצוא אפילו מועמד אחד לקלט, וידטרמיניסטית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:08.940",
+            "offset_end": "0:10:12.940",
+            "text": "זאת אומרת, אם אני אכניס את אותה מכרוזת פעמיים, אני אקבל פעמיים את אותה תוצאה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:15.140",
+            "offset_end": "0:10:17.700",
+            "text": "אז אוקיי, אז איך לוקחים בבלוק?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:17.700",
+            "offset_end": "0:10:21.640",
+            "text": "אז בוא נניח שיש לכולם את הבלוק הקודם שחושב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:21.640",
+            "offset_end": "0:10:25.880",
+            "text": "לכל הקוראים יש את הבלוק הקודם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:25.880",
+            "offset_end": "0:10:31.760",
+            "text": "ועכשיו הם רוצים לזכות בבלוק הבא, אז לוקחים את הבלוק הקודם, שהוא בסך הכל מכרוזת בינארית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:31.760",
+            "offset_end": "0:10:35.520",
+            "text": "והם חשבים את ה-H שלו, כן? את ה-9256 שלו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:35.520",
+            "offset_end": "0:10:45.040",
+            "text": "המטרה היא לקבל תוצאת השש שמתחילה בהרבה אפסים, באיזשהו n אפסים, כשה-n הוא מספר קבוע.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:45.560",
+            "offset_end": "0:10:49.320",
+            "text": "אז תגידו, רגע, אבל אם זאת מכרוזת קבועה, אז...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:50.640",
+            "offset_end": "0:10:55.840",
+            "text": "מה אני צריך לעשות כדי לקבל, התוצאה היא דטרמיניסטית, זאת אומרת, יש לי מכרוזת מסוימת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:55.880",
+            "offset_end": "0:11:01.160",
+            "text": "אם אני אכניס אותה ל-9256, אני אקבל מכרוזת אחת, אני לא יכול, אין לי שם משחק,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:01.200",
+            "offset_end": "0:11:05.600",
+            "text": "אני לא יכול לנווט את זה ככה כשאני אקבל n אפסים מובילים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:05.600",
+            "offset_end": "0:11:11.600",
+            "text": "אז כדי שאני אוכל לקבל משהו שונה, אני מוסיף לבלוק ה-i,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:11.600",
+            "offset_end": "0:11:15.800",
+            "text": "אני מוסיף לו עוד משהו, עוד איזה מספר, עוד איזה שהיא מכרוזת קטנה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:15.800",
+            "offset_end": "0:11:20.300",
+            "text": "עוד משהו שנקרא סולט, כן? מלח, יש פה מלחייה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:20.300",
+            "offset_end": "0:11:25.880",
+            "text": "אז אני כל פעם מוסיף סולט אחר עד שאני מקבל תוצאה עם n אפסים מובילים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:25.880",
+            "offset_end": "0:11:31.000",
+            "text": "הסולט הזה, כל אחד בוחר אותו, או כל תוכנה שיש למשתמשים בוחר בצורה אחרת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:31.000",
+            "offset_end": "0:11:33.800",
+            "text": "זה יכול להיות מספר שאני כל פעם מגדיל אותו באחד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:33.800",
+            "offset_end": "0:11:36.400",
+            "text": "זה יכול להיות מספר שאני כל פעם מגריל מחדש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:36.400",
+            "offset_end": "0:11:40.400",
+            "text": "אוקיי? אז ברגע שאחד הקוראים בחר סולט,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:40.400",
+            "offset_end": "0:11:50.000",
+            "text": "כך של-8 של הבלוק ה-I עם הסולט יש n אפסים מובילים, הוא מכריז על זה, הוא מפרסם את זה, כולם בודקים את זה והוא זוכה בבלוק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:50.000",
+            "offset_end": "0:12:02.000",
+            "text": "ה-n הזה נקרא פרמטר הקושי. מה הערך של פרמטר הקושי? כן, אתם רואים, אנחנו צריכים שה-H תפיק מכרוזת שמתחילה ב-n אפסים מובילים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:02.000",
+            "offset_end": "0:12:06.600",
+            "text": "אוקיי? איך נקבע פרמטר הקושי? תכף נראה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:06.600",
+            "offset_end": "0:12:11.200",
+            "text": "אז בואו קודם כל נתקן את הסרטוט שהיה לנו לפני כמה שקפים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:11.200",
+            "offset_end": "0:12:17.900",
+            "text": "אז ה-H, כל בלוק מכיל את ה-H של הבלוק הקודם, אבל לא בדיוק את ה-H של הבלוק הקודם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:17.900",
+            "offset_end": "0:12:30.200",
+            "text": "אלא את ה-H עם הבלוק הקודם, פלוס איזשהו סולט שגורם לרך ה-H הזה להיות עם n אפסים מובילים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:30.200",
+            "offset_end": "0:12:39.200",
+            "text": "ובנוסף לזה, אחרי שזכינו בבלוק, אנחנו מקבלים פה עוד פעולה אחת שמעניקה לנו את ה-block root, את גמול הבלוק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:42.400",
+            "offset_end": "0:12:49.100",
+            "text": "אז כמה קשה לזכות בבלוק? אני צריך לחשב h של n אפסים מובילים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:49.100",
+            "offset_end": "0:13:30.100",
+            "text": "ההסתברות, או הקושי, או ההסתברות שאני אקבל n עם אפסים מובילים, מכיוון שהתוצאה של פונקציית אש היא משהו שנראה אקראי, אז ההסתברות לחשב h אם n אפסים מובילים, היא בערך כמו ההסתברות לבחור מכרוזת אקראית שיש בה n אפסים מובילים. מה ההסתברות הזאת? כן? אז הביט הראשון זה חצי, הביט השני זה חצי, אז זה רקבר רבע, אם אני רוצה שני ביטים שהם אפס, אם אני רוצה שלושה ביטים שהם אפס, זה חצי כפול חצי כפול חצי שמינית, ואם אני רוצה n כאלה, אז ההסתברות לזה היא חצי בחזקת n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:33.100",
+            "offset_end": "0:13:51.520",
+            "text": "כדי לקבל תוצאה כזאת, אני צריך לחשוב שוב, שוב, ושוב, ושוב, ערך אש, כל פעם עם סולט אחר, עד שבסוף, אם יש לי מזל, או אם יש לי הרבה כוח חישוב, אני אזכיר את זה. כמה פעמים אני צריך לחשב ערך H כדי לקבל ערך, כדי לקבל תוצאה עם n הפסים מובילים?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:51.520",
+            "offset_end": "0:14:00.720",
+            "text": "בערך, בערך 2 בחזקת n פעמים, ערכים כאלה, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:00.720",
+            "offset_end": "0:14:08.300",
+            "text": "אז ככל ש-n יותר גדול, אני צריך לעשות יותר חישובים כדי לקבל תוצאה אם n אפסים מובילים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:09.500",
+            "offset_end": "0:14:17.300",
+            "text": "כמה פעמים אני צריך לעשות את זה? בממוצע 2 בחזקת n פעמים. אז ככל ש... כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:17.300",
+            "offset_end": "0:14:21.400",
+            "text": "אז אם n הזה הוא גדול, אז גם 2 בחזקת n זה מספר מאוד גדול,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:21.400",
+            "offset_end": "0:14:32.000",
+            "text": "ועכשיו, לפי מה קובעים את הערך של n? לפי כוח החישוב שקיים בכלל במערכת, לכל הקוראים ביחד, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:32.000",
+            "offset_end": "0:14:46.600",
+            "text": "ככל שיש לכל הקוראים ביחד כוח חישוב יותר גדול, אז ייקח פחות זמן כדי שמישהו, אם יקבל תוצאה, אם n אפסים מובילים, ולכן אנחנו צריכים להגדיל את n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:46.600",
+            "offset_end": "0:14:55.400",
+            "text": "אז ה-n הזה מתעדכן כל 2016 בלוקים, כיום הוא שווה ל-78, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:56.900",
+            "offset_end": "0:15:07.400",
+            "text": "שוב, כדי להמחיש את זה כמה קשה לזכות בבלוק, זה כמו ההסתברות להטיל n מטבעות ולצפות שכולם יצאו על עץ.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:07.400",
+            "offset_end": "0:15:16.600",
+            "text": "ההסתברות לזה היא חצי בחזקת n, ואני אצטרך להטיל את המטבע בערך שתיים בחזקת n פעמים, כדי שסוף סוף זה יקרה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:18.600",
+            "offset_end": "0:15:34.000",
+            "text": "אז בואו נראה איך מחשבים את ה-hardness פרמטר הזה, אז קודם כל, אנחנו, יש לנו מידע על מספר, או כוח החישוב הכולל שיש למשתמשים בטרהאש, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:34.000",
+            "offset_end": "0:15:45.360",
+            "text": "טרהאש רייט, זאת אומרת, כמה השים כולם ביחד מחשבים בשנייה, אבל כמה טרהאשים כולם ביחד מחשבים בשנייה? אז זה מספר שהוא ידוע, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:45.360",
+            "offset_end": "0:15:53.000",
+            "text": "היום הוא בערך, ברגע זה שאני מקליט את הסרטון, הוא בערך 580 מיליון טרה-הש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:53.000",
+            "offset_end": "0:15:56.000",
+            "text": "עכשיו, מה זה טרה? זה 10 בחזקת 12.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:56.000",
+            "offset_end": "0:16:00.800",
+            "text": "אז בואו נראה כמה... כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:00.800",
+            "offset_end": "0:16:06.120",
+            "text": "ובואו נזכור שאנחנו רוצים שאישור של בלוק יהיה בערך בעשר דקות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:06.120",
+            "offset_end": "0:16:10.200",
+            "text": "במילים אחרות, כמה השים מחושבים בעשר דקות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:10.200",
+            "offset_end": "0:16:14.280",
+            "text": "כן? כמה השים כל המשתמשים ביחד מחשבים בעשר דקות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:14.280",
+            "offset_end": "0:16:20.160",
+            "text": "אז יש לנו את כמה טרה הש בשנייה, כמה זה טרה, 10 בחזקת 12,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:20.160",
+            "offset_end": "0:16:27.540",
+            "text": "נכפול את זה במספר השניות בעשר דקות, התוצאה היא מספר האש עם הכולל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:27.540",
+            "offset_end": "0:16:35.000",
+            "text": "מספר האש עם הכולל, שכולם ביחד, כל הקוראים ביחד מחשבים בעשר דקות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:35.000",
+            "offset_end": "0:16:50.440",
+            "text": "ואני רוצה שאחרי עשר דקות, בממוצע, מישהו מכל הקוראים האלה יקבל את התוצאה הרצויה. זאת אומרת, אני רוצה שהדבר הזה, התוצאה הזאת, יש time בחזקת משהו, אותו n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:51.000",
+            "offset_end": "0:16:57.540",
+            "text": "כן? אז זה, 2 בחזקת n זה מספר השם שכולם ביחד מחשבים ב-10 דקות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:57.540",
+            "offset_end": "0:17:00.000",
+            "text": "וה-n הזה זה ה-hardness parameter.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:02.640",
+            "offset_end": "0:17:03.840",
+            "text": "בואו נראה מה המצב היום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:03.840",
+            "offset_end": "0:17:27.600",
+            "text": "אז המצב היום, כמו שאמרתי, הוא בערך 580 מיליון טרה אש בשנייה, כפול 10 בחזקת 12, כפול 600, נותן מספר, וזה מספר מאוד גדול כמובן, והמספר הזה הוא בערך 2 בחזקת 78, ולכן ההארדנס פרמטר היום, ביום הקלטת הסרטון הזה, הוא 78.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:28.900",
+            "offset_end": "0:17:40.400",
+            "text": "יש לנו פה דיאגרמה שמראה את מספר הטרהאש מאז 2000, בשלוש שנים האחרונות, מאז תחילת 2021,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:40.400",
+            "offset_end": "0:17:54.000",
+            "text": "אז כמו שאתם רואים, באופן כללי מספר הטרהאש עולה, יש כמובן ירידות פה ושם, אבל בסך הכל מספר, זה אומר שמספר המשתמשים או מספר הקורים בביטקוין הולך וגדל עם הזמן,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:54.000",
+            "offset_end": "0:18:08.180",
+            "text": "ובגרף השחור אתם רואים את המחיר של ביטקוין. כן, אז למחיר יש עליות, יש ירידות, לאחרונה הייתה, היה איזה C של בערך 70 אלף דולר לביטקוין, מאז היא הספיק לרדת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:08.180",
+            "offset_end": "0:18:13.880",
+            "text": "ואני מניח שעוד שנה אנחנו נראה פה עוד איזו ירידה, ואחר כך זה עלייה ומשהו כזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:17.660",
+            "offset_end": "0:18:29.700",
+            "text": "יש לנו פה תדפיס של הבלוקים האחרונים שחושבו בביטקוין, הצילום הזה הוא מלפני יום או יומיים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:29.700",
+            "offset_end": "0:18:36.400",
+            "text": "ואנחנו רואים פה פירוט, כן? למשל מה ההש שחושב, אתם רואים, זה תמיד מתחיל באפסים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:36.400",
+            "offset_end": "0:18:51.280",
+            "text": "מה מספר הבלוק, מה הגודל שלו, כמה פעולות יש באותו בלוק, מה ה-block reward, מה הפרס, כן, 3.25, ומתי זה קרה. אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:51.280",
+            "offset_end": "0:18:57.000",
+            "text": "ויש פה רשימה, ויש פה קישור שכל אחד יכול ללכת להסתכל ולראות מה המצב היום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:59.000",
+            "offset_end": "0:19:06.400",
+            "text": "הדבר האחרון שאני רוצה לדבר עליו בהקשר הזה, זה איך הפעולות שמורות, או יותר נכון, איך הן מגובות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:07.900",
+            "offset_end": "0:19:12.500",
+            "text": "אז קודם כל, אמרתי, הנתונים של כל הפעולות בבלוקצ'יין, הן שמורות בבלוק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:16.700",
+            "offset_end": "0:19:24.200",
+            "text": "ברגע שבלוק נסגר, אז יש לנו בלוק, ויש לנו רשימה של פעולות, ואז אנחנו בונים מה שנקרא עץ מרקל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:24.200",
+            "offset_end": "0:19:35.800",
+            "text": "עץ מרקל של הפעולות, ואז אנחנו בונים מה שנקרא עץ מרקל. עץ מרקל של הפעולות זה עץ בינארי, שמסכם את ערכי ההש של הפעולות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:35.800",
+            "offset_end": "0:20:08.720",
+            "text": "מה התפקיד של העץ הזה? א', למנוע אפשרות לשנות דברים, כן, לרמות ולשנות, וב', גם אפשרות מהירה לבדוק אם פעולה היא בסדר או לא. מה זה המרקל טרי הזה? אז יש לנו פה למטה את הרשימה של הפעולות, הרשימה הזאת שמורה בבלוק, בלי קשר לעץ הזה. עכשיו לכל פעולה כזאת אנחנו מחשבים את ערך ההש שלה, ואז לוקחים כל פעם זוגות ומאחדים אותן ביחד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:08.720",
+            "offset_end": "0:20:12.180",
+            "text": "זאת אומרת, אם יש לי שני השים, אוקיי, אלה הישים, אלה אותו דבר,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:12.180",
+            "offset_end": "0:20:19.000",
+            "text": "ואז אני מחשב ברמה הבאה, אני מחשב את ההש של שני ההשים האלה ביחד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:19.000",
+            "offset_end": "0:20:22.260",
+            "text": "ופה יש לי את ההש של שני ההשים האלה ביחד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:22.260",
+            "offset_end": "0:20:30.520",
+            "text": "אז מצרפים כל פעם שניים, לפעמים, אם זה אי זוגי, אז לפעמים נותר אחד בודד, אז הוא בודד, אין מה לעשות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:30.520",
+            "offset_end": "0:20:50.700",
+            "text": "ובסוף, כל רמה מאחדים שניים, בסוף מקבלים את הערך אש אחד, שזה השורש של העץ, והוא שמור בבלוק, כן? יחד עם הפעולות, שמור שם גם השורש של עץ מרקל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:51.700",
+            "offset_end": "0:20:56.860",
+            "text": "אוקיי? אז הערך אש הזה הוא חלק מהכותרת של הבלוק, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:56.860",
+            "offset_end": "0:21:10.000",
+            "text": "הכותרת של הבלוק, שגם אומרת איזה מספר בלוק וכן הלאה, ומכילה גם את האש של הבלוק הקודם. עכשיו, אם רוצים לבדוק פעולה, מה שיפה בעץ הזה זה שאם רוצים לבדוק פעולה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:10.000",
+            "offset_end": "0:21:19.000",
+            "text": "לא צריך את כל הנתונים כדי לבדוק אותם, בואו... כדי לבדוק תקינות של פעולה, לא צריך את כל המידע של העץ.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:22.000",
+            "offset_end": "0:21:27.720",
+            "text": "ונניח שאני רוצה לבדוק את טרנזקשן 3, אז בואו נסתכל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:27.720",
+            "offset_end": "0:21:32.440",
+            "text": "כדי לבדוק את טרנזקשן 3, שהיא באמת מתאימה לעץ,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:32.440",
+            "offset_end": "0:21:37.240",
+            "text": "אז אני צריך קודם כל את ההאש של טרנזקשן 3,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:37.240",
+            "offset_end": "0:21:43.080",
+            "text": "ועכשיו אני עולה למעלה ומחשב. אני צריך את ההאש של הצד הזה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:43.080",
+            "offset_end": "0:21:47.000",
+            "text": "כדי שאני אוכל לחשב את ההש של שני אלה ביחד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:47.000",
+            "offset_end": "0:21:51.500",
+            "text": "ואז אני צריך את ההש של הצד הזה כדי שאני אוכל לחשב את ההש של שניהם ביחד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:51.500",
+            "offset_end": "0:21:57.000",
+            "text": "ואז אני עולה לכאן ואני צריך את ההש של הצד הזה כדי שאני אוכל לחשב את שניהם ביחד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:57.000",
+            "offset_end": "0:22:02.000",
+            "text": "ובסוף אני בודק את ההש ששמור בכותרת של הבלוג.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:03.500",
+            "offset_end": "0:22:09.440",
+            "text": "אז אם שאני לוקח את רזקשן 3 ומחשב את כל ההאשים האלה לאורך הדרך,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:10.040",
+            "offset_end": "0:22:16.120",
+            "text": "זה מתאים להאש ששמור בכותרת של הבלוג, אז אני יודע שהפעולה תקינה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:16.120",
+            "offset_end": "0:22:19.360",
+            "text": "ואם זה לא מתאים, זה אומר שהפעולה לא תקינה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:19.840",
+            "offset_end": "0:22:22.520",
+            "text": "כרתה שם תקלה או שמישהו אפילו מנסה לרמות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:22.720",
+            "offset_end": "0:22:29.800",
+            "text": "אבל מה שיפה זה שאני צריך רק את ההאשים לאורך המסלול הזה, שזה בערך לוג 2 של מספר פעולות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:32.000",
+            "offset_end": "0:22:52.480",
+            "text": "אז זהו, אז זה מסכם את החלק על המבנה של בלוקצ'יין ועל המבנה של שרשרת הבלוקים של ביטקוין ואיך היא עובדת, ואנחנו נמשיך לדון בביטקוין בסרטונים הבאים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:52.480",
+            "offset_end": "0:23:01.480",
+            "text": "אנחנו נדבר על הבטיחות של הביטקוין, האם הוא בטוח, וגם על איך בפועל, באופן פיזי, הדברים האלה קורים. אז להתראות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1163588",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        }
+    ]
+}

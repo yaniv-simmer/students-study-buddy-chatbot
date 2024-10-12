@@ -1,0 +1,1012 @@
+{
+    "data": [
+        {
+            "offset_start": "0:00:00.720",
+            "offset_end": "0:00:04.760",
+            "text": "טוב, שלום לכולם, חזרנו מהפסקה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:06.720",
+            "offset_end": "0:00:12.280",
+            "text": "בחלק השני של השיעור, אני רוצה לדבר על סכמת חתימה אחרת, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:12.280",
+            "offset_end": "0:00:17.880",
+            "text": "ראינו קודם סכמת חתימה RSA מאוד פשוטה, היא עובדת בדיוק כמו סכמת עצבנה RSA,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:18.280",
+            "offset_end": "0:00:22.240",
+            "text": "רק בהיפוך הסדר של השימוש ב-A ו-B.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:23.240",
+            "offset_end": "0:00:27.480",
+            "text": "ועכשיו אנחנו נראה סכמת חתימה דיגיטלית שמבוססת על עקום אליפטי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:29.040",
+            "offset_end": "0:00:33.320",
+            "text": "היא מבוססת על... כן, אז עקום אליפטי זה כמו מה שראינו בשיעור שעבר,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:33.360",
+            "offset_end": "0:00:38.160",
+            "text": "אבל הסכמת, החתימה היא שונה מהסכמת הצפנה שראינו לעקום אליפטי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:39.200",
+            "offset_end": "0:00:40.680",
+            "text": "אוקיי, אז...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:42.000",
+            "offset_end": "0:00:45.500",
+            "text": "דניאל, על RSA אמרנו את כל מה שיש להגיד בנוגע לחתימה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:45.500",
+            "offset_end": "0:00:51.000",
+            "text": "כן, מעלים בחזקה ושוב מעלים בחזקה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:51.000",
+            "offset_end": "0:00:54.000",
+            "text": "זה מאוד פשוט, RSA זה מאוד פשוט.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:54.000",
+            "offset_end": "0:01:01.500",
+            "text": "קום אליפטי זה יותר מסובך בגלל שאני לא יכול סתם ככה לקחת את סכמת העצפנה של הקום אליפטי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:01.500",
+            "offset_end": "0:01:05.400",
+            "text": "ולהפוך את הסדר של הפעולות של עצפנה ופענוח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:05.400",
+            "offset_end": "0:01:10.300",
+            "text": "אני לא יכול לקחת מסמך ולפענח אותו בעקום אליפטי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:10.300",
+            "offset_end": "0:01:14.100",
+            "text": "כי בשביל לפענח משהו בעקום אליפטי, אני צריך שתי נקודות על העקום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:14.100",
+            "offset_end": "0:01:23.600",
+            "text": "אז זה לא עובד, כן? אז אני צריך... אז צריך להמציא סכמת חתימה אחרת עבור עקום אליפטי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:23.600",
+            "offset_end": "0:01:26.360",
+            "text": "כן? שהיא שונה מסכמת העצפנה. אז בואוה אחרת עבור עקום אליפטי, כן? שהיא שונה מסכמת העצפנה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:27.360",
+            "offset_end": "0:01:35.060",
+            "text": "אז בואו נזכיר מה זה עקום אליפטי. כשאני אומר e, p, a, b, כן? עקום אליפטי e, p, a, b,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:35.060",
+            "offset_end": "0:01:40.360",
+            "text": "הכוונה היא לזה ש-p הוא מספר ראשוני גדול, כן? גדול מאוד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:40.360",
+            "offset_end": "0:01:51.000",
+            "text": "ו-a ו-b הם פרמטרים של המשוואה שמגדירה את העקום, זאת אומרת שאנחנו מדברים על העקום y בריבוע קונגורנטי ל-x בשלישית פלוס a x פלוס b מודול או p.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:51.000",
+            "offset_end": "0:02:07.700",
+            "text": "אז העקום או חבורת העקום זה כל הזוגות x y שמקיימות את ה... שמקיימים... כל הזוגות x y מודול או p, כן? מספרים בין 0 0 לפי מינוס 1, שמקיימים את המשוואה הזאת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:07.700",
+            "offset_end": "0:02:16.100",
+            "text": "ויש פה איזשהו תנאי שאמור לא להתקיים, ובסדר, אנחנו, אין שום סיבה שהתנאי יתקיים, אבל צריך לזכור את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:16.100",
+            "offset_end": "0:02:18.700",
+            "text": "אוקיי, אז יש לנו עקום אליפטי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:18.700",
+            "offset_end": "0:02:30.000",
+            "text": "בשביל סכמת החתימה, כמו עבור סכמת העצבנה, אנחנו צריכים נקודה על העקום, קוראים לה נקודת בסיס, אז יש לי נקודת G על העקום, איזשהו היא X ו-Y,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:30.000",
+            "offset_end": "0:02:52.900",
+            "text": "ואנחנו צריכים את הסדר של G בחבורת העקום, זאת אומרת, העקום הוא חבורה, ראינו שיש פעולה בחבורה הזאת, פעולת חיבור, כן? אז יש פעולה בחבורה, ו-n הוא הסדר של g בחבורה הזאת, זאת אומרת, מה היא החזקה הכי קטנה של g שנותנת את איבר היחידה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:52.900",
+            "offset_end": "0:03:07.000",
+            "text": "ואני מזכיר לכם, איבר היחידה בעקום זה איזשהו איבר אבסטרקטי, אנחנו קוראים לו 0, זה לא הנקודה 0 0 במישור, זה לא הזוג x y שו 0,0, זה נקודת האפס, ככה קוראים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:07.000",
+            "offset_end": "0:03:26.900",
+            "text": "אוקיי. עכשיו אני צריך לבצע חתימה. אז כדי לבצע חתימה, כמו עבור הצפנה, יש לנו זוג מפתחות, זוג פרטי, מפתח פרטי ומפתח פומבי, מפתח סודי ומפתח פומבי, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:26.900",
+            "offset_end": "0:03:33.300",
+            "text": "גם בחתימה אני צריך את המפתח, תשוב, אני מזכיר, בשביל לחתום אני צריך את המפתח הסודי שלי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:33.300",
+            "offset_end": "0:03:39.400",
+            "text": "ובשביל לבדוק חתימה אני צריך את המפתח הפומבי של מי שאני רוצה לבדוק את החתימה שלי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:40.600",
+            "offset_end": "0:03:53.000",
+            "text": "המפתחות שאנחנו משתמשים בהם לחתימה, הן אותן מפתחות שאנחנו משתמשים עבור עצמנה ופי הנוח, אוקיי? איך זה עובד?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:53.000",
+            "offset_end": "0:04:06.100",
+            "text": "המפתח הסודי זה איזשהו מספר אקראי D בין 1 ל-O של G, או בין 1 ל-N, כן? בין 1 ל-N, N זה הסדר של G.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:12.000",
+            "offset_end": "0:04:15.500",
+            "text": "אני לוקח את G, הנקודת הבסיס, מעלה בחזקת D, שוב, אני מזכיר לכם שכשאנחנו מדברים על הקום אליפטי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:15.500",
+            "offset_end": "0:04:31.000",
+            "text": "כשאני כותב D נקודת G, הכוונה היא ל-D, D כפול G, זאת אומרת, G ועוד g ועוד g ועוד g ועוד g, d פעמים, כשהוועוד הזה, כן, זה, הוא פעולת החיבור על העקום, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:31.000",
+            "offset_end": "0:04:37.600",
+            "text": "היא הפעולה, החיבור, שהיא פעולה מסובכת, ראינו אותה וגם קודדנו אותה בשיעור שעבר, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:37.600",
+            "offset_end": "0:04:49.000",
+            "text": "אז בעצם יש לנו פה את g בחזקת d בחבורת העקום, אז כשאני מחשב את g בחזקת d בחבורת העקום, אני מקבל את q, ו-q הוא המפתח הפומבי שלי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:49.000",
+            "offset_end": "0:05:00.000",
+            "text": "אז d, שבחרתי קודם, הוא המפתח הסודי, q הוא המפתח הפומבי, g ידוע לכולם כי זה העקום, וזאת נקודת הבסיס, q ידוע לכולם כי זה המפתח הפומבי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:00.000",
+            "offset_end": "0:05:05.460",
+            "text": "כדי לגלות את d אני צריך לפתור בעיית לוגריתם דיסקרטי בחבורת העקום,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:05.460",
+            "offset_end": "0:05:08.860",
+            "text": "שאנחנו יודעים שנכון להיום זאת בעיה מאוד קשה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:09.860",
+            "offset_end": "0:05:15.760",
+            "text": "אני אומר נכון להיום כי יכול להיות שמישהו יום אחד יגלה אלגוריתם פשוט וקל כדי למצוא את D,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:15.760",
+            "offset_end": "0:05:20.060",
+            "text": "אבל עד היום אף אחד לא יודע, או לפחות ממה שאנחנו יודעים אף אחד לא יודע.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:21.060",
+            "offset_end": "0:05:36.500",
+            "text": "אוקיי? אז זה זוג המפתחות, Q ו-D. ועכשיו, זה אותו זוג מפתחות בעצם שאנחנו משתמשים בו כדי לפענח ולהצפין, אבל פעולות העצפנה והפענוח הם לא אותם פעולות, כמו הגור חתימה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:36.500",
+            "offset_end": "0:05:42.000",
+            "text": "אז פעולות החתימה ובדיקת החתימה הם לא אותם פעולות כמו בעצפנה ופענוח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:42.000",
+            "offset_end": "0:05:50.600",
+            "text": "אוקיי, אז עכשיו אליס רוצה לחתום. אז יש לה מסמך M, והיא רוצה לחתום עליו, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:51.400",
+            "offset_end": "0:05:59.800",
+            "text": "עכשיו, פעולת החתימה היא יותר פשוטה מפעולת העצפנה שראינו על הקום אליפטי, תכף תראו למה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:00.400",
+            "offset_end": "0:06:08.500",
+            "text": "אז כדי לחתום, אוקיי, היא צריכה את המפתח הסודי שלה, D-Alice, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:08.500",
+            "offset_end": "0:06:16.500",
+            "text": "יש לה את המפתח הפומבי, שבו בוב משתמש כדי לבדוק את החתימה, יש לה את המפתח הסודי, שבו היא משתמשת כדי לחתום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:16.500",
+            "offset_end": "0:06:27.000",
+            "text": "אז קודם כל היא בוחרת מספר אקראי K, אקראי וסודי, זה בדיוק כמו שהיה גם בסכמת העצפנה, היא בוחרת מספר אקראי וסודי k.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:29.500",
+            "offset_end": "0:06:38.500",
+            "text": "היא מחשבת את g, הנקודת g בחזקת k, אוקיי? שימו לב שעדיין היא לא השתמשה בכלל במסמך שעליו היא חותמת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:39.200",
+            "offset_end": "0:06:46.900",
+            "text": "אז יש לה את הנקודה g שאותה כולם יודעים, מחשבת את g בחזקת k, קורדינטות של מה שקיבלנו נקרא להם x1 y1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:50.100",
+            "offset_end": "0:07:10.300",
+            "text": "היא לוקחת ה-x1, קוראת, ניקח את ה-x1 הזה, כן? עכשיו ה-x1 y1, שימו לב, x1 y1 זה של חבורת העקום, זה נקודה של חבורת העקום, המספרים האלה הם מודולו פי. פי הוא לא בכך שווה ל-n, אז אני לוקח את ה-x1 הזה, לוקח אותו מודולו n, קוראים לזה r.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:11.600",
+            "offset_end": "0:07:15.700",
+            "text": "אם קיבלתי r שווה ל-0, לא טוב, אני חוזר, בוחר k חדש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:16.000",
+            "offset_end": "0:07:17.900",
+            "text": "אוקיי? זה לא טוב ש-r יהיה שווה 0.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:18.500",
+            "offset_end": "0:07:25.800",
+            "text": "אין סיבה שהוא יהיה 0, הסיכוי שהוא יהיה 0 מאוד קלוש, אבל אם במקרה קיבלנו אפס, אנחנו חוזרים, בוחרים k חדש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:26.800",
+            "offset_end": "0:07:33.800",
+            "text": "אוקיי. אז חישבנו את g בחזקת k, לקחתי את קורדינטת ה-x, זה r.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:35.000",
+            "offset_end": "0:07:40.600",
+            "text": "עכשיו, כדי לחתום על מסמך m, אני מחשב את הערך הש של m, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:40.600",
+            "offset_end": "0:07:52.300",
+            "text": "למשל, בעזרת הפונקציה או בעזרת האלגוריתם ה-shark 256, אנחנו כולנו כבר השתמשנו בו, אם כן, אנחנו לא יודעים בדיוק כך הוא עובד, אבל השתמשנו בו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:52.300",
+            "offset_end": "0:08:08.600",
+            "text": "אז אליס מחשב את ה-shlm. למה היא מחשבת ה-shlm? היא... הפעולה שהיא צריכה לעשות, האינפוט של הפעולה, הוא לא יכול להיות יותר גדול מ-n או מ-p של העקר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:08.600",
+            "offset_end": "0:08:12.200",
+            "text": "אז יש לי מסמך מאוד גדול, אני קודם כל מחשב את ה- של.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:12.200",
+            "offset_end": "0:08:17.400",
+            "text": "עכשיו שיש לי את ה- של m, שזה מספר, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:17.400",
+            "offset_end": "0:08:32.900",
+            "text": "אני מחשב את, שימו לב, h גוד dr, h זה ה- של m, אז פה ננס ה m, זה המקום שm נכנס לחתימה, d זה המפתח הסודי שלה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:32.900",
+            "offset_end": "0:08:50.000",
+            "text": "עכשיו היא סוף סוף משתמשת בו, ו-r זה מה שחישבנו כאן בשלב 2, 2 ו-3. אוקיי? אז h ווד dr, שימו לב שה-h, d ו-r הם כולם מספרים, אוקיי, מספרים, אז אלה פעולות כפל וחיבור רגילות בין מספרים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:51.600",
+            "offset_end": "0:09:00.000",
+            "text": "ואת זה אני כופל בהופכי של k, בהופכי של k מודולו n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:02.000",
+            "offset_end": "0:09:12.300",
+            "text": "אם מתברר של-k, n הופכים מודולו N, צריך לחזור חזרה לשלב אחד, ולחשב K חדש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:12.300",
+            "offset_end": "0:09:19.200",
+            "text": "אם התוצאה שקיבלתי פה, S היא 0, אני חוזר לשלב אחד, בוחר K חדש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:19.200",
+            "offset_end": "0:09:32.000",
+            "text": "זאת אומרת, אני צריך ש-R יהיה שונה מ-0, אני צריך ש-K יהיה הפיך מודולו-N, ואני צריך ש-S, התוצאה פה, לא תהיה אפס. אוקיי? מודולו-N.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:33.000",
+            "offset_end": "0:09:45.900",
+            "text": "יותר מזה, אני צריך ש-S יהיה הפיך מודולו-N, תכף נראה. בדרך כלל ה-N הזה הוא בכלל מספר ראשוני, אז אין בעיה, כי כל מספר אחר הוא הפיך מודולו מספר ראשוני אז אין בעיה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:45.900",
+            "offset_end": "0:09:50.900",
+            "text": "כן? הוא כולה צריך להיות זר, כדי להיות הפיך הוא צריך להיות זר לאן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:50.900",
+            "offset_end": "0:09:59.900",
+            "text": "אוקיי. אז החתימה, אני לוקח את ה-R הזה, את ה-S הזה, זאת החתימה. זוג מספרים. החתימה מורכבת מזוג מספרים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:59.900",
+            "offset_end": "0:10:28.800",
+            "text": "דני, כן, אתה, אני לא הבנתי, בשתיים רשום k כפול g שווה לנקודה לעקום, כן, איך זה עובד? כאילו, איך אני ממיר מספר לנקודה על העקום? לא, יש לך נקודה g על העקום. ה-g זה נקודה על העקום, הבנתי בצד. זה בעצם G בחזקת K על העקום, בחבורת ה...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:28.800",
+            "offset_end": "0:10:35.300",
+            "text": "אז K מכפיל את X של G ו-Y של G? זה מה שקורה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:35.300",
+            "offset_end": "0:11:11.000",
+            "text": "לא. זה, איך עובד הכפל? זה G, למדנו בשבוע שעבר, יש פעולה, פעולת חיבור על העקום, היא פעולה מסובכת, אוקיי? היא פעולה מסובכת לתיאור ולקידוד פחות, פעולה צריך לכפול שם כמה מספרים, לחלק, לקחת הופכי של מספרים, אבל ראינו את הפעולה הזאת הלהקום בשיעור שעבר, אוקיי? אני לא רוצה להיכנס אליה שוב כאן. יש פעולה, בואו נקבל את זה שיש לנו פעולה ה העקום. מה זה g נקודת g? זה g ועוד g ועוד g ועוד g, k פעמים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:11.000",
+            "offset_end": "0:11:36.000",
+            "text": "k נקודת g זה g ועוד g ועוד g, k פעמים, כשאני אומר ועוד, אני מתכוון לפעולת החיבור של נקודות על העקום. בסדר? בסדר. אנחנו גם קודדנו בשבוע שעבר את הדבר הזה, קראתי לזה power, בתוך, הגדרנו מחלקה שמתארת את העקום,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:36.000",
+            "offset_end": "0:11:53.000",
+            "text": "ובתוך המחלקה הגדרנו פעולהשה, זה לא כזה מסובך, ואת שבוע שעבר אנחנו נשתמש בזה כמובן השבוע. בסדר?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:53.000",
+            "offset_end": "0:12:15.000",
+            "text": "כן, אתה נכון. אוקיי, זהו, זאת החתימה. עכשיו, בוב אמור לקבל את החתימה הזאת ולבדוק. אז הנה, בוב מקבל את החתימה, הוא מקבל את M, את המסמך M, הוא מקבל את הזוג RS,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:15.000",
+            "offset_end": "0:12:34.000",
+            "text": "ועכשיו הוא הולך לבדוק האם החתימה היא חוקית. אז איך הוא בודק? הוא מחשב את ה של M, קודם כל הוא צריך את ה של M, בגלל שכל הפעולות חישוב נעשו עם h ולא עם m, אז הוא מחשב את ה h, כמו שאליס חשבה גם הוא מחשב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:34.000",
+            "offset_end": "0:12:56.600",
+            "text": "הוא מחשב את ההופכי של s מודולו n, אוקיי, מחשב את ההופכי של s מודולו n, באמצעות אלגוריתם אוקלידס. מחשב עכשיו שני מספרים, ברגע שיש לו את w ו-h, הוא מחשב את r כפול w כמספרים, כן, אלה מספרים, r זה הרכיב הראשון של החתימה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:58.400",
+            "offset_end": "0:13:08.600",
+            "text": "כן, אז r כפול w מודולו n, נקרא לזה u2, והוא מחשב את h כפול w מודולו n, כן, h כפול w מודולו n, נקרא לזה u2, והוא מחשב את h כפול w, מודולו n, כן, h כפול w, מודול n, נקרא לזה u1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:08.600",
+            "offset_end": "0:13:11.500",
+            "text": "כן, אז הוא מחשב עכשיו שני מספרים, u1 ו-u2,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:12.700",
+            "offset_end": "0:13:31.200",
+            "text": "והוא מחשב נקודה לעקום. עכשיו, איזה נקודה לעקום הוא מחשב? הוא לוקח את g, אותו g שכולם מכירים, בחזקת u1, g הוא נקודה לעקום, נקודה g זה g בחזקת u1 על העקום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:31.200",
+            "offset_end": "0:13:52.100",
+            "text": "עכשיו את q, מה זה q? q זה המפתח הפומבי של אליס, כן? הוא חושב את q בחזקת u2, זה u2 שיש לנו כאן, מחבר אותם, מחבר אותם, ומקבל נקודה על העקום x2 y2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:52.100",
+            "offset_end": "0:14:11.000",
+            "text": "אוקיי? x2 y2. כן? הוא מחבר אותם כנקודות על העקום, קבל פה נקודה על העקום, פה נקודה על העקום, חבר את שתי הנקודות על הע הקום, קבל x2 y2, ועכשיו החתימה היא חוקית אם x2 מודולו n שווה ל-r.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:11.000",
+            "offset_end": "0:14:51.000",
+            "text": "מי זה r? r הזה שקיבלנו. כן? אז החתימה היא חוקית, אם ורק אם x מודולו n, אפלב אפל, נותן חזרה את r שהוא קיבל כחלק מהחטיב. למה זה נכון? אז בואו נראה. אוקיי? אז h ועוד dr, מודולו n נקרא לזה s, r וs זה החתימה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:52.000",
+            "offset_end": "0:15:12.600",
+            "text": "מה עושה בוב? מקבל את החתימה rs, מחשב גם הוא את ה-h של המסמך, מחשב את ההופכי של s מודולו n זה w, מחשב שני מספרים, u1, u2, מחשב את u1, g ועוד u2, q, g בחזקת u1 ועוד q בחזקת u2, קבל עוד נקודה לעקום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:13.600",
+            "offset_end": "0:15:26.000",
+            "text": "לוקח את הרכיב x2 שלה, אם הרכיב x2 מודולו n שווה ל-r, מודולו n, אבל מי זה r? r זה X1 מודולו-N, כן? R זה X1 מודולו-N.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:26.000",
+            "offset_end": "0:15:30.900",
+            "text": "אז אם X2 מודולו-N שווה ל-X1 מודולו-N, אז החתימה היא חוקית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:30.900",
+            "offset_end": "0:15:32.900",
+            "text": "למה? בואו נראה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:32.900",
+            "offset_end": "0:15:37.900",
+            "text": "אוקיי? אז X2 זה מפה, X1 זה מפה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:37.900",
+            "offset_end": "0:15:41.900",
+            "text": "למה זה אומר שהחתימה היא חוקית? אז בואו נראה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:42.900",
+            "offset_end": "0:15:51.800",
+            "text": "אוקיי, אז מי זה s? s, אמרנו, זה k, מי זה s? s זה k מינוס 1 כפול h ועוד dr, מודולו n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:52.600",
+            "offset_end": "0:15:57.400",
+            "text": "אוקיי? אז זה s, אז בואו נחלץ מפה את k, בסדר?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:57.400",
+            "offset_end": "0:16:04.200",
+            "text": "אז אם אני מחלץ מפה את k, אז כן, מעביר את k אגף, מעביר את s אגף,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:04.200",
+            "offset_end": "0:16:30.000",
+            "text": "אז k, אם זה נכון, או אם זה נכון, אז זה נכון, זאת אומרת ש-k קונגרואנטי ל-s מינוס 1 כפול hdr, כן? פשוט העברתי את k אגףי של k את שני אגפים, החלתי ב-k את שני אגפים ובהופכי של s את שני אגפים, בסדר?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:32.000",
+            "offset_end": "0:16:38.500",
+            "text": "אוקיי, אז עכשיו בואו נפתח סוג רעיון. אז יש לנו s מינוס 1 h ועוד s מינוס 1 rd, נכון?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:38.500",
+            "offset_end": "0:16:45.100",
+            "text": "החלפתי את הסדר של dr ב-rd, זה לא משנה, זה למספרים, כפל הוא קומוטטים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:50.300",
+            "offset_end": "0:16:51.700",
+            "text": "אוקיי, s מינוס 1 זה w, אוקיי? אז כתבתי w.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:54.600",
+            "offset_end": "0:16:55.100",
+            "text": "כן, s מינוס 1 זה w, כתבתי פה w ופה w.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:00.800",
+            "offset_end": "0:17:19.000",
+            "text": "w h זה u1, כתבתי u1. w rd, אז w r זה u2, אז יש לנו בעצם U1 ועוד U2. אז קודם כל ראינו ש-K קונגואנטי ל-U1 ועוד U2D. בסדר?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:19.000",
+            "offset_end": "0:17:54.060",
+            "text": "זה לא שבוב לא יודע לא את K ולא את D, כן? K זה סודי, D זה המפתח הסודי של אליס, הוא לא יודע אותם אבל זה לא משנה אם הוא יודע או לא יודע, אנחנו יודעים ש-k קונגורנטי ל-u1 ועוד u2d, אז אוקיי, אז k הוא אותו מספר, מודולו n זה אותו מספר כמו u1 ועוד u2d, ולכן g בחזקת k שווה ל-g בחזקת u1 ועוד u2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:54.060",
+            "offset_end": "0:18:12.100",
+            "text": "כן, כי זה מודולו n, שם n הוא הסדר של g, אז כל אחד יכול לראות שאם n הוא הסדר ו-k קונגוונטי לזה, אז בחבורת העקום זה אותו איבר, g בחזקת k ו-g בחזקת u1 ועוד u2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:12.600",
+            "offset_end": "0:18:30.000",
+            "text": "אוקיי. עכשיו, מה זה u1 ועוד u2d? u1 ועוד u2d, או g בחזקת הדבר הזה, חוקי חזקות זה g בחזקת u1 ועוד g בחזקת u2d.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:31.000",
+            "offset_end": "0:18:53.300",
+            "text": "אבל g בחזקת d זה q, נכון? g בחזקת d זה q. אז מה יש לנו פה? g בחזקת קיי, עכשיו מי זה ג'י בחזקת קיי? מי זה ג'י בחזקת קיי? שימו לב, זה x1 y1,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:53.300",
+            "offset_end": "0:19:33.600",
+            "text": "זאת אומרת הרכיב x של ג'י בחזקת קיי זהכיב x שלה הוא r, בואו נסתכל על זה, u1 g ועוד u2 dg, אז זה u1 g, אבל g בחזקת d זה q, אז קיבלנו ש-g בחזקת k שווה ל-g בחזקת u1 ועוד q בחזקת u2. אבל g בחזקת u1 ועוד q בחזקת u2, קראנו זה x2 y2, אוקיי? x2 y2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:35.600",
+            "offset_end": "0:19:57.100",
+            "text": "מה רכיב x של x2 y2 זה x2? אז מה קיבלנו? שהרכיב x של g בחזקת k, שזה r, שווה לרכיב x של... מה? של הדבר הזה, כן? של הדבר הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:57.100",
+            "offset_end": "0:20:11.200",
+            "text": "וזה בדיוק מה שאנחנו בודקים, כן? זה בדיוק מה שאנחנו בודקים. זאת אומרת, אם d או אם q הוא באמת המפתח הפומבי של אליס, פה אנחנו חייבים לקבל שוויון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:12.200",
+            "offset_end": "0:20:16.600",
+            "text": "עכשיו, איפה השתמשנו בזה? שימו לב, כשאמרנו g בחזקת d שווה q.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:17.200",
+            "offset_end": "0:20:29.000",
+            "text": "זאת אומרת, אם q הוא באמת המפתח הפומבי של אליס, אנחנו צריכים לקבל פה שוויון, זאת אומרת שאנחנו אמורים לקבל פה שוויון, ולכן תוצאה של הבדיקה של החתימה תיתן לנו true.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:29.000",
+            "offset_end": "0:20:45.400",
+            "text": "אם q לא מפתח הפומבי של האליס, זאת אומרת q לא g בחזקת d, אז אנחנו לא נקבל פה שוויון, ולכן גם פה לא נקבל שוויון, ולכן הבדיקה של החתימה תיתן false.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:47.680",
+            "offset_end": "0:20:49.160",
+            "text": "אוקיי? זהו. זה הכל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:52.000",
+            "offset_end": "0:20:52.400",
+            "text": "זה נראה מסובך, נכון שזה מסובך?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:57.560",
+            "offset_end": "0:20:57.600",
+            "text": "אבל בסופו של דבר זה לא בעיה לקודד את הדברים האלה, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:02.360",
+            "offset_end": "0:21:02.400",
+            "text": "כי לחשב אופחיים, לחשב מכפלות, לחשב חזקות בעקום האליפטי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:07.700",
+            "offset_end": "0:21:34.240",
+            "text": "כבר עשינו את זה בשבוע שעבר, אז יש לנו כמעט את כל הכלים, אז לקודד את הדבר הזה זה לא קשה. זהו, זה הסוף רק של הפרק של השיעור, כן? אנחנו נעבור עוד מעט לחלק האחרון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177927",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        }
+    ]
+}

@@ -1,0 +1,1291 @@
+{
+    "data": [
+        {
+            "offset_start": "0:00:00.000",
+            "offset_end": "0:00:29.200",
+            "text": "אז על החלק האחרון של השיעור, היום אנחנו נדבר על פונקציות הש. סביר להניח שאני קצת קיצרתי את הפרק הזה, לרגל זה שהסמסטר שלנו מקוצר, אבל עדיין סביר להניח שאני לא אסיים היום בסוף השיעור, לעומת זאת, יש לי היום ב... יש פחות מה לעשות היום בתרגול,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:29.200",
+            "offset_end": "0:00:36.000",
+            "text": "אז אני אגלוש קצת עם ההרצאה היום על חשבון הזמן של התרגול, זה בסדר,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:36.000",
+            "offset_end": "0:00:41.200",
+            "text": "ומאחורי התחילה הקורס הזה מוגדר כשלוש שעות הרצאה ושעה תרגול, שזה לא הגיוני,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:41.200",
+            "offset_end": "0:00:44.500",
+            "text": "אז אם קצת ההרצאה גולשת לתרגול זה לא נורא.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:44.500",
+            "offset_end": "0:00:50.120",
+            "text": "אוקיי, אז אנחנו נדבר עכשיו על פונקציות הש ואלגוריתמי הש. ומה זה פונקציות הש?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:50.120",
+            "offset_end": "0:00:57.700",
+            "text": "אז קודם כל, בז'רגון המקצועי או בספרות, יש לפונקציות הש כמה שמות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:57.700",
+            "offset_end": "0:01:02.500",
+            "text": "פונקציית קיבוץ, או פונקציית תקציר, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:02.500",
+            "offset_end": "0:01:10.600",
+            "text": "זוכרים את המילה דייג'סט שהשתמשנו בה כאשר חישבנו הש, בשיעורים הראשונים של הסמסטר?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:10.800",
+            "offset_end": "0:01:15.000",
+            "text": "לפעמים קוראים לזה תביעת אצבע, לפעמים קוראים לזה פשוט פונקציה חד-כיווני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:15.440",
+            "offset_end": "0:01:18.760",
+            "text": "כל השמות האלה, יש פה גם רשימה של שמות באנגלית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:20.720",
+            "offset_end": "0:01:25.040",
+            "text": "אז רק שתדעו, אם אתם נתקלים בשמות האלה, כולם מכוונים לאותו דבר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:25.800",
+            "offset_end": "0:01:27.520",
+            "text": "למה משמשת פונקציית הש?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:27.560",
+            "offset_end": "0:01:33.280",
+            "text": "אז קודם כל היא משמשת לקחת מסמך ולקצר, לקבץ אותו כדי שאפשר יהיה לחתום עליו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:34.440",
+            "offset_end": "0:01:41.360",
+            "text": "אוקיי? כי החתימה, חתימה דיגיטלית, למשל בפונקציית חתימה של הקום אליפטי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:41.600",
+            "offset_end": "0:01:45.360",
+            "text": "המספר שאנחנו חותמים עליו, שאנחנו מחשבים את החתימה שלו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:45.360",
+            "offset_end": "0:01:51.360",
+            "text": "לא יכול להיות יותר גדול מה-N הזה, שהוא המודול של כל החישובים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:52.860",
+            "offset_end": "0:01:56.940",
+            "text": "כן? כי אחרת, אם הוא יהיה יותר גדול, אז הוא גם קונגורנטי למשהו יותר קטן,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:56.940",
+            "offset_end": "0:02:01.060",
+            "text": "ואז כל הפונקציות שלנו כבר לא חד-חד ערכיות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:02.460",
+            "offset_end": "0:02:12.000",
+            "text": "אז לפני שאני חותם על מסמך, אני צריך לוודא שהוא יותר קצר, או שהגודל שלו כמספר לא עובר את העין הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:12.000",
+            "offset_end": "0:02:33.000",
+            "text": "כן, אנחנו, יצירת תקציר משמש לוידוש למותו של מסמך, אנחנו, למשל, אם אני רוצה לשלוח למישהו מסמך, אני לא רוצה לחתום, ואני לא רוצה גם להצפין, אני רק רוצה לשלוח לו מסמך, ושהוא יהיה בטוח שהמסמך הזה לא השתנה בדרך. אז מה אני עושה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:33.000",
+            "offset_end": "0:02:47.000",
+            "text": "אני שולח לו את המסמך, ואני שולח לו את ההש של המסמך, הוא מקבל את המסמך. חשב גם הוא את ההש של המסמך. אם זה אותו הש, אז הוא יודע שהמסמך לא השתנה בדרך. אם ההיש שונה ממה שהוא קיבל, אז כנראה משהו קרה בדרך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:49.000",
+            "offset_end": "0:03:10.000",
+            "text": "קיבוץ מסמך לצורך עימות בעתיד, אוקיי, זה גם כן, אם אנחנו בודקים את החתימה, והחתימה היא רק על ה... לא באמת על המסמך כולו, אלא רק על ההש שלו, אז אולי לא צריך לשמור את כל המסמך, מספיק לשמור את ההשאלה. עוד שימוש שאנחנו לא נתעסק בו כאן, אבל הוא מאוד, הוא שימושי בכל מקום שיש סיסמאות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:10.000",
+            "offset_end": "0:03:26.840",
+            "text": "היום כדי, כאשר אתם נכנסים עם הסיסמה שלכם לאיזשהו אתר, לאיזשהו מקום שבו אתם צריכים סיסמה, אז לפני שבודקים את הסיסמה וחשבים את ההש שלה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:26.840",
+            "offset_end": "0:03:35.440",
+            "text": "בעצם אותו אתר הוא רק בודק את ההש של הסיסמה שלכם, ולא את הסיסמה עצמה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:35.440",
+            "offset_end": "0:03:42.240",
+            "text": "וגם כאשר, וגם האתר שבו כביכול שמורה הסיסמה שלכם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:42.240",
+            "offset_end": "0:03:46.560",
+            "text": "הסיסמה שלכם לא שמורה שם, אלא רק ההש של הסיסמה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:46.560",
+            "offset_end": "0:03:52.060",
+            "text": "אז אם היום מישהו פורץ למערכת של תל חי, והוא רוצה לדעת את הסיסמאות שלכם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:52.060",
+            "offset_end": "0:03:56.160",
+            "text": "הוא לא ימצא את הסיסמה שלכם, הוא ימצא את ההש של הסיסמה. אז זה גם שימוש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:56.160",
+            "offset_end": "0:04:11.800",
+            "text": "וגם משתמשים בהש עם מפתח סודי, זה אנחנו לא נעשה, זה נקרא Mac, Message Authentication Code, אז יש גם השם עם מפתח, אנחנו לא נעבוד עם זה, זה עוד פרק בקריפטולוגיה שאנחנו לא מספיקים לכסות בקורס הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:11.800",
+            "offset_end": "0:04:19.800",
+            "text": "אבל אנחנו נתרכז בשימוש אחד של הש, וזה קיבוץ של מסמך לצורך חתימה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:19.800",
+            "offset_end": "0:04:26.240",
+            "text": "למה? מה הבעיה עם חתימה דיגיטלית? כן, סכמות חתימה פועלות על כלת באורך קבוע.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:26.240",
+            "offset_end": "0:04:36.440",
+            "text": "למעשה, כל פונקציה שתתעסקו איתה, כמעט, חוץ מפונקציות אש, היא פונקציה שהכלת שלה מוגבל בגודל,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:36.440",
+            "offset_end": "0:04:45.620",
+            "text": "בין אם זה פונקציית עצפנה או פונקציית חתימה, כן, ועוד, כל פונקציה, כן, הקלט שלה מוגבל בגודל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:45.620",
+            "offset_end": "0:04:49.120",
+            "text": "לעומת זאת, מסמך יכול להיות בעוק גודל כלשהו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:49.120",
+            "offset_end": "0:04:56.500",
+            "text": "אז אם אנחנו באים להצפין מסמך, והוא באורך כלשהו, אין בעיה, אנחנו חלקים אותו לבלוקים ומצפינים כל בלוק בנפרד, נכון?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:56.500",
+            "offset_end": "0:05:06.760",
+            "text": "ואז יש לנו גם מודים לפעולה וכן הלאה, אבל בעיקרון, כשאני בא להצפין מסמך, אני מחלק אותו לבלוקים ומצפין כל בלוק בנפרד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:08.160",
+            "offset_end": "0:05:15.520",
+            "text": "כשאני בא לחתום על מסמך, אני לא רוצה להתחיל לחלק אותו לבלוקים ולחתום על כל בלוק בנפרד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:15.520",
+            "offset_end": "0:05:23.280",
+            "text": "בגלל שזאת פעולה שעורכת זמן. זאת פעולה שלוקחת יחסית הרבה זמן, היא פעולה שכרוך בה מפתח פומבי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:23.280",
+            "offset_end": "0:05:27.120",
+            "text": "כרוכים בה חישובים שהם לא חישובים אלמנטריים של מחשב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:27.120",
+            "offset_end": "0:05:36.360",
+            "text": "ולכן זאת פעולה שלוקחת הרבה זמן, אני לא רוצה לקחת את המסמך, לחלק אותו לבלוקים ולחתום על כל בלוק בנפרד, זה לא יהיה יעיל, זה לא מעשי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:36.360",
+            "offset_end": "0:05:42.840",
+            "text": "כן? אז זה מה שאני אומר, כן? אז... ואני גם מקבל חתימה מאוד ארוכה, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:42.840",
+            "offset_end": "0:05:47.000",
+            "text": "כי על כל בלוק אני אקבל את החתימה שלו, אז אני לא רוצה להתעסק עם זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:47.000",
+            "offset_end": "0:05:56.000",
+            "text": "אז מה הפתרון המעשי? אני מפעיל על המסמך פונקציה שיוצרת איזשהו סיכום, איזשהו תקציר של המסמך, ועליו אני חולק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:56.000",
+            "offset_end": "0:05:58.000",
+            "text": "והתקציר הזה הוא באורך קבוע.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:58.000",
+            "offset_end": "0:06:09.380",
+            "text": "כן, אז אם אני לא רוצה לעבור גודל מסוים, אני אדאג שהתקציר ייתן לי גודל בגודל הזה או משהו יותר קטן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:11.580",
+            "offset_end": "0:06:19.460",
+            "text": "מה הבעיה עם הגישה הזאת? אם אני לוקח את כל המסמכים בעולם ומקבץ אותם לגודל מוגבל,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:19.460",
+            "offset_end": "0:06:24.140",
+            "text": "אז ברור שהפונקציית הקיבוץ הזאת היא לא תהיה חד-חד ערכית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:24.140",
+            "offset_end": "0:06:28.960",
+            "text": "זאת אומרת, הרבה מסמכים יהיה להם את אותו תקציר, נכון? כי...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:32.600",
+            "offset_end": "0:06:42.960",
+            "text": "הטווח של פונקציה כזאת הוא מוגבל בגודל, אז גם כל האפשרויות לתקציר מוגבל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:42.960",
+            "offset_end": "0:06:50.000",
+            "text": "ולעומת זאת, המסמכים לא מוגבלים בגודל, אז הפונקציה הזאת לא יכולה להיות חד חד ערכית. אז זה החיסרון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:50.000",
+            "offset_end": "0:07:11.320",
+            "text": "אבל מסתבר שאם הפונקציית ההש הזאת היא פונקציה טובה, כן, פונקציה שתכננו אותה נכון, אז זאת לא יש פה הסבר למה אנחנו מצפינים בבלוקים אבל לא כדאי לחתום בבלוקים, אז הסברתי את כל זה בעל פה, כן? בעצפנה אין ברירה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:11.320",
+            "offset_end": "0:07:19.520",
+            "text": "קודם כל בעצפנה אין ברירה אלא לחלק בבלוקים, כי אנחנו כן רוצים שפונקציית העצפנה תהיה חד חד ערכית, אם היא לא תהיה חד חד ערכית אי אפשר יהיה לפעניה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:19.520",
+            "offset_end": "0:07:30.200",
+            "text": "עוד סיבה, זה שפונקציית חתימה היא הרבה יותר שכיחה מפונקציית עצפנה, ולכן מאוד רצוי שהיא תהיה יותר מהירה מפונקציית עצפנה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:30.200",
+            "offset_end": "0:08:12.700",
+            "text": "וגם סכמות חתימה הן איטיות, אמרתי אתת שלה הוא מכרוזת בישיתים באורך כלשהו והפלט הוא מכרוזת בישיתים באורך קבוע. הפלט של פונקציית הש נקרא תקציר או באנגלית Message Digest, זאת אומרת, זה התקציר של המסמך, כאילו התקציר של המסמך, כן? זה לא באמת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:12.700",
+            "offset_end": "0:08:31.000",
+            "text": "אבל לוקחים מסמך וקבלים משהו יותר קצר, אגב, לא חייבים לקבל משהו יותר קצר, כי אם המסמך שלי מאוד קצר, כן, אם המסמך שלי הוא רק מילה או שתיים, אז הפלט יהיה יותר ארוך מהמסמך. בדרך כלל המסמך הוא יותר. אוקיי? אז...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:34.000",
+            "offset_end": "0:08:53.000",
+            "text": "עכשיו, למה אנחנו משתמשים בהש? בשביל חתימה. זאת אומרת, אם אני רוצה לחתום על מסמך x, אני קודם כל מחשב את ההש שלו, כמו שעשינו בסכמת חתימה של הקום אליפטי, קודם כל מחשב את ההש שלו, כמו שעשינו בסכמת חתימה של הקורמליפטי, קודם כל מחשב את ההש שלו וחותם על ההש, לא על המסמך עצמו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:54.000",
+            "offset_end": "0:09:07.900",
+            "text": "אוקיי? אז בוב יש לו מסמך, הוא מחשב את ההש שלו, חותם עליו, ושולח לאליס את המסמך ואת החתימה על ההש של המסמך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:07.900",
+            "offset_end": "0:09:16.100",
+            "text": "כדי שבוב יוכל לבדוק את החתימה, הוא לוקח את המסמך, מחשב גם הוא את ההש של המסמך,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:16.100",
+            "offset_end": "0:09:23.300",
+            "text": "פונקציית ההש היא פונקציה שהיא ידועה לכולם, אז כולם, כל מי שיחשב את ה-h של אותו מסמך יקבל את אותו z,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:23.300",
+            "offset_end": "0:09:27.100",
+            "text": "ואז הוא בודק את החתימה על Z, לא על X אלא על Z.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:29.900",
+            "offset_end": "0:09:30.400",
+            "text": "אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:37.000",
+            "offset_end": "0:09:52.000",
+            "text": "עכשיו יש לנו בעיה, כמו שאמרתי קודם, יש לנו בעיה, בגלל ש... כן, בואו נתאר את זה. איך אני יכול לתקוף חתימה דיגיטלית, או איך אני יכול לזייף חתימה דיגיטלית?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:53.000",
+            "offset_end": "0:10:11.640",
+            "text": "אז H היא לא חד חד ערכית, היא לא יכולה להיות חד חד ערכית, נכון אמרתי? הקלט הוא באורך כלשהו, והפלט הוא באורך קבוע, זו פונקציה כזאת לא יכולה להיות חד-חד ערכית. אז כדי לזייף חתימה, כל מה שצריך זה שני מסמכים, m ו-m' שיש להם את אותו h.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:11.640",
+            "offset_end": "0:10:17.440",
+            "text": "ואז החתימה על m, והחתימה על m' יהיו אותה חתימה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:17.440",
+            "offset_end": "0:10:21.040",
+            "text": "כי אנחנו חותמים על ה-h ולא על המסמכה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:21.040",
+            "offset_end": "0:10:31.000",
+            "text": "כן, אז התקפה אפשרית, אליס חותמת על M, כן, היא מחשבת את H של M וחותמת על H של M, קבלת Y.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:31.000",
+            "offset_end": "0:11:09.760",
+            "text": "אוסקר, אותו אחד שרוצה לזייף חתימה, יש לו מסמך M' שיש לו את אותו ערך H כמו ל-M, ואז החתימה על M' היא אותה חתימה, ואז בעצם אליס חתמה על M'. מה שיוצא זה שאליס חתמה על M'. עכשיו אם M זה, אני יודע, אליס, איזשהו מסמך שאליס שמחה לחתום עליו או מוכנה לחתום עליו, נניח היא התחייבה להחזיר הלוואה בסך 100 דולר, אוקיי, אז היא, בסדר, היא תחזיר את ה-100 דולר, היא תעמוד בזה, היא חתמה על זה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:09.760",
+            "offset_end": "0:11:15.640",
+            "text": "ונניח ש-MTAG הוא מסמך שאומר שהתחייבה להחזיר הלוואה של מיליון דולר,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:15.640",
+            "offset_end": "0:11:22.040",
+            "text": "אז עכשיו אליס בעצם מחויבת להחזיר מיליון דולר, כי היא חתמה על מסמך שאומר את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:22.040",
+            "offset_end": "0:11:27.400",
+            "text": "אוקיי, אז זאת הבעיה עם פונקציות אש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:27.400",
+            "offset_end": "0:11:29.000",
+            "text": "דני? כן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:29.800",
+            "offset_end": "0:11:36.400",
+            "text": "לא סביר אבל שאם hlm' זה hlm, אז m' זה ג'יבריש?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:37.700",
+            "offset_end": "0:11:46.900",
+            "text": "בדרך כלל זה מה שיהיה, אבל יש פה בהמשך המצגת איזו שיטה של רבין,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:50.700",
+            "offset_end": "0:11:52.200",
+            "text": "שמאפשרת לחשב m ו-m' שהם בדיוק כמו שאתה רוצה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:53.100",
+            "offset_end": "0:11:54.300",
+            "text": "ולא ג'יבריש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:54.800",
+            "offset_end": "0:11:56.100",
+            "text": "אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:56.600",
+            "offset_end": "0:11:57.400",
+            "text": "אוקיי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:05.200",
+            "offset_end": "0:12:06.000",
+            "text": "אבל בעיקרון אתה צודק, זאת אומרת, אם יש לי איזשהו m שבמקרה יש לו את אותו ערך h כמו ל-m' וה-m הזה הוא איזה מסמך עם משמעות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:09.400",
+            "offset_end": "0:12:13.500",
+            "text": "ואם כבר הצלחתי למצוא m' כשיש לו אותו ערך h, רוב הסיכויים שה-m' הזה הוא ג'יבריש, בין אם זה שום בעיה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:13.500",
+            "offset_end": "0:12:18.800",
+            "text": "אבל רבין חשב על שיטה שבה ה-m' לא יהיה ג'יבריש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:18.800",
+            "offset_end": "0:12:20.500",
+            "text": "אוקיי? אז אנחנו נראה את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:21.500",
+            "offset_end": "0:12:50.000",
+            "text": "אז מה אנחנו... אז קודם כל, אנחנו צריכים לדרוש מפונקציית h את התכונה הבאה שיהיה לא מעשי מבחינה חישובית למצוא x שני מסמכים חד ערכית, היא many to one, היא לא חד חד ערכית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:50.000",
+            "offset_end": "0:12:57.000",
+            "text": "אבל להראות מעשית שהיא לא חד חד ערכית, זה מאוד קשה מבחינה חישובית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:57.000",
+            "offset_end": "0:13:12.100",
+            "text": "כדי להראות שפונקציה היא לא חד חד ערכית, אני צריך x ו-x' שיש להם את אותו ערך של הפונקציה. אז אנחנו יודעים שהיא לא חד חד ערכית, אבל להראות את זה, להדגים את זה, יהיה מאוד קשה מבחינה חישובית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:12.100",
+            "offset_end": "0:13:19.000",
+            "text": "אז לדרישה הזאת, קוראים s-c-f, זאת אומרת, זה רשת היבוד של strongly collision-free,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:19.000",
+            "offset_end": "0:13:27.000",
+            "text": "זאת אומרת, המצב הזה שבו יש x ו-x' שיש להם את אותו h זה נקרא התנגשות, באנגלית collision,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:27.000",
+            "offset_end": "0:13:35.000",
+            "text": "ואז אנחנו דורשים מהפונקציה h, ופונקציית h שאנחנו משתמשים בה, שהיא תהיה עמידה באופן חזק להתנגשות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:35.000",
+            "offset_end": "0:13:40.000",
+            "text": "זאת אומרת שאני לא אוכל, בעצם אני לא אוכל למצוא התנגשות, כלשהי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:40.000",
+            "offset_end": "0:13:53.500",
+            "text": "וכשמישהו מתכנן פונקציית h הוא צריך להוכיח באמת את הדבר הזה, אנחנו לא ניכנס לזה, אבל אנחנו כן צריכים להבין מה אנחנו דורשים מפונקציית אש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:53.500",
+            "offset_end": "0:14:10.600",
+            "text": "עוד דרישה מפונקציית, x כלשהו שה-h שלו הוא z.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:10.600",
+            "offset_end": "0:14:20.600",
+            "text": "זאת אומרת, אם יש לי pellet של הפונקציה h, אני לא יכול ללכת בכיוון ההפוך ולגלות איזשהו kellet שהיה נותן לי את הפלט הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:20.600",
+            "offset_end": "0:14:35.800",
+            "text": "כן? אז פונקציה כזאת נקראת חד-כיוונית, או one-way, מבין? כן? אז פונקציית ה' כזאת נקראת חד-כיוונית, זאת אומרת, אי אפשר לחשב את הפונקציה ההפוכה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:35.800",
+            "offset_end": "0:14:45.000",
+            "text": "אין לה פונקציה הפוכה, כי היא לא חד-חד-ערכית, אבל אני יכול לחשב איזשהו כלט כלשהו שהיה נותן את הפלט הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:00.000",
+            "offset_end": "0:15:01.000",
+            "text": "אפשר להראות בקלות שאחת הדרישות היא מיותרת, זאת אומרת, אם אני יודע שהיא עמידה להתנגשויות, אז היא בהכרח גם one way.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:22.000",
+            "offset_end": "0:15:28.600",
+            "text": "אז אם פונקציה היא עמידה להתנגשויות, אז היא בהכרח one-way. אוקיי? כי בוא נניח שהיא עמידה להתנגשויות והיא לא one-way. נניח שהיא לא one-way, זאת אומרת, אני יכול לחשב את... יש לי איזשהו z, אם נתון לי z, אני יכול לחשב איזשהו x בכיוון ההפוך, כן? את ה-x שהוא הפלט שלה. אז אני מחשב בכיוון הישר ואז נקח את הכיוון ההפוך? בדיוק, כן, אז אני אקח איזשהו X, אני אחשב בכיוון הישר,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:28.600",
+            "offset_end": "0:15:34.000",
+            "text": "ואז אני אחשב בכיוון ההפוך, אני אקבל איזשהו X אחר, X טאג אחר רוב הסיכויים, נכון?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:34.000",
+            "offset_end": "0:15:39.800",
+            "text": "כי many to one, ואז יתברר שהיא גם לא עמידה להתנגשויות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:39.800",
+            "offset_end": "0:15:43.800",
+            "text": "זאת אומרת, אם היא לא one way, אז אני יכול ליצור בקלות התנגשות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:45.120",
+            "offset_end": "0:15:53.400",
+            "text": "אוקיי? אבל טוב שיש לנו את שתי ההגדרות, כי one way זה טוב למשל לסיסמאות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:53.400",
+            "offset_end": "0:16:03.080",
+            "text": "זאת אומרת, בוא נגיד שפרץ, מישהו פרץ לקובץ הסיסמאות של תל חי, מצא את הסיסמה שלכם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:03.080",
+            "offset_end": "0:16:07.000",
+            "text": "אבל הוא לא מצא את הסיסמה שלכם, הוא הוא לא מצא את הסיסמה שלכם, הוא מצא את ההש של הסיסמה שלכם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:07.000",
+            "offset_end": "0:16:28.160",
+            "text": "זה לא עוזר לו, בגלל שהוא לא יוכל לחשב בכיוון ההפוך איזושהי סיסמה שתיתן את ההש הזה, ולכן זה לא יאפשר לו להיכנס כאילו הוא אתם, כן? ‫אז יש חשיבות גם לגמרי, ‫אבל עם פונקציית השש אנחנו דורשים",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:28.240",
+            "offset_end": "0:16:30.640",
+            "text": "‫שהיא תהיה עמידה באופן חזק להתנגשויות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:32.800",
+            "offset_end": "0:16:37.280",
+            "text": "‫ועכשיו, אוקיי, ‫מה אנחנו עושים עם פונקציות השש כאלה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:37.680",
+            "offset_end": "0:16:43.680",
+            "text": "‫אז כמו שאמרתי, בגדול השימוש שלנו ‫בפונקציות השש הוא לאפשר חתימה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:43.760",
+            "offset_end": "0:16:47.000",
+            "text": "‫זאת אומרת, לקחת מסמך,, לקבץ אותו ואז לחתום עליו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:49.500",
+            "offset_end": "0:16:57.000",
+            "text": "אבל יש עוד כמה שימושים, כמו שתיארתי קודם בעל פה, זאת אומרת, יש לנו, נניח שיש לנו פונקציה הש h,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:57.000",
+            "offset_end": "0:17:11.900",
+            "text": "אז אני יכול להשתמש בזה קודם כל לבדיקת שלמות. מה זה בדיקת שלמות? אני לוקח את המסמך, חשב את ה-, את ההש, חשב את ההש, מצפין את המסמך, שולח את המסמך...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:16.360",
+            "offset_end": "0:17:31.000",
+            "text": "אה, כן, מצפין את ההש, שימו לב, מצפין את ההש, אוקיי, שולח את המסמך עם ההש המוצפן, ואז בהנחה שלצד השני יש גם את המפתח שאיתו מפענחים את ההש,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:31.000",
+            "offset_end": "0:17:38.000",
+            "text": "הוא מחשב האם, מחשב את ההש של המסמך, אם זה אותו ההש ששלחנו, אז הוא אומר שהמסמך לא השתנה בדרך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:38.000",
+            "offset_end": "0:18:08.360",
+            "text": "אז זה שימוש אחד לבדיקת שלמות. אנחנו יכולים גם לבדוק, גם להצפין את המסמך עצמו, זאת אומרת, כן, אני יכול לחשב את המסמך, לחשב את ההש של המסמך, להצמיד אותם, להצפין את הכל, לשלוח לצד השני, הצד השני מפענח את הכל, ואז יש לו את המסמך ואת האש של המסמך, ‫ובו הוא בודק אם ההש שהוא מחשב ‫תואם להש ששלחנו לו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:09.480",
+            "offset_end": "0:18:12.880",
+            "text": "‫אוקיי? וככה, שוב, ‫הוא יודע שהמסמך לא השתנה בדרך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:14.200",
+            "offset_end": "0:18:22.040",
+            "text": "‫כן? אפשר לבדוק שלמות ולחתום, ‫זאת אומרת, לקחת מסמך,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:23.160",
+            "offset_end": "0:18:35.600",
+            "text": "‫לחשב את האש שלו, לחתום על ה-H, לשלוח את המסמך עם החתימה ולבדוק את החתימה, את זה כבר עשינו, ואפשר גם לעשות גם וגם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:35.600",
+            "offset_end": "0:18:44.360",
+            "text": "זאת אומרת, גם לבדוק שלמות, גם לחתום וגם להצפין באותה הזדמנות את המסמך, אז אני לא אכנס פה לפירוט הזה, אבל אפשר לשלוח את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:44.360",
+            "offset_end": "0:19:06.760",
+            "text": "אתה יכול לחזור על ה... 13? 13, כן, זה משהו שכנעתי. 12, 12. כן. 12 זה משהו שתיארתי כבר קודם, יש לי מסמך, אוקיי? ויש לי, ואני מחשב את ההש שלו, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:06.760",
+            "offset_end": "0:19:13.720",
+            "text": "אז אני שולח את המסמך עם ההש שלו, לטר ביטחון אני מצפין את זה, שניהם ביחד, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:13.720",
+            "offset_end": "0:19:16.600",
+            "text": "אז אני שולח את ההצפנה של המסמך עם ההש שלו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:17.600",
+            "offset_end": "0:19:24.880",
+            "text": "צד השני מפענח את זה, אז עכשיו יש לו את המסמך ואת ההש שאני חישבתי, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:33.280",
+            "offset_end": "0:19:39.280",
+            "text": "ההש שאני חישבתי. מה עושה הצד השני? מחשב בעצמו את ההש ומשווה עם ההש שאני חישבתי. למה זה סודיות? זה, אוקיי, שזה אומר, שנייה, סודיות זה אומר ש...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:39.280",
+            "offset_end": "0:19:44.280",
+            "text": "סודיות זה עצפנה, כי אני רוצה, חשובה לי הסודיות של המצפה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:44.280",
+            "offset_end": "0:19:53.000",
+            "text": "הוא בודק שהעצפנה היא כן נכונה. כן. אוקיי. בסדר? אז אם הוא מקבל את אותו אש, כנראה שהמסמך לא השתנה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:53.000",
+            "offset_end": "0:20:32.300",
+            "text": "כי אם המסמך היה משתנה, רוב הסיכויים שזה היה נותן אותו אש אחר, כשאני מחשב את האש של המסמך. בסדר? והדבר האחרון שאפשר לעשות עם הש. זה גם לדאוג שאפשר יהיה לבדוק אם הוא לא ישתנה, גם לחתום עליו, וגם להצפין באותה הזדמנות, כן? אז בשתי דקות שנותרו לנו עד הסוף של השיעור, אז בואו אולי נתאר בדיוק מה אנחנו עושים. אנחנו לוקחים את המסמך, חותמים כדי לחתום עליו, כן? כדי לחתום, סליחה, חשבים את ההש כדי לחתום עליו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:35.600",
+            "offset_end": "0:20:54.500",
+            "text": "כן? מחשב את ההש כדי לחתום על המסמך. לוקח את המסמך ומצמיד לו את החתימה. אוקיי? מצפין את כל הסלט הזה, כן? את המסמך עם החתימה על ההה של המסמך, מצפין את זה, שולח, כן? שולח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:56.000",
+            "offset_end": "0:21:10.500",
+            "text": "אז אם הפעולה האחרונה שעשיתי זה הצפנה, אז הצד השני קודם כל מפענח, קבל את המסמך ואת החתימה על ה- של המסמך, אוקיי? ועכשיו הוא רוצה לבדוק את החתימה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:10.500",
+            "offset_end": "0:21:19.700",
+            "text": "אז קודם כל הוא בודק את החתימה, אוקיי? בודק את החתימה, זאת אומרת, מפעיל את הפונקציה ור של החתימה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:19.700",
+            "offset_end": "0:21:32.000",
+            "text": "באמצעות המפתח הפומבי של מי ששלח, אפילו את הפונקציה ור, אבל הפונקציה ור בודקת את החתימה על ה-H, נכון? היא בודקת את החתימה על ה-H.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:33.000",
+            "offset_end": "0:21:42.500",
+            "text": "אז אני קודם כל מחשב את ה-H ובודק את החתימה על ה-H של המסמך, ולא על המסמך עצמו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:42.500",
+            "offset_end": "0:21:47.700",
+            "text": "אז כדי שאני אוכל לבדוק את החתימה, אני צריך קודם כל לחשב את ה-H שלו, ואז אני בודק את החתימה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:49.100",
+            "offset_end": "0:21:49.800",
+            "text": "אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:52.000",
+            "offset_end": "0:21:56.900",
+            "text": "אז בסך הכל, עכשיו יש עוד מרכיב שלא הכנסתי אותו כאן,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:58.200",
+            "offset_end": "0:22:02.600",
+            "text": "והוא בעצפנה, כן? בעצפנה, הרי אתם זוכרים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:02.900",
+            "offset_end": "0:22:11.240",
+            "text": "כדי להצפנה, כן, בעצפנה, הרי אתם זוכרים, כדי להצפין משהו, כדי שצד השני ידע מה המפתח, אני צריך להשתמש במפתח סימטרי, נכון?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:11.240",
+            "offset_end": "0:22:17.760",
+            "text": "אם יש לי מסמך גדול, אני לא אשתמש בסכמת מפתח פומבי כדי להצפין אותו, אני אשתמש במפתח סימטרי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:18.760",
+            "offset_end": "0:22:30.860",
+            "text": "אז חסר פה עוד מרכיב שכבר תרגלנו אותו, ויש לכם אותו כתרגיל בית, זה להצפין את המפתח K, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:30.860",
+            "offset_end": "0:22:34.140",
+            "text": "אם אני רוצה, נניח, להשתמש ב-AES כדי להצפין את המסמך,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:34.140",
+            "offset_end": "0:22:40.120",
+            "text": "אז אני אצפין את המפתח K באמצעות המפתח, בשיטת מפתח פומבי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:40.120",
+            "offset_end": "0:22:48.900",
+            "text": "זאת אומרת, אני אגריל, אם אליס רוצה לשלוח לבוב, אז תגריל מפתח, תצפין אותו בעזרת המפתח הפומבי של בוב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:48.900",
+            "offset_end": "0:22:54.300",
+            "text": "ותשלח את המפתח ה-AES, מוצפן באמצעות המפתח הפומבי של בוב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:54.300",
+            "offset_end": "0:22:59.000",
+            "text": "ואז בוב צריך לפענח את המפתח K, ואז הוא יכול לעשות את כל מה שהוא עוסק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:59.000",
+            "offset_end": "0:23:15.000",
+            "text": "זאת אומרת, יש פה עוד שכבה של שימוש במפתח פומבי כדי להצפין את המפתח K. אז את זה לא קללתי כאן בתרשים הזה, אבל זאת שכבה שכבר תרגלנו אותה כשתרגלנו שימוש במפתח פומבי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:17.000",
+            "offset_end": "0:23:29.000",
+            "text": "אוקיי, זהו, אז זה הסוף של השיעור הזה, אני אדבר עוד בערך, לא יודע, שליש של השיעור, של התרגול, אני אדבר על פונקציות הש,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:30.000",
+            "offset_end": "0:23:50.000",
+            "text": "ואחרי זה נתרגל גם שימוש בחתימות, בשיטת הקומליטי, אוקיי? טוב. אוקיי. אז נתראה בעוד שישה. תודה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177928",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        }
+    ]
+}

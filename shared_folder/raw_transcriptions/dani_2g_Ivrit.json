@@ -1,0 +1,616 @@
+{
+    "data": [
+        {
+            "offset_start": "0:00:01.000",
+            "offset_end": "0:00:02.340",
+            "text": "טוב, שלום לכולם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:03.100",
+            "offset_end": "0:00:06.200",
+            "text": "זה השיעור השלישי שלנו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:06.480",
+            "offset_end": "0:00:11.880",
+            "text": "היום אני רוצה להעיר עוד הערה אחת לגבי צופני זרם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:12.480",
+            "offset_end": "0:00:17.920",
+            "text": "ואחר כך אנחנו, הנושא המרכזי של השיעור שלנו יהיה צופני בלוקים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:18.720",
+            "offset_end": "0:00:23.240",
+            "text": "אוקיי, אז אני רוצה רגע לחזור למצגת של צופן זרם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:23.440",
+            "offset_end": "0:00:24.640",
+            "text": "עדיין יש שתי הערות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:25.200",
+            "offset_end": "0:00:33.400",
+            "text": "אז הדבר האחרון שראינו בשיעור האחרון, זה הייתה הגדרה של היתרון, אדוונטג' של מבחן סטטיסטי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:33.900",
+            "offset_end": "0:00:53.800",
+            "text": "שהוא מבטא את היכולת של מבח�ראית לחלוטין, כן? או בין פלט של ג'י פר-ג לבין מכרוזת אקראית לחלוטין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:53.800",
+            "offset_end": "0:01:00.800",
+            "text": "אז בשביל לעשות את זה, אנחנו צריכים לחשב את ההסתברות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:00.800",
+            "offset_end": "0:01:12.200",
+            "text": "שמבחן סטטיסטי יגיד שהפר-ג שלנו הוא אקראי, פחות ההסתברות שאותו מבחן סטטיסטי יגיד על מכרוזת אקראית שהיא אקראית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:12.200",
+            "offset_end": "0:01:32.000",
+            "text": "אוקיי? אז בהנחה נאמר שיש לנו מבחן סטטיסטי טוב, אז אם אנחנו נקבל פה advantage שהוא לא אפס, או שהוא משמעותית שונה מאפס, אז זה אומר שה-PRG הוא לא טוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:32.000",
+            "offset_end": "0:01:54.000",
+            "text": "אוקיי? עכשיו, כדי לחשב את ההסתברויות האלה, תראו, לחשב הסתברות של מכרוזת אקראית, אנחנו יודעים מה ההסתברות של מכרוזת אקראית, כן? אם היא... זה הסתברות אחידה. אבל כדי לחשב את ההסתברות של פלט של צופן או של PRG מסוים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:54.000",
+            "offset_end": "0:01:56.840",
+            "text": "זה עלול להיות מאוד מסובך לחשב את זה בדיוק,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:56.840",
+            "offset_end": "0:02:04.640",
+            "text": "ולכן הדרך שהטובה... דרך אחרת למכות את זה, זה פשוט לייצר הרבה הרבה פלטים כאלה, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:04.640",
+            "offset_end": "0:02:06.560",
+            "text": "זה מה שאתם צריכים גם לעשות בתרגיל בית, לייצר הרבה הרבה פלטים כאלה, כן? זה מה שאתם צריכים גם לעשות בתרגיל בית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:06.560",
+            "offset_end": "0:02:12.060",
+            "text": "לייצר הרבה הרבה פלטים כאלה, ולראות באיזה אחוז מהמקרים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:12.060",
+            "offset_end": "0:02:18.560",
+            "text": "המבחן הסטטיסטי אומר לנו שזה אקראי, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:18.560",
+            "offset_end": "0:02:25.600",
+            "text": "ואם האחוז הוא אותו אחוז, גם עבור ה-PRG וגם עבור מכרוזת באמת אקראית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:25.680",
+            "offset_end": "0:02:30.640",
+            "text": "אז זה אומר שה-advantage הוא אפס, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:31.000",
+            "offset_end": "0:02:35.280",
+            "text": "אז זה מה שאתם צריכים לעשות, אתם לא אמורים לחשב את ההסתברות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:35.360",
+            "offset_end": "0:02:40.160",
+            "text": "אלא פשוט להריץ את זה הרבה פעמים, לקבל פלטים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:40.240",
+            "offset_end": "0:02:44.000",
+            "text": "לראות באיזה אחוז מהמקרים המבחן הסטטיסטי הנתון, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:44.080",
+            "offset_end": "0:02:45.880",
+            "text": "יש לכם שם שלושה מבחנים סטטיסטיים, ואיזה אחוז מהמקרים המבחן הסטטיסטי הנתון, כן? יש לכם שם שלושה מבחנים סטטיסטיים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:45.880",
+            "offset_end": "0:02:54.760",
+            "text": "באיזה אחוז מהמקרים זה נותן לכם תשובה אחד, אוקיי? ואז, או נותן לכם true במקרה הזה, ואז...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:58.900",
+            "offset_end": "0:03:01.760",
+            "text": "זהו, זאת ההסתברות בעצם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:03.200",
+            "offset_end": "0:03:08.560",
+            "text": "אז בעצם ראינו, שוב, אני חוזר לנושא המרכזי, יש לנו PRG.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:08.560",
+            "offset_end": "0:03:15.000",
+            "text": "PRG זאת פונקציה שמקבלת איזשהו input של seed,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:15.000",
+            "offset_end": "0:03:18.880",
+            "text": "ומייצרת לנו מכרוזת ביטים באורך שאנחנו צריכים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:19.280",
+            "offset_end": "0:03:21.160",
+            "text": "אוקיי? באורך שאנחנו מגדירים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:22.160",
+            "offset_end": "0:03:46.600",
+            "text": "אנחנו רוצים שהמכרוזת הזאת תהיה אקראית, או תראה אקראית. היא לא יכולה להיות אקראית, אבל שהיא תראה אקראית. כדי לבדוק האם היא נראית אקראית, אנחנו מריצים עליה מבחנים סטטיסטיים. ואז אנחנו אומרים, יש לנו הגדרה, כן? רגע, מי הא� אפרים, אוקיי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:50.140",
+            "offset_end": "0:03:55.100",
+            "text": "הגענו לפה, רגע, היינו, אה, והיה לנו תרגילים, עשינו את זה, ואז יש לנו הגדרה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:55.300",
+            "offset_end": "0:04:05.320",
+            "text": "מה זה PRG בטוח? PRG הוא בטוח אם אין מבחן סטטיסטי שמסוגל להבחין בינו לבין מחוזת אקראית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:08.280",
+            "offset_end": "0:04:08.520",
+            "text": "אם כל המבחנים הסטטיסטיים הקיימים שאתם מכירים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:11.800",
+            "offset_end": "0:04:12.340",
+            "text": "לא מצליחים להבחין בינו לבין מחוזת אקראית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:14.000",
+            "offset_end": "0:04:15.720",
+            "text": "אז אומר שה-PRG הזה הוא פתוח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:20.580",
+            "offset_end": "0:04:20.600",
+            "text": "ואז זה אומר בעצם שזה PRG טוב, אנחנו יכולים לקחת את הפלט שלו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:23.280",
+            "offset_end": "0:04:23.300",
+            "text": "לעשות קסור עם הפלנטקסט, לקבל סייפרטקסט,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:27.680",
+            "offset_end": "0:04:34.760",
+            "text": "והסייפרטקסט גם יהיה אקראי ויהיה קשה לפיצוח. היה לנו מושג אחר בתחילת הדיון שלנו על PRG, וזה היה מושג של צפוי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:34.760",
+            "offset_end": "0:04:48.120",
+            "text": "ראינו שיש הגדרה ל-PRG צפוי, מה זה PRG צפוי? זה אם יש איזשהו אלגוריתם שיכול באיזשהו שלב לחזות את הביט הבא בהסתברות של יותר מחצי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:48.960",
+            "offset_end": "0:04:50.640",
+            "text": "אוקיי? ואז הוא נקרא צפוי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:50.640",
+            "offset_end": "0:04:59.200",
+            "text": "ומסתבר ששני המושגים האלה הם מקבילים או הם שקולים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:59.960",
+            "offset_end": "0:05:01.240",
+            "text": "אוקיי? אז...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:02.240",
+            "offset_end": "0:05:08.920",
+            "text": "אז השאלה היא האם PRG, האם אפשר להוכיח שPRG הוא בטוח? אוקיי, אז... אז השאלה היא, האם PRG, האם אפשר להוכיח ש-PRG הוא בטוח, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:08.960",
+            "offset_end": "0:05:12.680",
+            "text": "יש לכם PRG, אנחנו מריצים מבחנים סטטיסטיים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:12.720",
+            "offset_end": "0:05:16.520",
+            "text": "יש אין סוף מבחנים, יש אין ספור מספרים מבחנים סטטיסטיים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:16.560",
+            "offset_end": "0:05:22.200",
+            "text": "ואנחנו רוצים להגיד, האם אפשר מתמטית להוכיח ש-PRG נתון הוא בטוח, והתשובה היא לא,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:22.240",
+            "offset_end": "0:05:29.500",
+            "text": "ואם התשובה הייתה חיובית, זה היה אומר בעצם ש-P שווה ל-NP, מי שלמד חישוביות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:29.500",
+            "offset_end": "0:05:42.100",
+            "text": "ומכיוון שאנחנו לא יודעים אם P שווה ל-NP, אז, סליחה, זה אומר ש-P שונה מ-NP, אבל מכיוון שאנחנו לא יודעים, אז אנחנו גם לא יודעים אם PRG הוא בטוח,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:42.100",
+            "offset_end": "0:05:45.360",
+            "text": "ושוב, אמרתי, יש את המושג של צפוי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:45.360",
+            "offset_end": "0:05:47.960",
+            "text": "אתה יכול להסביר בקטנה לפחות למה זה אומר את זה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:49.360",
+            "offset_end": "0:05:51.000",
+            "text": "לא, זה, לא, אני לא יכול.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:53.080",
+            "offset_end": "0:06:14.000",
+            "text": "אבל, תראה, כדי להוכיח ש-PRG הוא בטוח, אתה צריך, התהליך הזה צריך להיות תהליך שאפשר חישובית לעשות אותו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:14.000",
+            "offset_end": "0:06:20.500",
+            "text": "ואפשר בזמן סביר לעשות אותו, בזמן פולינומיאלי לעשות אותו, כן? כדי להוכיח ש-PRG,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:20.500",
+            "offset_end": "0:06:29.360",
+            "text": "או אם יש איזשהו תהליך שמאפשר לנו לבדוק מתמטית אם PRG הוא בטוח,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:29.360",
+            "offset_end": "0:06:34.600",
+            "text": "זה אומר שמתמטית אפשר באיזשהו תהליך, בזמן פולין אומר לי לעשות את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:35.800",
+            "offset_end": "0:06:37.400",
+            "text": "ואין, אנחנו לא יודעים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:41.400",
+            "offset_end": "0:06:50.000",
+            "text": "טוב, אז היה לנו את המושג של צפוי, ויש לנו משפט ש-PRG הוא בטוח, אם הוא בטוח אז הוא לא צפוי, אוקיי, שזה הגיוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:50.000",
+            "offset_end": "0:07:02.000",
+            "text": "יש פה הוכחה, אני לא אעבור עליה, בעיקרון ההוכחה אומרת, אוקיי, נניח שהוא צפוי, ואז יש לנו אלגוריתם שמאפשר לנו לחזות את הביטה הבאה, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:02.000",
+            "offset_end": "0:07:09.600",
+            "text": "את הביטה I ועוד אחד, בהסתברות של יותר מחצי, ואז בעזרת האלגוריתם הזה אני בעצם בונה מבחן סטטיסטי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:09.600",
+            "offset_end": "0:07:20.800",
+            "text": "שמאפשר לנו להבחין בין מכרוזת פלט של G לבין מכרוזת אקראית באותו אורך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:20.800",
+            "offset_end": "0:07:55.400",
+            "text": "אז אני לא אעבור על החישוב, אבל זה לא כל כך מסובך. ואז יש לנו גם את הכיוון ההפוך, שאומר ש-PRG שהוא לא צפוי, הוא בטוח, וזה משפט יותר מסובך, אם קודם ההוכחה לקחה שקף, אז פה היא אמורה לקחת איזה 4-5 שקפים, ואני לא אעבור על זה. בסופו של דבר, מה שאנחנו צריכים לדעת, ששני המושגים האלה הם שקולים. זאת אומרת, אם באיזשהו שלב מסוים ב-PRG ניתן לחזות את הביט הבא בהסתבבות של יותר מחצי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:55.400",
+            "offset_end": "0:08:09.800",
+            "text": "זה אומר שיש מבחן סטטיסטי שיכול להבחין בין הפלט של אותו PRG לבין מכרוזת אקראית. ולהפך, אם יש מבחן סטטיסטי שיכול להבחין בין פלט של פר-ג'י למחוזת אקראית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:09.800",
+            "offset_end": "0:08:48.560",
+            "text": "אז אפשר באמצעות אותו מבחן סטטיסטי לבנות אלגוריתם שצופה באיזשהו שלב את הביטה הבאה, בהסתברות של יותר מחץ. אוקיי? אז בסופו של דבר, כדי לסכם את הנושא הזה, כדי שאנחנו נוכל, או כדי שצופן, או תנאי לכך שצופן יהיה צופן טוב, מה שנקרא, או קשה לפריצה, זה אומר שהסייפר טקסט של הצופן צריך להיות משהו שנראה אקראי, מכל זווית שהיא, על ידי כל קריטריון שנריץ, הסייפר טקסט צריך להיות אקראי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:48.880",
+            "offset_end": "0:08:53.660",
+            "text": "עכשיו, הסייפר טקסט, עד עכשיו, איך קיבלנו אותו?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:53.740",
+            "offset_end": "0:08:59.380",
+            "text": "יצרנו מכרוזת אקראית, שנראית אקראית, ועשינו קסור עם הפליינטקסט, קיבלנו את הסייפר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:59.660",
+            "offset_end": "0:09:09.000",
+            "text": "אז זאת דרך אחת להצפין, ליצור מכרוזת אקראית, או שנראית אקראית, ולעשות לה כסור עם הפליינטקסט. עוד דרך אחת להצפין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:10.000",
+            "offset_end": "0:09:32.000",
+            "text": "דרך אחרת להצפין, זה הנושא הבא. כן? דרך אחרת להצפין זה לא רק על י לו קסור עם משהו, אלא לעבד אותו בצורה אחרת, וזה מוביל אותנו לנושא הבא, שזה הנושא של צופן בלוקים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:32.000",
+            "offset_end": "0:09:42.000",
+            "text": "אוקיי, אז אני אעצור כאן את ההקלטה, ונעבור.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1165269",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        }
+    ]
+}

@@ -1,572 +1,643 @@
 {
-  "data": [
-    {
-      "offset_start": "0:00:00.880",
-      "offset_end": "0:00:03.760",
-      "text": "שלום, ברוכים הבאים לקורס מעבולת קריפטולוגיה.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:00:03.760",
-      "offset_end": "0:00:08.080",
-      "text": "בסרטון הזה אני אתאר את הקורס ומה הדרישות.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:00:08.640",
-      "offset_end": "0:00:10.760",
-      "text": "בואו נעבור למצגת שהכנתי.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:00:12.920",
-      "offset_end": "0:00:16.480",
-      "text": "אז פה, כמו שאמרתי, זה הקורס מעבולת קריפטולוגיה,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:00:16.480",
-      "offset_end": "0:00:21.800",
-      "text": "הקריפטולוגיה היא תורת העצבנות, אנחנו רואים פה כמה תמונות שקשורות בנושא הזה.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:00:21.800",
-      "offset_end": "0:00:45.000",
-      "text": "החל מכתב יד עתיק בערבית מלפני 1200 שנה בערך, שמתאר איך אפשר לפרוץ צופן מסוים. יש לנו כאן את מכונת האניגמה, שצוות בראשותו של אלן טיורינג עסק בלפרוץ את הצופן הזה בזמן מלחמת עולם השנייה. הצוות הזה היה ממוקם באחוזה שנקרא בלצ'לי פארק,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:00:45.000",
-      "offset_end": "0:00:49.000",
-      "text": "ואנחנו רואים אותה ברקע כאן מאחוריי, עם תמונה מאותה תקופה.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:00:49.000",
-      "offset_end": "0:00:55.000",
-      "text": "אז אחרי שראינו את זה, אולי נעבור לתמונה יותר רלוונטית עבורנו.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:01:00.000",
-      "offset_end": "0:01:11.500",
-      "text": "מי שזוכר, זה קמפוס מערב של מיכאל טלחי. אחר כך יש לנו פה סכמה של צופן מודרני משנות ה-60 של המאה ה-20,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:01:11.500",
-      "offset_end": "0:01:20.000",
-      "text": "ובסוף יש פה את הלוגו של ביטקוין, שזה אולי אחד השימושים היותר עכשוויים של קריפטולוגיה.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:01:20.000",
-      "offset_end": "0:01:28.440",
-      "text": "אז כמו שאמרתי, קריפטוגרפיה או קריפטולוגיה, אני לא אבחין בין שני המושגים, יש כאלה שמבחינים, אבל אני לא אבחין ביניהם.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:01:28.440",
-      "offset_end": "0:01:37.560",
-      "text": "המקור של המילה הזאת הוא ביוונית, קריפטו זה סודי, גרפיה זה כתיבה, ולוגיה זה תורה, אז מי שבוחר לוגיה זה תורה, מי שבוחר גרפיה זה כתיבה.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:01:37.560",
-      "offset_end": "0:01:45.600",
-      "text": "זה המדע עוסק באמצעים לשמירת סודיות של מידע, על ידי הצפנה למשל, ובדרכים לפגוע בסודיות.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:01:45.600",
-      "offset_end": "0:01:49.400",
-      "text": "זאת אומרת, באיזה דרכים אפשר לפרוץ סופנים.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:01:49.400",
-      "offset_end": "0:01:51.600",
-      "text": "למה הנושא הזה הוא כל כך מרתק?",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:01:51.600",
-      "offset_end": "0:01:58.600",
-      "text": "עובדה היא שהנושא הזה הוא מרתק גם בתרבות הפופולרית, בספרות, סופרים שכתבו על זה,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:01:58.600",
-      "offset_end": "0:02:03.600",
-      "text": "סרטים שבהם היו משולבים אלמנטים של קריפטוגרפיה,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:02:03.600",
-      "offset_end": "0:02:08.280",
-      "text": "ואפילו מיתוסים שזה מין סיפורים שלא בטוח שהם נכונים,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:02:08.360",
-      "offset_end": "0:02:11.040",
-      "text": "כמו למשל הסיפור הזה על האוצרת של תומאס ביל,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:02:11.120",
-      "offset_end": "0:02:16.000",
-      "text": "שזה איזשהו מסמך מוצפן שיש מהמאה ה-19,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:02:16.080",
-      "offset_end": "0:02:22.440",
-      "text": "שיש הטוענים שהוא מתאר מקום מדויק שבו נמצא אוצר של כמה מיליון,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:02:22.520",
-      "offset_end": "0:02:24.760",
-      "text": "ששווה היום כמה מיליוני דולרים,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:02:24.840",
-      "offset_end": "0:02:27.360",
-      "text": "ויש אנשים שלוקחים את הסיפור הזה ברצינות.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:02:28.440",
-      "offset_end": "0:02:32.560",
-      "text": "‫יש מקרים מפורסמים מההיסטוריה, ‫אני אתאר אותם בהמשך,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:02:32.640",
-      "offset_end": "0:02:40.240",
-      "text": "‫בשיעור הבא, ‫שהוא יהיה איזושהי סקירה היסטורית",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:02:40.360",
-      "offset_end": "0:02:44.120",
-      "text": "‫של התורה הזאת.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:02:44.720",
-      "offset_end": "0:02:53.000",
-      "text": "‫ושוב, נזכיר, שתי מלחמות העולםולם היו קשורות באירועים קליפטוגרפיים שהשפיעו על הדרך שבה המלחמות האלה הסתיימו,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:02:53.000",
-      "offset_end": "0:03:06.920",
-      "text": "ויש ספר של סיימון סינג, שאני מאוד נהניתי לקרוא אותו, שהוא מתאר הרבה סיפורים כאלה, וגם מתאר את ההתפתחות של התורה הזאת בצורה מאוד מפורטת, אפילו מתמטית.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:03:08.440",
-      "offset_end": "0:03:14.000",
-      "text": "והנושא הזה הוא מאוד אקטואלי, כן? כל מה שקשור בלוחמת סייבר, בהבטחת מדע,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:03:14.280",
-      "offset_end": "0:03:19.760",
-      "text": "ומסחר אלקטרוני באינטרנט, ואחד הנושאים האחרונים של מאוד קריפטוגרפים,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:03:20.320",
-      "offset_end": "0:03:25.240",
-      "text": "ואפילו נגיע לתורת הקוונטים ולפיזיקה.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:03:32.340",
-      "offset_end": "0:03:38.720",
-      "text": "אז שוב, כמו שאמרתי, בקריפטוגרפיה משתמשים קודם כל לשמירת מידע, זאת אומרת, להצפנה של מידע, אם נניח אליס ובוב רוצים להתכתב ביניהם, אליס ובוב אלה שני שמות שמקובל להשתמש בהם במדעי המחשב,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:03:38.720",
-      "offset_end": "0:03:48.840",
-      "text": "זה יתאר שני אנשים שעושים ביחד משהו מסוים, כמו למשל התכתבות או קשר ברשת מחשבים,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:03:48.840",
-      "offset_end": "0:03:58.760",
-      "text": "וחוששים שאיב פה מנסה להאזין להם, אז הם מצפינים בעזרת מפתח K את כל המידע שעובר ביניהם.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:03:58.760",
-      "offset_end": "0:04:08.440",
-      "text": "קריפטוגרפיה, אנחנו משתמשים גם בכלים קריפטוגרפיים כדי לוודא שמידע שהעברנו או שמרנו לא השתנה, אוקיי?",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:04:08.440",
-      "offset_end": "0:04:11.040",
-      "text": "שמישהו לא שינה אותו בזדון או שלא בזדון.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:04:12.240",
-      "offset_end": "0:04:20.800",
-      "text": "ועוד שימושים שונים, כמו למשל אימות של זהות, אנחנו רוצים לדעת שמי שאנחנו בקשר איתו הוא אכן הבן אדם הנכון.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:04:21.200",
-      "offset_end": "0:04:28.300",
-      "text": "מסחר אלקטרוני, הצבעה אלקטרונית, בהרבה ארצות היום בחירות נעשות בצורה אלקטרונית, ממוחשבת.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:04:29.560",
-      "offset_end": "0:04:32.320",
-      "text": "וכמו שאמרתי, מטבעות קריפטוגרפים.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:04:33.000",
-      "offset_end": "0:04:34.600",
-      "text": "בואו נדבר קצת על הקורס.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:04:35.200",
-      "offset_end": "0:04:38.160",
-      "text": "אז הקורס הוא קורס מתמטי חישובי, אוקיי?",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:04:38.160",
-      "offset_end": "0:04:46.440",
-      "text": "דרישות קדם זה קודם כל הקורס באלגברה מודרנית, אנחנו נשתמש בידע מתורת המספרים ותורת החבורות,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:04:46.440",
-      "offset_end": "0:04:53.140",
-      "text": "עוזר לדעת קצת הסתברות, עוזר לדעת קצת אלגוריתמים, בעיקר הנושא של חישוב סיבוכיות,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:04:53.140",
-      "offset_end": "0:05:00.260",
-      "text": "ואנחנו נתכנת בשפת פייתון, אז רצוי שיהיה גם קצת ידע בסיסי בפייתון, שאני בטוח שיש לכם.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:05:00.260",
-      "offset_end": "0:05:09.000",
-      "text": "אז בקורס הזה, בשיעור הראשון, אני אתן קצת רקע היסטורי שעוזר לנו מאוד להבין את הקריפטוגרפיה של היום.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:05:09.000",
-      "offset_end": "0:05:15.000",
-      "text": "נדבר על צופני זרם, שאלה צופנים שמצפינים מידע באופן רציף,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:05:15.000",
-      "offset_end": "0:05:22.000",
-      "text": "לעומת צופני בלוקים שהם מצפינים לא באופן רציף, אלא בחבילות, אוקיי?",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:05:22.000",
-      "offset_end": "0:05:33.700",
-      "text": "כשמתמלאת חבילה אפשר להצפין אותה. נדבר על צופני מפתח קומבי, של אלה צופנים שהומצאו במאה ה-20, בשנות ה-70,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:05:33.700",
-      "offset_end": "0:05:40.700",
-      "text": "והם למעשה פותרים את הבעיה של להעביר מפתח הצפנה מצד לצד, נדבר על זה הרבה.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:05:40.700",
-      "offset_end": "0:05:53.560",
-      "text": "נדבר על אימות, זאת אומרת, באנגלית authentication זה האמצעים לבדוק ולוודא זהות ‫של מישהו, או למנוע התחזות ברשת.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:05:54.120",
-      "offset_end": "0:06:03.760",
-      "text": "‫נדבר על סכמות של חתימה אלקטרונית, ‫שהיא הכלי לוידוי זהות.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:06:04.120",
-      "offset_end": "0:06:10.560",
-      "text": "‫נדבר על פונקציות גיבוב קריפטוגרפיות, פונקציות השש, דרך להפצת מפתחות,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:06:10.560",
-      "offset_end": "0:06:13.360",
-      "text": "וזה גם קשור במה שנקרא קריפטוגרפיה קוונטית,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:06:13.360",
-      "offset_end": "0:06:17.060",
-      "text": "ובסוף נדבר גם על בלוקצ'יין ומטבעות קריפטוגרפים.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:06:18.700",
-      "offset_end": "0:06:24.060",
-      "text": "יש פה כמה ספרים, שלאף אחד מהם אני לא נצמד,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:06:24.060",
-      "offset_end": "0:06:31.520",
-      "text": "אף אחד מהם הוא לא הטקסטבוק של הספר, אבל אפשר לייעזר בהם כדי להבין מושגים מסוימים.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:06:31.520",
-      "offset_end": "0:06:47.040",
-      "text": "אם כי כל המידע נמצא באינטרנט, זאת אומרת, אם אתם לא מבינים מושג מסוים או רוצים לדעת יותר על מושג מסוים, חפשו אותו באינטרנט, אתם בטח תמצאו שם אתרים ומאמרים שעוסקים בזה, ובסוף אני שוב מציין פה את הספר של סיימון סינג,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:06:47.040",
-      "offset_end": "0:06:50.440",
-      "text": "ואני מאוד ממליץ למישהו שיש לו קצת זמן ואוהב את הנושא.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:06:51.440",
-      "offset_end": "0:06:55.520",
-      "text": "יהיו לנו שני סוגים של שיעורים, יהיו שיעורי הרצאה, כמו בכל קורס בעצם,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:06:55.520",
-      "offset_end": "0:06:58.840",
-      "text": "שיעורי הרצאה, שבהם נלמד בעיקר חומר תיאורטי,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:06:58.840",
-      "offset_end": "0:07:02.960",
-      "text": "ויש שיעורי תרגול, שבהם נממש מה שלמדנו בשיעורי הרצאה,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:07:02.960",
-      "offset_end": "0:07:04.960",
-      "text": "באמצעות תוכניות בפייתון.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:07:06.600",
-      "offset_end": "0:07:12.640",
-      "text": "הציון בקורס הוא 60 אחוז מטלות בית, 40 אחוז בחינה אמריקאית.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:07:13.480",
-      "offset_end": "0:07:15.880",
-      "text": "המטלות, יהיו שלוש מטלות, בדרך כלל יש ארבע,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:07:15.880",
-      "offset_end": "0:07:19.960",
-      "text": "אבל כיוון שהסמסטר הזה יותר קצר, יהיו שלוש מטלות, צריך להגיש את כולם.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:07:20.240",
-      "offset_end": "0:07:23.440",
-      "text": "אפשר להגיש אותן בזוגות, אוקיי?",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:07:24.120",
-      "offset_end": "0:07:31.180",
-      "text": "ובמטלות הבית יהיו גם תרגילים תיאורטיים וגם תרגילי תכנות, את התרגילים התיאורטיים אתם מגישים בקובץ PDF,",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:07:31.180",
-      "offset_end": "0:07:35.180",
-      "text": "ותרגילי התכנות אתם תגישו כמובן בקובץ פייטון.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:07:35.180",
-      "offset_end": "0:07:45.120",
-      "text": "אוקיי? אז שפת התכנות, כמו שאמרתי, פייטון, יש פה כמה כלים שבהם אפשר לתכנת בפייטון.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:07:45.120",
-      "offset_end": "0:07:52.520",
-      "text": "בשיעורים אנחנו נשתמש בפייט שם, שאני לא יודע אם אתם מכירים או לא, אבל כדאי להתרגל לסביבת עבודה הזאת.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    },
-    {
-      "offset_start": "0:07:52.520",
-      "offset_end": "0:08:14.000",
-      "text": "היא קצת יותר משוכללת מספיידר אנקונדה שבה השתמשנו בקורס מבוא למדעי המחשב. אז זהו, זאת הייתה הקדמה, ואני מצפה לראות אתכם בשיעור הראשון, בחמישי למאי. להתראות.",
-      "lang": "he",
-      "type": "audio",
-      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197"
-    }
-  ]
+    "data": [
+        {
+            "offset_start": "0:00:00.880",
+            "offset_end": "0:00:03.760",
+            "text": "שלום, ברוכים הבאים לקורס מעבולת קריפטולוגיה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:03.760",
+            "offset_end": "0:00:08.080",
+            "text": "בסרטון הזה אני אתאר את הקורס ומה הדרישות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:08.640",
+            "offset_end": "0:00:10.760",
+            "text": "בואו נעבור למצגת שהכנתי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:12.920",
+            "offset_end": "0:00:16.480",
+            "text": "אז פה, כמו שאמרתי, זה הקורס מעבולת קריפטולוגיה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:16.480",
+            "offset_end": "0:00:21.800",
+            "text": "הקריפטולוגיה היא תורת העצבנות, אנחנו רואים פה כמה תמונות שקשורות בנושא הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:21.800",
+            "offset_end": "0:00:45.000",
+            "text": "החל מכתב יד עתיק בערבית מלפני 1200 שנה בערך, שמתאר איך אפשר לפרוץ צופן מסוים. יש לנו כאן את מכונת האניגמה, שצוות בראשותו של אלן טיורינג עסק בלפרוץ את הצופן הזה בזמן מלחמת עולם השנייה. הצוות הזה היה ממוקם באחוזה שנקרא בלצ'לי פארק,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:45.000",
+            "offset_end": "0:00:49.000",
+            "text": "ואנחנו רואים אותה ברקע כאן מאחוריי, עם תמונה מאותה תקופה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:49.000",
+            "offset_end": "0:00:55.000",
+            "text": "אז אחרי שראינו את זה, אולי נעבור לתמונה יותר רלוונטית עבורנו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:00.000",
+            "offset_end": "0:01:11.500",
+            "text": "מי שזוכר, זה קמפוס מערב של מיכאל טלחי. אחר כך יש לנו פה סכמה של צופן מודרני משנות ה-60 של המאה ה-20,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:11.500",
+            "offset_end": "0:01:20.000",
+            "text": "ובסוף יש פה את הלוגו של ביטקוין, שזה אולי אחד השימושים היותר עכשוויים של קריפטולוגיה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:20.000",
+            "offset_end": "0:01:28.440",
+            "text": "אז כמו שאמרתי, קריפטוגרפיה או קריפטולוגיה, אני לא אבחין בין שני המושגים, יש כאלה שמבחינים, אבל אני לא אבחין ביניהם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:28.440",
+            "offset_end": "0:01:37.560",
+            "text": "המקור של המילה הזאת הוא ביוונית, קריפטו זה סודי, גרפיה זה כתיבה, ולוגיה זה תורה, אז מי שבוחר לוגיה זה תורה, מי שבוחר גרפיה זה כתיבה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:37.560",
+            "offset_end": "0:01:45.600",
+            "text": "זה המדע עוסק באמצעים לשמירת סודיות של מידע, על ידי הצפנה למשל, ובדרכים לפגוע בסודיות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:45.600",
+            "offset_end": "0:01:49.400",
+            "text": "זאת אומרת, באיזה דרכים אפשר לפרוץ סופנים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:49.400",
+            "offset_end": "0:01:51.600",
+            "text": "למה הנושא הזה הוא כל כך מרתק?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:51.600",
+            "offset_end": "0:01:58.600",
+            "text": "עובדה היא שהנושא הזה הוא מרתק גם בתרבות הפופולרית, בספרות, סופרים שכתבו על זה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:58.600",
+            "offset_end": "0:02:03.600",
+            "text": "סרטים שבהם היו משולבים אלמנטים של קריפטוגרפיה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:03.600",
+            "offset_end": "0:02:08.280",
+            "text": "ואפילו מיתוסים שזה מין סיפורים שלא בטוח שהם נכונים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:08.360",
+            "offset_end": "0:02:11.040",
+            "text": "כמו למשל הסיפור הזה על האוצרת של תומאס ביל,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:11.120",
+            "offset_end": "0:02:16.000",
+            "text": "שזה איזשהו מסמך מוצפן שיש מהמאה ה-19,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:16.080",
+            "offset_end": "0:02:22.440",
+            "text": "שיש הטוענים שהוא מתאר מקום מדויק שבו נמצא אוצר של כמה מיליון,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:22.520",
+            "offset_end": "0:02:24.760",
+            "text": "ששווה היום כמה מיליוני דולרים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:24.840",
+            "offset_end": "0:02:27.360",
+            "text": "ויש אנשים שלוקחים את הסיפור הזה ברצינות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:28.440",
+            "offset_end": "0:02:32.560",
+            "text": "‫יש מקרים מפורסמים מההיסטוריה, ‫אני אתאר אותם בהמשך,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:32.640",
+            "offset_end": "0:02:40.240",
+            "text": "‫בשיעור הבא, ‫שהוא יהיה איזושהי סקירה היסטורית",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:40.360",
+            "offset_end": "0:02:44.120",
+            "text": "‫של התורה הזאת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:44.720",
+            "offset_end": "0:02:53.000",
+            "text": "‫ושוב, נזכיר, שתי מלחמות העולםולם היו קשורות באירועים קליפטוגרפיים שהשפיעו על הדרך שבה המלחמות האלה הסתיימו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:53.000",
+            "offset_end": "0:03:06.920",
+            "text": "ויש ספר של סיימון סינג, שאני מאוד נהניתי לקרוא אותו, שהוא מתאר הרבה סיפורים כאלה, וגם מתאר את ההתפתחות של התורה הזאת בצורה מאוד מפורטת, אפילו מתמטית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:08.440",
+            "offset_end": "0:03:14.000",
+            "text": "והנושא הזה הוא מאוד אקטואלי, כן? כל מה שקשור בלוחמת סייבר, בהבטחת מדע,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:14.280",
+            "offset_end": "0:03:19.760",
+            "text": "ומסחר אלקטרוני באינטרנט, ואחד הנושאים האחרונים של מאוד קריפטוגרפים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:20.320",
+            "offset_end": "0:03:25.240",
+            "text": "ואפילו נגיע לתורת הקוונטים ולפיזיקה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:32.340",
+            "offset_end": "0:03:38.720",
+            "text": "אז שוב, כמו שאמרתי, בקריפטוגרפיה משתמשים קודם כל לשמירת מידע, זאת אומרת, להצפנה של מידע, אם נניח אליס ובוב רוצים להתכתב ביניהם, אליס ובוב אלה שני שמות שמקובל להשתמש בהם במדעי המחשב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:38.720",
+            "offset_end": "0:03:48.840",
+            "text": "זה יתאר שני אנשים שעושים ביחד משהו מסוים, כמו למשל התכתבות או קשר ברשת מחשבים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:48.840",
+            "offset_end": "0:03:58.760",
+            "text": "וחוששים שאיב פה מנסה להאזין להם, אז הם מצפינים בעזרת מפתח K את כל המידע שעובר ביניהם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:58.760",
+            "offset_end": "0:04:08.440",
+            "text": "קריפטוגרפיה, אנחנו משתמשים גם בכלים קריפטוגרפיים כדי לוודא שמידע שהעברנו או שמרנו לא השתנה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:08.440",
+            "offset_end": "0:04:11.040",
+            "text": "שמישהו לא שינה אותו בזדון או שלא בזדון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:12.240",
+            "offset_end": "0:04:20.800",
+            "text": "ועוד שימושים שונים, כמו למשל אימות של זהות, אנחנו רוצים לדעת שמי שאנחנו בקשר איתו הוא אכן הבן אדם הנכון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:21.200",
+            "offset_end": "0:04:28.300",
+            "text": "מסחר אלקטרוני, הצבעה אלקטרונית, בהרבה ארצות היום בחירות נעשות בצורה אלקטרונית, ממוחשבת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:29.560",
+            "offset_end": "0:04:32.320",
+            "text": "וכמו שאמרתי, מטבעות קריפטוגרפים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:33.000",
+            "offset_end": "0:04:34.600",
+            "text": "בואו נדבר קצת על הקורס.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:35.200",
+            "offset_end": "0:04:38.160",
+            "text": "אז הקורס הוא קורס מתמטי חישובי, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:38.160",
+            "offset_end": "0:04:46.440",
+            "text": "דרישות קדם זה קודם כל הקורס באלגברה מודרנית, אנחנו נשתמש בידע מתורת המספרים ותורת החבורות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:46.440",
+            "offset_end": "0:04:53.140",
+            "text": "עוזר לדעת קצת הסתברות, עוזר לדעת קצת אלגוריתמים, בעיקר הנושא של חישוב סיבוכיות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:53.140",
+            "offset_end": "0:05:00.260",
+            "text": "ואנחנו נתכנת בשפת פייתון, אז רצוי שיהיה גם קצת ידע בסיסי בפייתון, שאני בטוח שיש לכם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:00.260",
+            "offset_end": "0:05:09.000",
+            "text": "אז בקורס הזה, בשיעור הראשון, אני אתן קצת רקע היסטורי שעוזר לנו מאוד להבין את הקריפטוגרפיה של היום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:09.000",
+            "offset_end": "0:05:15.000",
+            "text": "נדבר על צופני זרם, שאלה צופנים שמצפינים מידע באופן רציף,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:15.000",
+            "offset_end": "0:05:22.000",
+            "text": "לעומת צופני בלוקים שהם מצפינים לא באופן רציף, אלא בחבילות, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:22.000",
+            "offset_end": "0:05:33.700",
+            "text": "כשמתמלאת חבילה אפשר להצפין אותה. נדבר על צופני מפתח קומבי, של אלה צופנים שהומצאו במאה ה-20, בשנות ה-70,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:33.700",
+            "offset_end": "0:05:40.700",
+            "text": "והם למעשה פותרים את הבעיה של להעביר מפתח הצפנה מצד לצד, נדבר על זה הרבה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:40.700",
+            "offset_end": "0:05:53.560",
+            "text": "נדבר על אימות, זאת אומרת, באנגלית authentication זה האמצעים לבדוק ולוודא זהות ‫של מישהו, או למנוע התחזות ברשת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:54.120",
+            "offset_end": "0:06:03.760",
+            "text": "‫נדבר על סכמות של חתימה אלקטרונית, ‫שהיא הכלי לוידוי זהות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:04.120",
+            "offset_end": "0:06:10.560",
+            "text": "‫נדבר על פונקציות גיבוב קריפטוגרפיות, פונקציות השש, דרך להפצת מפתחות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:10.560",
+            "offset_end": "0:06:13.360",
+            "text": "וזה גם קשור במה שנקרא קריפטוגרפיה קוונטית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:13.360",
+            "offset_end": "0:06:17.060",
+            "text": "ובסוף נדבר גם על בלוקצ'יין ומטבעות קריפטוגרפים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:18.700",
+            "offset_end": "0:06:24.060",
+            "text": "יש פה כמה ספרים, שלאף אחד מהם אני לא נצמד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:24.060",
+            "offset_end": "0:06:31.520",
+            "text": "אף אחד מהם הוא לא הטקסטבוק של הספר, אבל אפשר לייעזר בהם כדי להבין מושגים מסוימים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:31.520",
+            "offset_end": "0:06:47.040",
+            "text": "אם כי כל המידע נמצא באינטרנט, זאת אומרת, אם אתם לא מבינים מושג מסוים או רוצים לדעת יותר על מושג מסוים, חפשו אותו באינטרנט, אתם בטח תמצאו שם אתרים ומאמרים שעוסקים בזה, ובסוף אני שוב מציין פה את הספר של סיימון סינג,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:47.040",
+            "offset_end": "0:06:50.440",
+            "text": "ואני מאוד ממליץ למישהו שיש לו קצת זמן ואוהב את הנושא.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:51.440",
+            "offset_end": "0:06:55.520",
+            "text": "יהיו לנו שני סוגים של שיעורים, יהיו שיעורי הרצאה, כמו בכל קורס בעצם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:55.520",
+            "offset_end": "0:06:58.840",
+            "text": "שיעורי הרצאה, שבהם נלמד בעיקר חומר תיאורטי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:58.840",
+            "offset_end": "0:07:02.960",
+            "text": "ויש שיעורי תרגול, שבהם נממש מה שלמדנו בשיעורי הרצאה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:02.960",
+            "offset_end": "0:07:04.960",
+            "text": "באמצעות תוכניות בפייתון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:06.600",
+            "offset_end": "0:07:12.640",
+            "text": "הציון בקורס הוא 60 אחוז מטלות בית, 40 אחוז בחינה אמריקאית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:13.480",
+            "offset_end": "0:07:15.880",
+            "text": "המטלות, יהיו שלוש מטלות, בדרך כלל יש ארבע,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:15.880",
+            "offset_end": "0:07:19.960",
+            "text": "אבל כיוון שהסמסטר הזה יותר קצר, יהיו שלוש מטלות, צריך להגיש את כולם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:20.240",
+            "offset_end": "0:07:23.440",
+            "text": "אפשר להגיש אותן בזוגות, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:24.120",
+            "offset_end": "0:07:31.180",
+            "text": "ובמטלות הבית יהיו גם תרגילים תיאורטיים וגם תרגילי תכנות, את התרגילים התיאורטיים אתם מגישים בקובץ PDF,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:31.180",
+            "offset_end": "0:07:35.180",
+            "text": "ותרגילי התכנות אתם תגישו כמובן בקובץ פייטון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:35.180",
+            "offset_end": "0:07:45.120",
+            "text": "אוקיי? אז שפת התכנות, כמו שאמרתי, פייטון, יש פה כמה כלים שבהם אפשר לתכנת בפייטון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:45.120",
+            "offset_end": "0:07:52.520",
+            "text": "בשיעורים אנחנו נשתמש בפייט שם, שאני לא יודע אם אתם מכירים או לא, אבל כדאי להתרגל לסביבת עבודה הזאת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:52.520",
+            "offset_end": "0:08:14.000",
+            "text": "היא קצת יותר משוכללת מספיידר אנקונדה שבה השתמשנו בקורס מבוא למדעי המחשב. אז זהו, זאת הייתה הקדמה, ואני מצפה לראות אתכם בשיעור הראשון, בחמישי למאי. להתראות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1140197",
+            "course_name": "cryptography",
+            "media_type": "audio"
+        }
+    ]
 }

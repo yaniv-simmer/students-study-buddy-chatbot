@@ -1,0 +1,418 @@
+{
+    "data": [
+        {
+            "offset_start": "0:00:00.000",
+            "offset_end": "0:00:02.160",
+            "text": "עוד 24, 25.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:03.800",
+            "offset_end": "0:00:08.440",
+            "text": "אני, אוקיי, אני אתייחס לשאלה הזאת. קודם כל,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:09.800",
+            "offset_end": "0:00:17.480",
+            "text": "המספרים שבקובץ הם מספרים שאני חישבתי אותם בזה שכפלתי מספרים בערך באותו גודל ביניהם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:17.480",
+            "offset_end": "0:00:23.240",
+            "text": "ולכן קל לפרק את זה לגורמים, בגלל שהמספרים שם הם קטעים, הרי איך אתה מחלק לגורמים?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:23.520",
+            "offset_end": "0:00:30.860",
+            "text": "אתה מתחיל לחלק, כן? אתה מחלק באפשרויות, עד שאתה נופל על מחלק, על אחד המחלקים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:30.860",
+            "offset_end": "0:00:39.520",
+            "text": "עכשיו, עכשיו באיזשהו שלב, אז בהתחלה, כן, רוב הסיכויים שהוא מתחלק או בשתיים, או בשלוש, או בחמש, אז זה קל למצוא את הגורמים הראשונים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:39.520",
+            "offset_end": "0:00:46.920",
+            "text": "אבל אם זה מספר אקראי כלשהו,�ודל 12 בית או בגודל גדול,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:46.920",
+            "offset_end": "0:00:52.840",
+            "text": "אז רוב הסיכויים שיש לו גם שני גורמים, עוד שני גורמים שהם גדולים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:52.840",
+            "offset_end": "0:00:57.120",
+            "text": "ואז כדי להגיע אליהם, אתה צריך לעבוד קשה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:57.120",
+            "offset_end": "0:01:03.840",
+            "text": "זאת אומרת, גם אם בהתחלה גילית את הגורמים הקטנים, 2, 3, כמה, כדי להגיע אל הגורמים הגדולים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:03.840",
+            "offset_end": "0:01:07.000",
+            "text": "למצוא את הגורמים היותר גדולים, אתה צריך לעבוד קשה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:08.160",
+            "offset_end": "0:01:15.160",
+            "text": "אתה יכול לחסוך, אתה יכול לחסוך קצת זמן ריצה, לא קצת, לפעמים אתה יכול לחסוך הרבה זמן ריצה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:15.800",
+            "offset_end": "0:01:20.960",
+            "text": "בזה שאתה כל פעם, אחרי שחילקת, תבדוק אם מה שקיבלת הוא ראשוני, בעזרת מילא רבי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:21.720",
+            "offset_end": "0:01:36.500",
+            "text": "ואז נאמר שאם נניח המספר שלך הוא שתיים כפול שלוש 3, כפול 7, כפול איזה מספר ראשוני מאוד מאוד גדול, אז חילקת ב-2, חילקת ב-3, חילקת ב-7, ואז אתה ראשוני המאוד גדול, אל תנסה להמשיך לחלק, תבדוק קודם כל אם הוא ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:38.500",
+            "offset_end": "0:01:49.800",
+            "text": "אוקיי? ואז זה יחסוך לך את כל העבודה של לנסות לחלק אותו. אבל אם יש לך שני גורמים גדולים, אז זה לא יזור לך, כי אחד מהם אתה תצטרך לגלות אותו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:50.700",
+            "offset_end": "0:01:59.700",
+            "text": "עכשיו, מספרים של 12 בית הם לא כל כך גדולים, אז יש סיכוי שחלק מהם אתה תוכל בתוכנית רגילה של למצוא אותם חלקים, לחלק אותם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:59.700",
+            "offset_end": "0:02:03.000",
+            "text": "אבל חלק לא.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:03.700",
+            "offset_end": "0:02:12.500",
+            "text": "עכשיו, מי היה שכתב לי ש... כן, יש גם, לא יודע לי, בנאמפאי או באיזו ספרייה אחרת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:12.500",
+            "offset_end": "0:02:34.000",
+            "text": "פונקציה שמחלקת, שמוצאת פירוק לגורמים. אז היא עובדת די מהר עם מספרים של 12 בית, אבל אם תיתן לו 30 בית או 24 בית, אז זה כבר לא יעבוד מהר, בגלל שעדיין אין שם קסמים, אתה צריך לעבוד קשה ולנסות ולחלק עד שאתה מחלק, מוצא את הגורמים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:34.000",
+            "offset_end": "0:02:39.000",
+            "text": "כן, אם יש לך שני גורמים ראשונים גדולים, אתה צריך לעבוד קשה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:39.000",
+            "offset_end": "0:02:46.360",
+            "text": "עכשיו, יש אלגוריתמים פחות נאיבים מאלגוריתם של פשוט לנסות לחלק והגורמים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:46.360",
+            "offset_end": "0:02:53.560",
+            "text": "יש אלגוריתמים יותר מהירים, אבל הם, אם האלגוריתם הנאיבי הוא אקספוננציאלי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:53.560",
+            "offset_end": "0:02:56.440",
+            "text": "אז יש אלגוריתמים שהם קצת טאטר אקספוננציאליים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:56.440",
+            "offset_end": "0:03:01.880",
+            "text": "ויכול להיות שאם אתה, אתם תקחו את הפונקציה שבספרייה, אז היא ככה עובדת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:01.880",
+            "offset_end": "0:03:10.500",
+            "text": "ולכן היא עובדת יותר מהר מתוכנית שאתם תכתבו. אבל בסופו של דבר, הרעיון הוא שאם יש לך מספר אקראי גדול,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:10.500",
+            "offset_end": "0:03:15.700",
+            "text": "אז יש סיכוי טוב שיש לו שני גורמים ראשונים גדולים, ואז יהיה לך קשה למצוא אותם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:15.700",
+            "offset_end": "0:03:20.100",
+            "text": "אם יש לו רק גורם ראשוני אחד גדול, אז בעזרת מילא רבין אתה תעלה על זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:20.100",
+            "offset_end": "0:03:25.720",
+            "text": "אבל אם יש לו שני גורמים ראשונים גדולים, אז אתה לא תעלה עליהם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:25.720",
+            "offset_end": "0:03:29.480",
+            "text": "זאת אומרת, אם זה מספר מאוד גדול, בגלל זה RSA עובד, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:29.480",
+            "offset_end": "0:03:33.560",
+            "text": "RSA זה מכפלה של שני גורמים ראשונים מאוד גדולים, אז אתה לא יכול לגלות אותה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:35.320",
+            "offset_end": "0:03:40.840",
+            "text": "צריך להצביע את זה שמספר ממוצע בסבירות, ולא יהיה לו שני גורמים ראשונים גדולים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:40.840",
+            "offset_end": "0:03:42.640",
+            "text": "כן, כן, בדיוק, כן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:44.560",
+            "offset_end": "0:04:03.000",
+            "text": "כן. כאילו, צריך, להוכיח את זה, או... לא, לא צריך להוכיח את זה, זה רק להתנסות. אתה לא צריך להוכיח את זה. אבל אם אתה מבריא לחרה מספרים גדולים, אז יש שם לפחות אחד שיש לו גורמים ראשוניים גדולים, וייקח הרבה זמן לך לפרק אותו לגורמים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:03.000",
+            "offset_end": "0:04:10.000",
+            "text": "ומה שבקורת זה מספרים לא מגסים. בדיוק, אלה מספרים, כן, שאני נדסתי אותם, כן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:10.000",
+            "offset_end": "0:04:26.100",
+            "text": "הבנתי, פשוט אני שאלתי על הגודל, כשכתבת שהם מספרים, שבקובץ הם בגודל 12 בית, אבל הם לא, הם מספרים ב-14 ו-15. אה, כן? אז טעות שלי, אוקיי. אז צריך בגודל... אה, באמת?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:27.140",
+            "offset_end": "0:04:32.180",
+            "text": "כן, כן, זה מה ששאלתי. אה, אוקיי, זה טעות שלי. לא יודע אם זה קריטי. כן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:32.740",
+            "offset_end": "0:04:35.740",
+            "text": "כן, אוקיי. אז בואו נתקדם...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:36.480",
+            "offset_end": "0:04:40.180",
+            "text": "אז צריך להגיע למספרים של עשרה... באותו גודל כמו אלה שבקובץ.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:42.020",
+            "offset_end": "0:05:54.000",
+            "text": "למרות שאפילו המספרים שהגרנו הם קטנים יותר עדיין היה הרבה יותר קשה למצוא מה זה יכול להישאר. כן, נכון, נכון, כי אלה מספרים שאני בחרתי אותם מלכתחילה שיש להם גורמים ראשונים, רק גורמים ראשונים קטנים. בסדר. עוד שאלה, לגבי השיעור השלמה, לא יומן לפני המבחן, לפני מה שראיתי. שיעור חזרה, זה לא שיעור שני. כן, אז תראו, קודם כל, השיעור האחרון, שהוא השיעור על ביטקוין, אני לצערי לא אהיה בארץ, יש לי כנס, והכנתי אותו בצורה מה שנקרא סינכרונית, עם מחולק לקטעים קצרים שאפשר ככה לעבור עליהם בצורה יחסית מעניינת וכלילה, כי חילקתי אותו לקטעים קטנים, ובסופו של דבר זה שיעור, הקורס הזה מוגדר כקורס מקוון, אז זה השיעור, בעצם זה השיעור האסינכרוני היחיד בקורס הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:56.000",
+            "offset_end": "0:06:10.000",
+            "text": "אני יודע שזה יומיים לפני הבחינה, כן, הנושא הזה זה לא נושא שאתם צריכים להתעמק בו יותר מאשר רק לראות את השקפים ולראות את הסרטונים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:10.000",
+            "offset_end": "0:06:18.000",
+            "text": "כן? ויומיים לפני הבחינה, בגלל שזה לפני הבחינה, אז כבר נעשה את זה לפני הבחינה, לא...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:21.000",
+            "offset_end": "0:06:23.000",
+            "text": "לא הרבה לפני זה, אני יודע, זה כבר הזמן שאתם...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:23.000",
+            "offset_end": "0:06:30.000",
+            "text": "אוקיי, זאת אומרת, לא יהיה שם איזה חומר חדש בשיעור. \n- כן, לא יהיו איזה הפתעות, כן, לא יהיו איזה הפתעות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:30.000",
+            "offset_end": "0:06:40.000",
+            "text": "אז אני אמרתי, אני אקדיש את רוב השיעור בכל זאת, כן, לעבור על הנושא הזה, אבל גם לענות על שאלות באופן כללי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:40.000",
+            "offset_end": "0:06:54.000",
+            "text": "אני גם עד, עד אז אתם תראו מבחנים משנים קודמות, תראו למה סוג השאלות, ובאמת, אין הרבה מה לדאוג בקשר להבחינה הזאת, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:56.000",
+            "offset_end": "0:07:10.000",
+            "text": "אני תמיד דואג. זה טוב לדאוג. תמיד טוב לדאוג. אוקיי, טוב, אז אנחנו... רגע, פסיק את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175298",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        }
+    ]
+}

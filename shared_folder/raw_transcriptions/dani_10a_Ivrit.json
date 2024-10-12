@@ -1,0 +1,1525 @@
+{
+    "data": [
+        {
+            "offset_start": "0:00:01.000",
+            "offset_end": "0:00:07.000",
+            "text": "שלום לכולם, זה השיעור האחרון שלנו לקורס, הנושא הוא ביטקוין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:07.000",
+            "offset_end": "0:00:13.000",
+            "text": "בואו נעבור למצגת שהכנתי לצורך העניין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:13.000",
+            "offset_end": "0:00:24.000",
+            "text": "המצגת הזאת התבססה במקור על מצגת שהוא עברה באוניברסיטת תל אביב באיזה כנס, ואחר כך שיבשה בקורס בקריפטוגרפיה באוניברסיטת תל אביב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:24.000",
+            "offset_end": "0:00:29.500",
+            "text": "קיבלתי אותה בעדיבותו של פרופסור בני שור, זיכרונו לברכה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:29.500",
+            "offset_end": "0:00:40.500",
+            "text": "אבל המצגת הזאת הייתה, היא כבר לא מעודכנת, כמו שאתם רואים, היא משנת 2014, והוספתי לזה הרבה, כולל תרגום לעברית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:40.500",
+            "offset_end": "0:00:46.000",
+            "text": "ובין היתר אני מסתמך גם על מקורות אינטרנט ועל Chat GP.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:55.000",
+            "offset_end": "0:01:02.000",
+            "text": "אז בשיעור הזה אני אנסה להעלות על כמה שאלות. מה זה מטבע קריפטוגרפי? מה זה ביטקוין? למה הוא כל כך מצליח? אם הוא מצליח? מה היא טכנולוגיית בלוקצ'יין שעליה מתבססת ביטקוין וכל המטבעות הקריפטוגרפיים האחרים?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:02.000",
+            "offset_end": "0:01:06.160",
+            "text": "איך עובד באופן כללי הבלוקצ'יין ומטבע קריפטוגרפי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:06.360",
+            "offset_end": "0:01:08.440",
+            "text": "מה זה אומר לכרות ביטקוין?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:09.080",
+            "offset_end": "0:01:13.360",
+            "text": "האם אפשר להתעשר מביטקוין? או אולי זה מסוכן להשקיע בביטקוין?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:13.680",
+            "offset_end": "0:01:15.320",
+            "text": "איך זה קשור לאיכות הסביבה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:15.320",
+            "offset_end": "0:01:20.920",
+            "text": "בוודאי שמעתם שיש לקריאת ביטקוין איזושהי השפעה על איכות הסביבה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:22.440",
+            "offset_end": "0:01:24.760",
+            "text": "ובכלל, האם זאת המצאה מוצלחת?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:29.400",
+            "offset_end": "0:01:34.800",
+            "text": "זאת שאלה שלדעתי לפחות מוטלת בספק. אז בואו נדבר קצת על כסף, ולמה צריך מטבע קריפטוגרפי, ולמה זה אומצה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:34.800",
+            "offset_end": "0:01:42.000",
+            "text": "אז בכסף כיום, או בוא נאמר כיום, לפני המצאת המטבעות הקריפטוגרפיים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:42.000",
+            "offset_end": "0:02:08.500",
+            "text": "היו שני סוגים של מזומנים או של כסף, אחד זה כסף מזומן בנייר, כן? כסף המזומן יש חסרונות, זה מסורבל, אפשר לעבד אותו, אפשר ל� הוא דיגיטלי, הוא יושב באיזשהו בסיס נתונים בבנק,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:08.500",
+            "offset_end": "0:02:14.760",
+            "text": "וזה הכסף שלנו, אין לנו אותו בצורה פיזית, ואנחנו משלמים באמצעות כרטיס אשראי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:14.760",
+            "offset_end": "0:02:19.860",
+            "text": "בין אם זה באינטרנט, בין אם זה גייעוץ בחנות, או על ידי העברות בנקאיות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:19.860",
+            "offset_end": "0:02:25.600",
+            "text": "אז זה הכסף המסורתי, אוקיי? אז כשאני אומר כסף דיגיטלי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:26.000",
+            "offset_end": "0:02:29.200",
+            "text": "אני מתכוון לכסף מסורתי שאנחנו מעבירים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:29.200",
+            "offset_end": "0:02:33.480",
+            "text": "ואנחנו מקבלים אותו גם כשכר באמצעות מחשב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:35.120",
+            "offset_end": "0:02:38.440",
+            "text": "אבל הביטקוין זה משהו אחר, זה מטבע דיגיטלי אמיתי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:38.440",
+            "offset_end": "0:02:42.880",
+            "text": "זאת אומרת, הוא לא מבוסס, קודם כל הוא לא מבוסס על איזה מטבע קיים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:43.480",
+            "offset_end": "0:02:45.820",
+            "text": "הוא לגמרי וירטואלי, אין לו גרסה של נייר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:45.820",
+            "offset_end": "0:02:54.220",
+            "text": "אתם יודעים, שקלים, יש לכם אותם גם בחשבון בנק שמופיע לכם באינטרנט, וזה בעצם בסיס נתונים של הבנק,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:54.220",
+            "offset_end": "0:03:00.480",
+            "text": "אבל אתם גם יכולים להוציא אותו בצורת נייר מקספומט. לביטקוין אין גרסת נייר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:00.480",
+            "offset_end": "0:03:29.400",
+            "text": "ביטקוין הוצג לראשונה ב-2008 על ידי ישות בשם סטושי נקמוטו, לא ברור אם זה בן אדם אמיתי או שזה קבוצה של אנשים שכתבו את התוכנה או את הקוד לביטקוין. יותר מאוחר, הקוד האדם שהחליף את זה בתור הפנים של ביטקוין זה גאבינג אנדרסנד, אתם יכולים לקרוא עליו, הוא אדם אמיתי, הוא מהנדס תוכנה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:29.400",
+            "offset_end": "0:03:38.100",
+            "text": "אתם יכולים לקרוא עליו כאן, בקישור לאינטרנט, והשם נקמוטו נעלם ולא קיים היום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:38.100",
+            "offset_end": "0:03:47.400",
+            "text": "התוכנה עלתה בתחילת 2009, המטבע מניח, ואני אסביר את זה כמובן בהמשך,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:47.400",
+            "offset_end": "0:03:54.360",
+            "text": "מבוסס על ההנחה שרוב האנשים הם עגונים, ולכן אפשר להשתמש בו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:54.360",
+            "offset_end": "0:04:00.600",
+            "text": "האמת שזה לא דבר חדש, בעצם כל מטבע עובד על ההנחה הזאת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:00.600",
+            "offset_end": "0:04:05.000",
+            "text": "זאת אומרת, אם רוב האנשים היו זייפנים, דולר לא יכול היה לעבוד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:05.000",
+            "offset_end": "0:04:13.000",
+            "text": "אבל כשאומרים רוב האנשים הם הגונים, זה לא מדויק, אנחנו, הכוונה היא לא לרוב האנשים, אלא לרוב כוח החישוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:13.000",
+            "offset_end": "0:04:17.000",
+            "text": "כן, או רוב כוח החישוב שעוסק בביטקוין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:17.000",
+            "offset_end": "0:04:33.660",
+            "text": "הביטקוין, בניגוד לרוב המטבעות שמחולקים למאה, כן, 100 אגורות או 100 סנט בדולר, אז הביטקוין, מטבע אחת של ביטקוין מתחלק ל-10 בחזקת 8 סטושי, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:33.660",
+            "offset_end": "0:04:36.120",
+            "text": "כש-10 בחזקת 8 זה 100 מיליון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:39.380",
+            "offset_end": "0:04:48.640",
+            "text": "ועוד תכונה של הביטקוין שאי אפשר להדפיס יותר, אין אינפלציה בביטקוין, כמות הביטקוין מוגבלת מראש ואני אסביר את זה בהמשך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:49.720",
+            "offset_end": "0:04:52.320",
+            "text": "אוקיי, אז כמה תכונות של ביטקוין?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:53.120",
+            "offset_end": "0:04:58.480",
+            "text": "קודם כל, הדבר החשוב, המרכזי, זה שאין גורם מרכזי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:58.800",
+            "offset_end": "0:05:06.400",
+            "text": "זאת אומרת, אין איזה בנק מרכזי שאחראי על הדפסת הכסף, אחראי על רגולציה, אחראי על זה שאם תהיה או לא תהיה אינפלציה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:07.400",
+            "offset_end": "0:05:22.700",
+            "text": "או אחראי אפילו באיזו מידה מסוימת של שער החליפין, כמו שמשל בנק ישראל יכול במידה מסוימת לשלוט בערך החליפין של השקל על ידי זה שהוא מוכר או קונה שקלים, או מוכר או קונה דולרים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:22.700",
+            "offset_end": "0:05:25.720",
+            "text": "אז אין גורם כזה בביטקוין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:30.820",
+            "offset_end": "0:05:31.320",
+            "text": "העמלות של השימוש בביטקוינים יחסית נמוכות, יחסית לבנקים קיימים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:35.700",
+            "offset_end": "0:05:36.400",
+            "text": "הוא שומר, הוא מתיימר לשמור על האנונימיות של המשתמשים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:41.260",
+            "offset_end": "0:05:41.660",
+            "text": "ושאר החליפין משתנה, כמו שאתם רואים, יש פה גרף של המחיר של ביטקוין,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:47.000",
+            "offset_end": "0:05:52.000",
+            "text": "הוא משתנה בהתאם להיצע וביקוש. אז כמו שאמרתי, כמות הכסף בביטקוין מוגבלת מראש,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:52.000",
+            "offset_end": "0:06:00.000",
+            "text": "ואנחנו יודעים כבר עכשיו שכשיפסיקו יפסיקו ליצור ביטקוין, יהיו 21 מיליון ביטקוין בעולם, וזהו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:00.000",
+            "offset_end": "0:06:03.000",
+            "text": "אנחנו כבר די קרובים למספר הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:04.000",
+            "offset_end": "0:06:11.200",
+            "text": "וגם לגבי האנונימיות, זה לא לגמרי, קוראים לזה פסאודונימיות, ואני אסביר מלא מה הכוונה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:12.100",
+            "offset_end": "0:06:26.080",
+            "text": "עכשיו, אם תשאלו אנשים שמבינים, או שנחשבים למבינים, בתחום של הייטק, או מחשבים, או בתחום הכ הכלכלה או בתחום הפיננסים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:26.080",
+            "offset_end": "0:06:36.700",
+            "text": "אז לכל אחד יש את הדעה שלו, ואנשים נחלקים ל... בעניין הביטקוין יש את אלה שחושבים שזה דבר טוב, ויש כאלה שחושבים שזה לא דבר טוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:36.700",
+            "offset_end": "0:06:49.800",
+            "text": "אז יש פה כמה אנשים שחושבים שביטקוין זה דבר טוב, וחלקם אולי מוכרים לכם, אלון מאסק, בוודאי השם הזה מוכר, הוא תומך בחופש הדיבור,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:49.800",
+            "offset_end": "0:06:57.100",
+            "text": "הוא תומך באופן כללי בחופש הפעילות הכלכלית, ולכן הוא גם תומך בביטקוין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:57.100",
+            "offset_end": "0:07:05.100",
+            "text": "יש פה את ויטליק בוטרין, שזה גאון מחשבים רוסי-קנדי, שהמציא מדבע קריפטוגרפי אחר שנקרא אתריאם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:05.100",
+            "offset_end": "0:07:15.600",
+            "text": "הוא גם חושב שזה דבר טוב, וג'ק דורסי ממעשדי טוויטר, הוא גם חושב שזה טוב שיהיה מדבע אוניברסלי כזה עבור האינטרנט,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:15.600",
+            "offset_end": "0:07:33.300",
+            "text": "וקאטי ווד, שהיא יזמית, והיא גם חושבת שזה דבר טוב, בעיקר כי הוא מוגן מפני אינפלציה. לעומתם, יש אנשים לא מעטים שחושבים שהביטקוין הוא לא רק לא דבר טוב, אלא גורם נזק, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:33.300",
+            "offset_end": "0:07:42.220",
+            "text": "אני אציין פה את וורן באפת, הוא משקיע מאוד ותיק, אדם די מבוגר, אחד מהעשירי העולם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:42.220",
+            "offset_end": "0:07:53.320",
+            "text": "פיטר שיפ, פרשן כלכלי ידוע, פרופסור לכלכלה, נוריאל רוביני, שרת האוצר לשעבר של ארה״ב, ג'אנט ילן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:53.320",
+            "offset_end": "0:08:00.680",
+            "text": "האנשים האלה, הם יתנו לכם נמוקים טובים למה ביטקוין הוא לא דבר טוב, יש פה עוד מאמר,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:00.680",
+            "offset_end": "0:08:10.600",
+            "text": "מהחודשים האחרונים מהארץ, של ליתן אבריאל, מד מרקר, הוא גם חושב שהביטקוין הוא ברמה של הונאה ממש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:10.600",
+            "offset_end": "0:08:21.600",
+            "text": "ושוב אני אגיד, כדאי לומר שמה שהם חושבים על ביטקוין הוא, אפשר להכליל אותו לכל המטבעות, או לרוב המטבעות הקריפטוגרפיים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:21.600",
+            "offset_end": "0:08:26.200",
+            "text": "זה לא רק ביטקוין כך, אלא עצם הרעיון של מטבעות קריפטוגרפיים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:26.200",
+            "offset_end": "0:08:35.400",
+            "text": "וכמו שאולי שמתם לב, יש הבדל בין השקף הקודם לשקף הזה מבחינת זהות האנשים והגיל שלהם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:35.400",
+            "offset_end": "0:08:47.120",
+            "text": "כלומר, אפשר לומר שאנשים צעירים יותר נוטים לתמוך בהמצאה, כמו ביטקוין, ואנשים מבוגרים ואולי עם דעות מסורתיות הם פחות פתוחים לזה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:47.120",
+            "offset_end": "0:08:57.500",
+            "text": "אבל אני חושב שבכל זאת כדאי להאזין לנימוקים של כל אחד מהם ולשפוט כל מקרה לגופו ולאו דווקא לפי זהות האנשים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:59.500",
+            "offset_end": "0:09:06.280",
+            "text": "אז הדעות חלוקות, ויש מי שמשקיע בביטקוין ומי שמתעסק, ויש מי שנשמר ומתרחק מהדברים האלה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:06.280",
+            "offset_end": "0:09:09.780",
+            "text": "אז בואו נתחיל לדבר שוב על היתרונות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:09.780",
+            "offset_end": "0:09:13.780",
+            "text": "נתחיל מהיתרונות של ביטקוין, אחרי זה נדבר על החסרונות גם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:13.780",
+            "offset_end": "0:09:19.780",
+            "text": "אז זה מטבע מבוזר, זאת אומרת, אין ישות אחת ששולטת בו ואחראית עליו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:19.780",
+            "offset_end": "0:09:29.520",
+            "text": "הוא נחשב, או טוענים שהוא בטוח, זאת אומרת, הוא שמור על ידי אמצעים קריפטוגרפיים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:29.520",
+            "offset_end": "0:09:33.840",
+            "text": "שאתם כבר מכירים אותם מהקורס ואני אסביר אותם בהמשך,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:33.840",
+            "offset_end": "0:09:38.200",
+            "text": "הוא מבוסס על טכנולוגיית בלוקצ'יין, שאני גם אסביר אותה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:38.200",
+            "offset_end": "0:09:45.720",
+            "text": "וזה אומר שלא ניתן לבטל פעולות, זאת אומרת, אם הרווחתי כסף בביטקוין, אף אחד לא יכול לבטל, אף אחד לא יכול למחוק לי את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:46.560",
+            "offset_end": "0:09:53.280",
+            "text": "יש שקיפות, כל אחד שמשתתף בביטקוין יכול לראות את כל הפעולות שנעשו בביטקוין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:54.760",
+            "offset_end": "0:10:00.960",
+            "text": "העמלות לעברות כספים הן יחסית נמוכות, וכשאני אומר יחסית נמוכות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:00.960",
+            "offset_end": "0:10:06.240",
+            "text": "אני מתכוון לעברות, יחסיתעברות בנקיות בינלאומיות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:06.240",
+            "offset_end": "0:10:12.880",
+            "text": "לא יודע אם יצא לכם לעשות את זה, אבל כשאתם מעבירים כסף מבנק לבנק, מהבנק שלכם לבנק בחו״ל,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:12.880",
+            "offset_end": "0:10:19.360",
+            "text": "למשל, אם אתם צריכים לשלם על משהו, ולמישהו שלא מקבל כסף בקרטיס אשראי, אז ההמלה היא די גבוהה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:19.360",
+            "offset_end": "0:10:24.160",
+            "text": "אז הביטקוין חוסך את זה, כמובן בתנאי ששני הצדדים משתמשים בביטקוין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:24.160",
+            "offset_end": "0:10:47.380",
+            "text": "הביטקוין הוא נגיש, כל אחד יכול להשתמש בו, כל אחד שיש לו חיבור לאינטרנט, לא צריך להיות גאון מחשבים, לא צריך להבין יותר מדי. והדבר האחרון זה שיש כמות מוגבלת של ביטקוין מראש, זאת אומרת, כמו שאמרתי קודם, לא יהיו יותר מ-21 מיליון ביטקוין בעולם, אוקיי? וזאת הגנה מפני אינפלציה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:49.100",
+            "offset_end": "0:10:56.440",
+            "text": "אחרי כל הדברים שאמרתי פה, לגבי כל אחד מהם, אולי חוץ מהדבר האחרון, יש ויכוח האם זה באמת נכון, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:56.440",
+            "offset_end": "0:11:04.580",
+            "text": "לגבי התכונה האחרונה, לא, כי זו תכונה של ביטקוין, אבל כל שאר היתרונות יש ויכוח האם הם באמת מתקיימים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:05.240",
+            "offset_end": "0:11:11.700",
+            "text": "בואו נדבר קצת על חסרונות. קודם כל, תנודתיות. אם אתם עוקבים אחרי התקשורת, המשקר של הביטקוין משתנה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:11.700",
+            "offset_end": "0:11:49.380",
+            "text": "הוא משתנה מאוד, אפילו בתוך יום אחד, יש לנו פה גרף של השתנות הערך של ביטקוין מ-2011, ולכן לסחור בביטקוין זה נחשב להימור. אני אחזור לשאלה הזאת לקראת הסוף, אבל כל דבר שהוא תנודתי, כמו אשכבה בבורסה, זה משהו שלפחות לטווח קצר, זה הימור להשתמש בו. כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:49.380",
+            "offset_end": "0:11:55.560",
+            "text": "יש חשש שאם הרבה אנשים ישתמשו בביטקוין בו זמנית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:55.560",
+            "offset_end": "0:12:02.480",
+            "text": "אז הביטקוין או המערכת הביטקוין לא תוכל לעמוד בזה וייבצר תור ארוך, בפועל זה לא קורה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:02.480",
+            "offset_end": "0:12:11.240",
+            "text": "אם עשיתם טעות, שילמתם לאדם הלא נכון, העברתם כסף לאדם הלא נכון, לא יודע, אי אפשר לבטל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:11.240",
+            "offset_end": "0:12:14.240",
+            "text": "פעולה שכבר אושרה בביטקוין, אי אפשר לבטל אותה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:15.560",
+            "offset_end": "0:12:20.960",
+            "text": "יש בעיות רגולציה, ביטקוין הוא אמנם חופשי, אבל בכל ארץ יש תקנות משלה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:20.960",
+            "offset_end": "0:12:25.600",
+            "text": "יש ארצות שמגבילות יותר את השימוש בביטקוין, יש ארצות שלכות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:25.760",
+            "offset_end": "0:12:30.280",
+            "text": "‫אז זה עלול להקשות על סחר בין מדינות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:30.480",
+            "offset_end": "0:12:34.760",
+            "text": "‫והדבר האחרון, השימוש בביטקוין, ‫או הקריאה של ביטקוין,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:34.880",
+            "offset_end": "0:12:40.680",
+            "text": "‫גורמת לשימוש מוגבר בחשמל, ‫ולכן גורמת נזק לסביבה, ועל זה אין ויכוח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:43.440",
+            "offset_end": "0:13:07.660",
+            "text": "‫עוד חששות שעולים לגבי ביטקוין, בעיות בטיחות, האם אפשר לרמות את האמצעים הקריפטוגרפיים של הביטקוין? אז הניסיון מלמד שאפשר, לא היו הרבה מקרים, אבל יש מקרה אחד מפורסם מ-2014 של חברה שכביכול אפשרה לאנשים לקנות דרכה ביטקוין,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:07.660",
+            "offset_end": "0:13:14.140",
+            "text": "בסופו של דבר התברר שזאת הייתה תרמית אחת גדולה והרבה אנשים הפסידו כסף בצורה כזאת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:15.640",
+            "offset_end": "0:13:20.600",
+            "text": "עלולים להיות באגים, כמובן שזה מבוסס על תוכנה, אז עלולים להיות באגים בתוכנה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:21.300",
+            "offset_end": "0:13:35.000",
+            "text": "כרגע אין באגים בתוכנת הביטקוין שרואים לציון, זה האמת שזה לא שונה מכל תוכנה אחרת, גם מתוכנה של בנקים שמנהלים את הכסף שלכם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:35.000",
+            "offset_end": "0:13:45.040",
+            "text": "ומכיוון שזה דבר חדש, יכול להיות שיש בעיות שכרגע אי אפשר לדעת אותן, אבל הם יצאו צומתי שוב בעתיד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:46.440",
+            "offset_end": "0:13:51.160",
+            "text": "בכל זאת, ביטקוין נעשה פופולרי מעת לעת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:51.160",
+            "offset_end": "0:13:55.360",
+            "text": "ולאחרונה, לפני מספר שבועות, הוא שבר עוד סי מבחינת המחיר,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:55.360",
+            "offset_end": "0:13:58.200",
+            "text": "והשאלה היא למה. אז קודם כל, יש סיבות אידיאולוגיות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:58.200",
+            "offset_end": "0:14:05.600",
+            "text": "מכיוון שזה לא מבוזר וזה לא מקושר לשום מדינה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:05.600",
+            "offset_end": "0:14:14.080",
+            "text": "אז אנשים שהם מתנגדים לעצם הרגולציה, לעצם זה שיש מדינה ששולטת בהם או מפקחת עליהם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:14.080",
+            "offset_end": "0:14:21.760",
+            "text": "הם אוהבים דברים כאלה, כל מי שמתנגד למה שנקרא הממסד או the system באנגלית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:21.760",
+            "offset_end": "0:14:25.760",
+            "text": "הביטקוין, כמו שאמרתי קודם, ‫הופיע ב-2008,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:25.840",
+            "offset_end": "0:14:28.200",
+            "text": "‫זה היה בדיוק אחרי משבר הסאב פריים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:28.280",
+            "offset_end": "0:14:32.560",
+            "text": "‫באותה תקופה ממשלת ארה״ב ‫נקתה צעדים לעידוד פעילות פיננסית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:32.680",
+            "offset_end": "0:14:34.280",
+            "text": "‫אז זה הופיע בזמן טוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:34.880",
+            "offset_end": "0:14:38.080",
+            "text": "‫כמו שאמרתי, עמלות נמוכות, ‫יש גם עניין של אופנה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:39.720",
+            "offset_end": "0:14:46.200",
+            "text": "‫מכיוון שיש אנונימיות, אז זה מאפשר ‫גם פעולות בלתי חוקיות וסחר בלתי חוקי, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:47.960",
+            "offset_end": "0:14:52.920",
+            "text": "מקלטי מס או מכירות לא חוקיות, למשל של נשק או של סמים וכן הלאה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:53.480",
+            "offset_end": "0:15:01.320",
+            "text": "ויש מדינות שבהן הפעילות הפיננסית באופן כללי מוגבלת, מדינות טוטליטריות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:01.600",
+            "offset_end": "0:15:05.600",
+            "text": "אז זה מאפשר פעילות פיננסית חופשית במדינות כאלה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:05.600",
+            "offset_end": "0:15:11.160",
+            "text": "למרות שהמדינות האלה גם מן הסתם מגבילות את השימוש בביטקוין, למשל סים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:14.080",
+            "offset_end": "0:15:16.120",
+            "text": "אוקיי, אז בואו נדבר קצת על אנונימיות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:17.120",
+            "offset_end": "0:15:23.080",
+            "text": "אז כשאתם מבצעים פעולות בביטקוין, הן לא רשומות על השם האמיתי שלכם, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:23.080",
+            "offset_end": "0:15:27.640",
+            "text": "אם יש לכם שם אחר, תוכלו להסביר מה השם שלכם בביטקוין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:27.640",
+            "offset_end": "0:15:33.240",
+            "text": "לכל משתמש יש איזושהי מכרוזת ייחודית שמגדירה אותו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:33.240",
+            "offset_end": "0:15:39.480",
+            "text": "זה המפתח של החתימה הדיגיטלית, המפתח הפומבי של החתימה הדיגיטליות, זה המאפיין שלכם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:39.480",
+            "offset_end": "0:15:52.280",
+            "text": "זאת אומרת, זה איזה שהוא מספר, ואין לו שום קשר לזהות האמיתית שלכם. זה לא כמו שהם משתמש בזה אתר, שהוא איכשהו קשור לשם הפרטי, או שם המשפחה שלכם, או שילוב שלהם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:52.280",
+            "offset_end": "0:16:00.600",
+            "text": "ועקרונית הזהות לא חשופה, אבל בפועל הזהות שלכם, בוא נאמר, חשופה למחצה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:00.600",
+            "offset_end": "0:16:33.560",
+            "text": "כי אם אתם לא מנהלים את המסחר שלכם בביטקוין באופן ישיר, אלא באמצעות גורם מקשר, מה שנקרא ענק אלקטרוני, וזה מה שרוב האנשים עושים, אז אולי בביטקוין אתם מופיעים תחת איזשהו מספר שמייצג אתכם, אבל בחברה שאיתה אתם עובדים ושמייצגת אתכם, אתם צריכים להירשם עם הפרטים האמיתיים שלכם, כדי שהכסף שוכל לעבור לחשבון בנק האמיתי שלכם, או דרך כרטיס האשראי האמיתי שלכם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:33.560",
+            "offset_end": "0:16:55.000",
+            "text": "אז בפועל אתם לכאורה, אתם אנונימיים, יש לכם השיחה, בפועל אתם חשופים, לא אולי ישירות לכל משתמשי הביטקוין, אבל לאותה חברה שאיתה אתם עובדים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:57.000",
+            "offset_end": "0:17:15.000",
+            "text": "אז בואו נדבר קצת על החתימה הדיגיטלית, נזכיר לכם, חתימה דיגיטלית זה כלי קיפטוגרפי שמאפשר לכם לחתום על מסמך, אתם יודעים את זה, היא מורכבת משני מפתחות, יש את המפתח הסודי שבאמצעותו אתם חותמים, ויש מפתח פומבי שבאמצעותו בודקים את החתימה שלכם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:15.000",
+            "offset_end": "0:17:48.040",
+            "text": "וכל מפתח הוא איזושהי מכרוזת ביטים באורך קבוע, החתימה עצמה היא מכרוזת ביטים שתלויה במסמך ובחותם, זאת חתימה דיגיטלית, ובביטקוין המפתח הפומבי שלכם הוא האמצעי הזיהוי שלכם. אוקיי? אז כמישהו רואה את המפתח הפומבי שלכם, הוא לא יכול לזהות אותכם לפי הביטים האלה, כן? ובביטקוין הסכמת החתימה היא הסכמה של עקומים אליפטיים של הלמד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:50.280",
+            "offset_end": "0:17:52.560",
+            "text": "בואו נדבר קצת על הביזור, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:52.640",
+            "offset_end": "0:17:55.000",
+            "text": "על ה... באנגלית decentralization.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:55.480",
+            "offset_end": "0:17:59.840",
+            "text": "אז כמו שאמרתי, אין סמכות אחראית שהוא אחראי... אחת שאחראית על הפעולות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:59.920",
+            "offset_end": "0:18:07.000",
+            "text": "בעצם מי שאחראי על הפעולות זה כל ה... זה הקולקטיב של המשתמשים בביטקוין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:10.440",
+            "offset_end": "0:18:13.120",
+            "text": "והם אלה שמאשרים את הפעולות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:13.120",
+            "offset_end": "0:18:15.800",
+            "text": "במקום שהבנק יאשר לכם העברה בנקאית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:16.400",
+            "offset_end": "0:18:20.480",
+            "text": "כלל המשתמשים בביטקוין הם אלה שמאשרים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:20.800",
+            "offset_end": "0:18:23.680",
+            "text": "והם יכולים לאשר או לא יאשר, הם יכולים לפסול פעולה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:23.680",
+            "offset_end": "0:18:32.000",
+            "text": "כי אתם משלמים עבור משהו, או אתם משלמים סכום שאין לכם אותו, כן? אין דבר כזה להיות ב-overdraft בביטקוין אגב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:32.000",
+            "offset_end": "0:18:52.000",
+            "text": "אולי אתם רוצים לעשות את הפעולה עם עמלה נמוכה מדי, אז זה לא משתלם למי שמאשר את זה, או שאולי לא כתבתם את הפעולה בצורה נכונה, או שאתם מנסים להשתמש באותו מטבע פעמיים, שזאת אחת הבעיות של, או אחת הבעיות הפוטנציאליות של ביטקוין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:52.000",
+            "offset_end": "0:19:06.000",
+            "text": "האישור או הסמכות לאשר פעולות היא תלויה בכוח החישוב, זאת אומרת ככל שיש לכם יותר כוח חישוב, אתם יותר משפיעים על מה שנעשה בביטקוין, וזה יוסבר בהמשך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:07.000",
+            "offset_end": "0:19:13.000",
+            "text": "גם התוכנה שמפעילה את הביטקוין היא לא נמצאת במקום אחד או אצל אדם אחד או במחשב אחד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:13.000",
+            "offset_end": "0:19:22.000",
+            "text": "אלא העותקים שלה נמצאים בכל מקום, והיא עובדת בכל מקום, זאת אומרת, גם אצלכם וגם אצל מישהו אחר וגם אצל כל שאר המשתמשים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:22.000",
+            "offset_end": "0:19:25.680",
+            "text": "זאת אומרת, אין גורם אחד שמנהל את הביטקוין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:28.680",
+            "offset_end": "0:19:35.200",
+            "text": "הבסיס של הביטקוין זה מה שנקרא הפנקס, או באנגלית, the ledger, כן? זה פנקס רשומות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:35.200",
+            "offset_end": "0:19:42.680",
+            "text": "מה זה הפנקס? זה רשימת כל הפעולות שבוצעו בביטקוין מאז שהוא התחיל, בשנת 2009, ינואר 2009.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:43.680",
+            "offset_end": "0:19:48.320",
+            "text": "הפנקס הזה של כל הפעולות, זמין, כל אחד יכול לעיין בו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:48.600",
+            "offset_end": "0:19:51.400",
+            "text": "מה זה הפנקס? זה סדרה של בלוקים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:51.400",
+            "offset_end": "0:19:55.560",
+            "text": "יש את בלוק האפס, זה הבלוק הראשון של הביטקוין,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:55.560",
+            "offset_end": "0:20:00.680",
+            "text": "הוא נקרא ג'נסיס בלוק, ואחריו בלוק אחד, בלוק שתיים, בלוק שלוש,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:00.680",
+            "offset_end": "0:20:10.000",
+            "text": "בלוק שמונה מאות ארבעים אלף, שהגענו אליו לא מזמן, ויש לו חשיבות, אני אסביר את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:11.000",
+            "offset_end": "0:20:18.000",
+            "text": "ובין הפנקסים, בין הפנקס לזה שבא אחריו, יש איזשהו קשר חישובי, שאני אסביר אותו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:19.000",
+            "offset_end": "0:20:25.140",
+            "text": "והקשר החישובי הזה הוא זה שמאפשר, הוא זה שמגן על הביטקוו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:26.040",
+            "offset_end": "0:20:35.480",
+            "text": "והמבנה הזה של בלוקים שקשורים בקשר חישובי, זה מבנה, באופן כללי זה המבנה של שרשרת בלוקים, או מה שנקרא בלוקצ'יין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:37.460",
+            "offset_end": "0:20:40.580",
+            "text": "אז זה דבר שאני אסביר בחלק השני, מה זה הבלוקצ'יין הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:41.860",
+            "offset_end": "0:21:09.280",
+            "text": "אז הפנקס מעוקב מבלוקים, וכל בלוק מכיל פעולות, רשימה של פעולות, של העברות כסף ממישהו למישהו. רוב הפעולות הם מהסוג של להעביר כסף. יש פעול צריך לאשר אותו, מישהו צריך לאשר אותו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:09.280",
+            "offset_end": "0:21:12.680",
+            "text": "מי שמאשר אותו הוא בעצם זוכה בבלוק, אני אסביר את זה בהמשך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:12.680",
+            "offset_end": "0:21:15.800",
+            "text": "עכשיו, כדי לזכות בבלוק, צריך הרבה כוח חישוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:15.800",
+            "offset_end": "0:21:20.040",
+            "text": "ככל שיש למישהו יותר כוח חישוב, יש לו יותר סיכוי לזכות בבלוק,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:20.040",
+            "offset_end": "0:21:22.520",
+            "text": "ולהיות זה שמאשר את הבלוק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:22.520",
+            "offset_end": "0:21:27.760",
+            "text": "וכמו שאמרתי, מי שמאשר את הבלוק יכול גם להחליט שהוא פוסל פעולה מסוימת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:27.760",
+            "offset_end": "0:21:32.560",
+            "text": "או שהיא לא חוקית ואז היא תימחק, ומי שביצע אותה צריך לבצע אותה מחדש,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:32.960",
+            "offset_end": "0:21:36.280",
+            "text": "או שהיא חוקית, אבל זה לא נראה למי שמאשר את הבלוק,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:36.280",
+            "offset_end": "0:21:40.200",
+            "text": "העמלה הייתה נמוכה, או לא יודע, מאיזושהי סיבה הוא לא רוצה לאתשר אותה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:40.200",
+            "offset_end": "0:21:44.280",
+            "text": "ואז היא מועברת באופן אוטומטי לבלוק הבא.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:46.240",
+            "offset_end": "0:21:55.440",
+            "text": "ובכל בלוק יש רשימה של פעולות, ‫והפעולות האלה נראות כך בערך, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:55.600",
+            "offset_end": "0:21:59.520",
+            "text": "‫הפעולה הכי נפוצה, ‫כמו שאמרתי, היא פעולה של תשלום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:59.680",
+            "offset_end": "0:22:14.000",
+            "text": "‫לשלם, הפעולה היא לשלם למישהו, והפעולה נראית בערך ככה, אבל בעצם לא ככה, כי בגלל שהיא כתובה בשפת תכנות שהיא ייחודית לביטקוין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:14.000",
+            "offset_end": "0:22:52.000",
+            "text": "אבל אם מפרשים את זה ללשון שלנו, זה נראה ככה, user x sends n bitcoins, c זה אצמחתה to user y, אז מה זה X? זה המזהה של המשלם. זה בעצם המפתח הפומבי של החתימה הדיגיטליות שלו, יותר נכון זה ה-Hash value של המפתח הפומבי של החתימה הדיגיטלית שלו. הסכום בביטקוין שהוא משלם. C זה הסמכטה של המטבע הזה. מה זה הסמכטה? זה הבסיס, זה האישור שבעצם למשלם X יש את הכסף הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:52.000",
+            "offset_end": "0:23:27.400",
+            "text": "זאת אומרת, זו הפנייה למקום שבו משלם X קיבל את הכסף הזה, או קנה את הכסף הזה, כן? קיבל את הכסף הזה. אם אין אסמכטה כזאת, הוא לא יכול לשלם, ובסוף זה משולם למשתמש Y, גם כן באמצעות המפתח הכומביש לחתימה הדיגיטלית שלו, והמשתמש X צריך לחתום על זה, כן? זה מה שמאשר שהמשתמש X אכן רוצה לבצע את הפעולה הזאת, וזה הוא זה שיזם אותה ולא מישהו אחר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:35.400",
+            "offset_end": "0:23:36.120",
+            "text": "אז זהו, אז זה החלק הראשון, אז שבו הסברתי מה זה ביטקוין, מה היתרונות, מה החסרונות שלו, אנחנו...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:39.720",
+            "offset_end": "0:23:40.240",
+            "text": "לכל היתרונות והחסרונות אנחנו נרד יותר לעומק בהמשך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:49.220",
+            "offset_end": "0:23:57.320",
+            "text": "איך זה בנוי באופן כללי, יש לנו את הפנקס, הפנקס זה שרשרת בלוקים שקשורים אחד לשני באיזשהו קשר חישובי, ובכל בלוק כזה יש רשימה של פעולות, אלה הפעולות שמתבצעות בביטקוין, הפעולות של העברת כסף.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:57.320",
+            "offset_end": "0:24:05.320",
+            "text": "זה סוף החלק הראשון, ואנחנו נמשיך עוד מעט בחלק השני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1162936",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        }
+    ]
+}

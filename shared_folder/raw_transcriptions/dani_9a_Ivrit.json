@@ -1,0 +1,1642 @@
+{
+    "data": [
+        {
+            "offset_start": "0:00:00.000",
+            "offset_end": "0:00:06.900",
+            "text": "שלום לכולם, אנחנו ננסה שוב להתחיל את השיעור הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:06.900",
+            "offset_end": "0:00:23.800",
+            "text": "אתם רואים את המצגת? כן. אוקיי. בסדר. אז הנושא היום זה העברת מפתחות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:23.800",
+            "offset_end": "0:00:29.000",
+            "text": "כמו שאמרתי, אנחנו נלמד אלגוריתם של דיפי הלמן, וריאציה עליו של יוז,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:29.000",
+            "offset_end": "0:00:36.000",
+            "text": "ואחר כך אני אלמד מה שנקרא קריפטוגרפיה קוונטית או העברת מפתחות קוונטית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:36.000",
+            "offset_end": "0:00:50.600",
+            "text": "אז כבר דיברתי הרבה בקורס הזה על הבעיה של העברת מפתחות, זאת אומרת, יש לנו שני אנשים, או קבוצה של אנשים שרוצים להעביר ביניהם מסרים בצורה סודית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:50.600",
+            "offset_end": "0:00:54.760",
+            "text": "שלא תהיה חשופה ברשת, אז הם צריכים להצפין את זה, הם מצפינים את זה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:54.760",
+            "offset_end": "0:00:58.440",
+            "text": "אבל אז יש בעיה של איך להעביר את המפתח מצד לצד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:58.940",
+            "offset_end": "0:01:10.000",
+            "text": "פתרון אחד מצאנו, זה הפתרון של מפתח, שיטת מפתח פומבי, שמאפשרת באמצעות מפתח פומבי להצפין את המפתח הסימטרי, לשלוח אותו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:10.000",
+            "offset_end": "0:01:14.000",
+            "text": "והצד השני מפענח את זה באמצעות המפתח הסודי שלו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:14.000",
+            "offset_end": "0:01:18.000",
+            "text": "וזאת שיטה טובה וזאת שיטה שעובדת ובה משתמשים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:18.000",
+            "offset_end": "0:01:21.000",
+            "text": "אלטרנטיבה, זאת השיטה של דיפי אלמן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:21.000",
+            "offset_end": "0:01:30.000",
+            "text": "למעשה השיטה של דיפי ואלמן התגלתה ופורסמה קצת לפני שגילו את אלגוריתם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:30.040",
+            "offset_end": "0:01:35.480",
+            "text": "המפתח הפומבי הראשון של RSA, זאת שיטה שלא דורשת עצפנה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:35.520",
+            "offset_end": "0:01:44.000",
+            "text": "היא מאפשרת לשני אנשים ליצור ביחד מפתח שידוע רק לשניהם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:46.800",
+            "offset_end": "0:01:50.000",
+            "text": "וככה הם יכולים להתכתב. אוקיי, אז...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:58.000",
+            "offset_end": "0:02:05.480",
+            "text": "אוקיי, אז מה עושה אלגוריתם Diffie-Hellman, או מה שנקרא באנגלית Diffie-Ellman Key Exchange?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:06.400",
+            "offset_end": "0:02:11.840",
+            "text": "אז כמו שאמרתי, זה המפתח, למעשה המפתח הראשון שיש בו אלמנטים של מפתח פומבי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:11.960",
+            "offset_end": "0:02:17.240",
+            "text": "הוא קדם ל-RSA, והוא מתבסס על בעיית הלוגריתם הדיסקרטי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:17.240",
+            "offset_end": "0:02:22.240",
+            "text": "שאותה אנחנו מכירים מהשיטה של עקומים אליפטיים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:22.440",
+            "offset_end": "0:02:24.960",
+            "text": "ולמעשה אנחנו גם כאן נשתמש בעקום אליפטי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:29.240",
+            "offset_end": "0:02:36.920",
+            "text": "אבל השיטה של דיפי אלמן במקור לא השתמשה בעקום אליפטי, השתמשה בחבורה, או יותר נכון, בשדה ZQ,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:36.920",
+            "offset_end": "0:02:43.600",
+            "text": "כש-Q הוא מספר ראשוני, ובחבורה הכפלית שלו, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:43.600",
+            "offset_end": "0:02:50.700",
+            "text": "אז יש לנו מספר ראשוני Q, ויש לנו מספר אחר, alpha, שהוא מה שנקרא איבר פרימיטיבי מודולו q.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:50.700",
+            "offset_end": "0:03:00.700",
+            "text": "מה זה אומר איבר פרימיטיבי? דיברנו על זה. זה יוצר של החבורה הכפלית zq. החבורה הכפלית zq כוכב, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:00.700",
+            "offset_end": "0:03:08.360",
+            "text": "זה החבורה של המספרים מ-0 עד q, סליחה, מ-1 עד q מינוס 1, עם פולת הכפל מודולו q.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:08.360",
+            "offset_end": "0:03:13.860",
+            "text": "החבורה הזאת היא חבורה ציקלית, ו-Alpha הוא יוצר שלו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:15.860",
+            "offset_end": "0:03:16.860",
+            "text": "אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:18.360",
+            "offset_end": "0:03:22.860",
+            "text": "אז יש שיטות למצוא איבר פרימיטיבי, אני לא אכנס לזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:22.860",
+            "offset_end": "0:03:25.600",
+            "text": "אנחנו למעשה גם לא חייבים שזה יהיה איבר פרימיטיבי, אני לא אכנס לזה, אנחנו למעשה גם לא חייבים שזה יהיה איבר פרימיטיבי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:25.600",
+            "offset_end": "0:03:31.600",
+            "text": "ואנחנו נשתמש בשיטה הזאת, בהקום אליפטיק עכשיו, ששם אין לנו את הבעיה הזאת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:31.600",
+            "offset_end": "0:03:48.640",
+            "text": "אז איך עובדת השיטה? אז A ו-B, נקרא להם אליס ובוב, כן? אז רוצים, למעשה הם רוצים לייצר מפתח עצ�ה שידוע רק לשניהם, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:48.640",
+            "offset_end": "0:03:54.040",
+            "text": "אז שניהם מכירים את המספר q ואת המספר alpha.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:54.040",
+            "offset_end": "0:04:14.200",
+            "text": "שניהם מכירים אותו, לא רק שניהם, אולי כל הארגון שלהם, או כל הרשת שלהם מכירה את המספרים Q ו-Alpha. אז A בוחרת מספר אקראי X Alpha, כן, איזשהו מספר, X A, סליחה, X A, X ששייך ל-A,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:14.200",
+            "offset_end": "0:04:22.100",
+            "text": "והוא קטן מ-Q, זאת אומרת, מספר בחבורה ZQ, ומחשבת את Alpha בחזקת XQ.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:22.900",
+            "offset_end": "0:04:37.300",
+            "text": "אוקיי? אז x היא חזקה, ואם חושבת את Alpha בחזקת x, סליחה, xa, את אותו מספר אקראי, בחבורה הכפלית zq.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:37.300",
+            "offset_end": "0:04:48.900",
+            "text": "את xa זה נשמע רק בסוד, אם אתם רוצים זה המפתח הסודי של a, ו-ya, מה שקיבלה בעלה בחזקה, זה המפתח הפומפי של A.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:49.900",
+            "offset_end": "0:04:55.500",
+            "text": "B עושה את אותו דבר. למעשה כל מי שחבר באותה רשת עושה את אותו דבר, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:55.500",
+            "offset_end": "0:05:12.500",
+            "text": "B בוחר מספר כמו A, XB, מחשב את Alpha בחזקת XB, זה אותו אלפא שיש לנו מההתחלה, וגם כאן xb הוא המפתח הסודי של b, ו-yb הוא המפתח הפומבי שלו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:12.500",
+            "offset_end": "0:05:22.500",
+            "text": "ומה שעכשיו ידוע לכולם, זאת אומרת, כל אחד מכיר את המפתח הסודי שלו, והם שני מכירים כל אחד את המפתח הפומבי של השני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:22.500",
+            "offset_end": "0:05:28.680",
+            "text": "ועכשיו בעזרת המפתחות הפומביים, הם ייצרו מפתח משותף. איך הם יעשו את זה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:28.680",
+            "offset_end": "0:05:39.340",
+            "text": "A מחשב את YB בחזקת XA, כן? YB זה מה ש-B שלח לו, בחזקת XA שזה מפתח הסודי של A,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:39.340",
+            "offset_end": "0:05:49.480",
+            "text": "ו-B מחשב אתA בחזקת xB. ומסתבר ששני הדברים האלה זה אותו דבר, זה אותו מפתח K.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:49.480",
+            "offset_end": "0:05:51.680",
+            "text": "למה? כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:54.420",
+            "offset_end": "0:06:01.800",
+            "text": "אוקיי, למה זה נכון? כן, אין פה את ההסבר, אבל את ההסבר אפשר להגיד בעל פה ואפשר גם לכתוב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:01.800",
+            "offset_end": "0:06:12.500",
+            "text": "אז אולי אני אעבור ללוח ואני אכתוב את ההסבר למה הדבר הזה נכון. רגע, אז נעבור רגע ללוח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:21.000",
+            "offset_end": "0:06:26.100",
+            "text": "אוקיי, אז מה אנחנו יודעים? אנחנו יודעים כמה דברים, אנחנו יודעים ש...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:31.500",
+            "offset_end": "0:06:38.300",
+            "text": "כן, אנחנו יודעים ש-yA זה xA,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:40.300",
+            "offset_end": "0:06:48.800",
+            "text": "סליחה, זה אלפא בחזקת xA מוד q.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:52.300",
+            "offset_end": "0:07:07.000",
+            "text": "אנחנו יודעים ש-yB זה אלפא בחזקת xB, גם כן מוד q.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:18.500",
+            "offset_end": "0:07:23.000",
+            "text": "עכשיו הקרי שאליס מחשבת, אמרנו שזה yb, מה שבי שלח לה, וחזקת xa שזה המפתח החסודי שלה. סליחה שאני קוטע, רק אני לא רואה את הלוח, או ש...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:23.000",
+            "offset_end": "0:07:27.000",
+            "text": "אתם רואים את הלוח או לא? אתם לא רואים את הלוח?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:30.000",
+            "offset_end": "0:07:36.500",
+            "text": "מה? רואים, רואים. רואים? אז רק אני... רואים כן. רואים את הלוח. אוקיי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:37.000",
+            "offset_end": "0:07:51.200",
+            "text": "אז xk זה yb בחזקת xk, מוד q כמובן, הכל mod q.אבל מה זה yb? yb זה אלפא בחזקת xb.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:54.400",
+            "offset_end": "0:07:55.800",
+            "text": "בחזקת xa.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:00.800",
+            "offset_end": "0:08:01.600",
+            "text": "mod q.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:02.600",
+            "offset_end": "0:08:15.000",
+            "text": "בסדר, אבל את זה גם אפשר לכתוב בתור אלפB xA, כן, זה חוקי חזקות, זה פשוט המכפלה שלהם. מוד קיו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:15.000",
+            "offset_end": "0:08:27.000",
+            "text": "ואת זה אפשר גם לכתוב בתור Alpha בחזקת xA וחזקת xB, מוד q.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:30.500",
+            "offset_end": "0:08:48.500",
+            "text": "אבל מה זה? זה אלפא בחזקת xA זה yA בחזקת xB, מוד q.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:27.000",
+            "offset_end": "0:09:45.000",
+            "text": "אוקיי? שזה ה-k שבוב חישב, כן? אז זה ה-k שאליס מחשבת, וזה ה-k שבו בחישב. אז הם שניהם חישבו את אותו דבר. אז כל אחד בדרך שלו לגלות את זה? נניח מישהו מאזין לקשר ביניהם, אז הוא יודע את yA, כן? מי שמאזין לקשר יודע את yA, כי זה מה שעובר בקשר הגלוי ביניהם. כן? זה פומבי. הוא יודע את yB.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:54.000",
+            "offset_end": "0:09:55.000",
+            "text": "אבל כדי לחשב את המפתח, הוא צריך או את xA, כדי לחשב את... כן? זה מה שאליס מחשבת, זה סודי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:57.000",
+            "offset_end": "0:10:00.000",
+            "text": "סודי של אליס.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:03.000",
+            "offset_end": "0:10:04.000",
+            "text": "או לדעת את xB.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:12.240",
+            "offset_end": "0:10:15.640",
+            "text": "זה סודי של בוב. כן? זה סודי של בוב. מספיק שאתה יודע אחד מהם ואתה מגלה את שתי המפתחות?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:15.640",
+            "offset_end": "0:10:25.160",
+            "text": "אין שני מפתחות, יש מפתח אחד. זה אותו מפתח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:31.320",
+            "offset_end": "0:10:31.680",
+            "text": "כן? הקי הזה הוא אותו קי כמו למטה, זה מה שהראיתי כאן. אז אין שני מפתחות, יש אחד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:33.960",
+            "offset_end": "0:10:35.600",
+            "text": "כן? הקי הזה הוא אותו דבר כמו הקי הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:36.360",
+            "offset_end": "0:10:36.720",
+            "text": "סבבה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:09.260",
+            "offset_end": "0:11:10.460",
+            "text": "אז, אבל כדי להגיע לקי הזה, צריך לדעת או את xA או את xB. כדי לדעת את xA, צריך לפתור לוגריתם דיסקרטי, כן? גם Alpha ו-Q ידועים לכולם. מה ידוע לכולם? ידוע לכולם Alpha, Q, YA ו-YB. מה סודי? xa ו-xb.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:15.660",
+            "offset_end": "0:11:17.860",
+            "text": "כדי לגלות את xa ו-xb, צריך לפתור בעיית לוגריתם דיסקרטית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:32.860",
+            "offset_end": "0:11:33.860",
+            "text": "בעיית לוגריתם דיסקרטי זה שיש חזקה מודולרית, או שיש חזקה יותר, באופן יותר כללי, יש חבורה, יש חזקה באיזושהי חבורה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:41.160",
+            "offset_end": "0:11:42.460",
+            "text": "ואנחנו לא יודעים אותה, צריך לגלות את החזקה. אנחנו יודעים מה הבסיס של החזקה, אנחנו יודעים מה התוצאה של החזקה, אבל אנחנו לא יודעים את החזקה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:48.900",
+            "offset_end": "0:11:49.600",
+            "text": "רגע, דני, זה לא בדיוק אותה שיטה כמו שאר השיטות הקודמות? כאילו, איפה השינוי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:51.100",
+            "offset_end": "0:11:52.900",
+            "text": "מה זה השיטות הקודמות?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:58.300",
+            "offset_end": "0:11:59.200",
+            "text": "כאילו, למשל בחתימה, עם ה... זה גם היינו צריכים לגלות את זה באותה צורה, לא?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:01.900",
+            "offset_end": "0:12:28.000",
+            "text": "טוב, הן דומות, אבל זה לא אותו דבר, כן? פה בחתימה גם היה לנו מפתח, גם בחתימה היה לנו בעיית לוגריתם דיסקרטי, והיה לנו מפתח פומבי ומפתח סודי, נכון? אבל שם עשינו משהו אחר, כן? שם חתמנו על מסמך. פה שני צדדים יצרו ביחד מפתח, כן? כל אחד עשה את החישוב הפרטי שלו וביחד הגיעו לאותה תוצאה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:28.000",
+            "offset_end": "0:12:35.000",
+            "text": "ורק הם יכולים להוגיע לאותו תוצאה, כי כדי להגיע לאותה תוצאה צריך או את xA או את xB.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:35.000",
+            "offset_end": "0:12:40.000",
+            "text": "אבל שניהם זה פשוט על העיקרון של הכפל המודולרי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:40.000",
+            "offset_end": "0:12:47.600",
+            "text": "נכון, נכון, אוקיי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:13.800",
+            "offset_end": "0:13:21.400",
+            "text": "אוקיי, אז עכשיו בעצם מה שיש לנו כאן זה פעולה בחבורה הכפליט zq. אבל בעיית הלוגריתמה ניסקטי היא בעיה יותר כללית, היא בעיה בחבורה כלשהי, לאו דווקא בחבורה הקפליט zq, אז אם ניקח את זה צעד קדימה ובמקום החבורה הקפליט zq אנחנו נעבוד עם החבורה של עקום אליפטי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:21.400",
+            "offset_end": "0:13:33.000",
+            "text": "אז עדיף ילמן יראה ככה, קודם כל יש לנו עקום אליפטי. אנחנו יודעים מה זה עקום אליפטי, כן? יש לנו מספר ראשוני P, יש לנו שני מקדמים A ו-B,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:33.000",
+            "offset_end": "0:13:52.000",
+            "text": "וזה כל הפתרונות XY, כך ש-Y בשלישית שווה ל-X בריבוע ועוד AX ועוד B, מודולו P. אוקיי? אז יש לנו עקום אליפטי, יש לנו נקודה על העקום האליפטי, בדיוק כמו שהיה לנו בעצפנה ובחתימה בעזרת עקום אליפטי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:52.000",
+            "offset_end": "0:14:13.000",
+            "text": "יש לנו נקודה על העקום האליפטי, שהסדר שלה הוא גבוה, זאת אומרת, החזקה הכי נמוכה שנותנת את איבר היחידה היא מאוד מאוד גדולה, ויש לנו מפתח סודי ופומבי. עכשיו, מה זה מפתח, מה למשל, מה המפתח הפומבי והסודי של אליס?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:13.000",
+            "offset_end": "0:14:29.160",
+            "text": "אז אנחנו לוקחים את הנקודה G, מעלים אותה בחזקת dA, אליס בוחר את מספר dA, כן, d של אליס, מעלה אותה בחזקת dA, מקבל את התוצאה, ה-DA הוא המפתח הסודי, QA זה המפתח הפומי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:30.160",
+            "offset_end": "0:14:35.760",
+            "text": "אוקיי? אז זה המפתחות של אליס, וכאן יש גם את המפתחות של בום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:35.760",
+            "offset_end": "0:14:41.640",
+            "text": "ועכשיו הם רוצים להסכים על מפתח, עכשיו תזכרו, זה בדיוק כמו מה שעשינו בשקף הקודם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:41.640",
+            "offset_end": "0:14:46.300",
+            "text": "כלומר, בשקף הקודם היה לנו איזה אלפא שהעלינו אותו בחזקת xA,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:46.300",
+            "offset_end": "0:14:54.500",
+            "text": "אז פה האלפא זאת הנקודת g, שאני מעלה אותה בחזקת dA, אני מקבל את המפתח הפומבי של אליס.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:54.500",
+            "offset_end": "0:15:00.300",
+            "text": "בוב עושה את אותו דבר, לוקח את הנקודת g, מעלה בחזקת dB, מקבל את המפתח הפומבי שלו,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:00.300",
+            "offset_end": "0:15:13.000",
+            "text": "שולח לבוב את qB, אליס שולחת לבוב, סליחה, בוב שולח לאליס את qb, אליס שולחת לבוב את qa, וכמובן שומרת רק לעצמה את dA, בוב שומר רק לעצמו את dB.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:13.000",
+            "offset_end": "0:15:32.500",
+            "text": "ועכשיו עושים בדיוק את אותו דבר, אליס מחשבת את qb, כן, מה שבוב שלח לה בחזקת dA, נקרא לזה kA, בוב מחשב את qA בחזקת dB, נקרא לזה kB,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:32.500",
+            "offset_end": "0:15:50.100",
+            "text": "ואפשר לראות ש-kA בעצם שווה ל-kB, כי מה זה kA? kA זה qB בחזקת dA, אבל מה זה qB? qB זה dbg, אוקיי? אז זה dbg, אז מה יש לנו כאן? dA כפול dB, g, זאת אומרת g בחזקת dA כפול dB,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:50.100",
+            "offset_end": "0:15:58.100",
+            "text": "אפשר להפוך את הסדר של dA וdB, כי כפל מספרים, כן, אלה מספרים, כפל מספרים זה קומוטטיבי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:58.100",
+            "offset_end": "0:16:09.000",
+            "text": "אבל dA או g בחזקת dA זה qA, אז dB, אז qA בחזקת dB זה בדיוק מה שבוב חישב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:09.000",
+            "offset_end": "0:16:17.500",
+            "text": "אז מסתבר שמה שאליס חשבה שווה למה שבוב חישב, וזה המפתח שמשותף לשניהם ורק לשניהם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:17.500",
+            "offset_end": "0:16:32.460",
+            "text": "אם נניח עכשיו יצטרף עוד מישהו, אני יודע מישהו שהשם שלו מתחיל בעוד C, לאותה רשת, זאת אומרת, מישהו שיודע את הקום האליפטי ויודע את G,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:32.460",
+            "offset_end": "0:16:40.960",
+            "text": "וייצר גם לו לעצמו, נניח C, מישהו שהשם שלו מתחיל ב-C, אני יודע מי השם שלו מתחיל ב-C?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:40.960",
+            "offset_end": "0:16:57.500",
+            "text": "קרלי. מה? איך? קולין, אוקיי? או קארלי, קארלי יותר טוב, כן? קארלי מצטרף, והוא מייצר לעצמו את DC ו-QC, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:57.500",
+            "offset_end": "0:17:09.000",
+            "text": "אז, אז קארלי ואליס גם יכולים להסכים על מפתח שמשותף רק לשניהם, וקארלי ובוב יכולים להסכים על מפתח אחר שמשותף רק לשניהם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:09.000",
+            "offset_end": "0:17:15.400",
+            "text": "זאת אומרת, כל שני משתמשים באותה רשת יכולים לייצר מפתח שהוא משותף רק לשני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:18.400",
+            "offset_end": "0:17:31.000",
+            "text": "אז החידוש פה באלגוריתם של דיפי אלמן, לעומת מה שראינו קודם, זה בכך ששני הצדדים שותפים ליצירת המפתח הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:32.700",
+            "offset_end": "0:17:36.200",
+            "text": "המפתח הזה תלוי באותה מידה באליס ובבוב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:37.000",
+            "offset_end": "0:17:40.800",
+            "text": "ובאותה מידה יש לשניהם השפעה על מה יהיה המפתח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:41.500",
+            "offset_end": "0:17:48.000",
+            "text": "אליס לא מייצרת מפתח ושולחת לבוב, זה עשינו בשיטת מפתח פומבי, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:48.000",
+            "offset_end": "0:17:57.500",
+            "text": "בשיטת מפתח פומבי, אליס יצרה מפתח AES, הצפינה אותו בעזרת המפתח הפומבי של בוב ושלחה לו את המפתח מוצפן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:57.500",
+            "offset_end": "0:18:03.500",
+            "text": "פה לא, פה אליס ובוב מייצרים ביחד את המפתח, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:03.500",
+            "offset_end": "0:18:08.200",
+            "text": "אז אפשר לקרוא למפתח הזה KAB, כי הוא משותף ל-A ו-B.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:12.200",
+            "offset_end": "0:18:31.000",
+            "text": "אז... כן, אז שוב, אני אסכם את זה, מה ההבדלים בין העברת מפתחות באמצעות RSA בין אלגוריתמים מסוג דיפי אלמן, ב-RSA משתתף אחד, יוצר מפתח סימטרי, מצפין אותו ושולח לצד השני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:31.000",
+            "offset_end": "0:18:35.000",
+            "text": "בדיפי אלמן הם ביחד יוצרים את המפתח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:37.000",
+            "offset_end": "0:18:46.800",
+            "text": "כן, אז זה מה שאמרתי, בדיפי אלמן שני המשתתפים יוצרים ביחד את המפתח, ולא מעבירים מפתח שצד אחד יצא.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:46.800",
+            "offset_end": "0:18:51.000",
+            "text": "אוקיי? אז יש לזה יתרונות וחסרונות, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:51.000",
+            "offset_end": "0:18:53.400",
+            "text": "היתרון שלהעבר את מפתח על פני יצירת מפתח,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:53.400",
+            "offset_end": "0:18:57.800",
+            "text": "הוא בכך שהיא יכולה ליצור את המפתח K ולעצפין באמצעותו מסמך מראש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:57.800",
+            "offset_end": "0:19:02.600",
+            "text": "זאת אומרת, אם נניח אליס רוצה לעצפין בשביל בו מסמך,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:02.600",
+            "offset_end": "0:19:09.320",
+            "text": "נניח עכשיו יש לה גישה לתוכנת הצפנה, אולי מחר לא תהיה לה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:09.320",
+            "offset_end": "0:19:12.240",
+            "text": "אז היא רוצה להצפין מראש את המסמך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:12.840",
+            "offset_end": "0:19:18.800",
+            "text": "אז היא לא יכולה לחכות לזה שהיא ובוב יעשו את התהליך הזה של דיפי אלמן,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:19.000",
+            "offset_end": "0:19:21.560",
+            "text": "וייצרו ביחד מפתח. היא רוצה ליצור את המפתח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:22.120",
+            "offset_end": "0:19:25.720",
+            "text": "אז במקרה כזה, היא יוצרת את המפתח, מצפינה את המסמך,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:25.720",
+            "offset_end": "0:19:31.200",
+            "text": "ואז שולחת לבוב את המפתח מוצפן באמצעות RSA.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:34.280",
+            "offset_end": "0:19:38.680",
+            "text": "זה שימושי במה שנקרא התחייבות חד-צדדית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:39.240",
+            "offset_end": "0:19:41.760",
+            "text": "אוקיי? מה זה התחייבות חד-צדדית?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:42.320",
+            "offset_end": "0:19:45.160",
+            "text": "זה בוא נאמר שאני רוצה לגלות...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:47.160",
+            "offset_end": "0:19:50.560",
+            "text": "כן, נניח שאליס טוענת שיש לקוחות על-טבעיים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:51.160",
+            "offset_end": "0:19:58.160",
+            "text": "והיא יודעת לנחש מה היו המספרים בהגלת הלוטו השבועית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:58.880",
+            "offset_end": "0:20:06.120",
+            "text": "אוקיי? היא רוצה להוכיח לבוב שהיא יודעת מראש מה יהיו המספרים בהגרלת הלוטו השבועית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:07.000",
+            "offset_end": "0:20:10.900",
+            "text": "אז מה היא עושה? היא יודעת את המספרים, היא רושמת אותם בקובץ,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:11.460",
+            "offset_end": "0:20:16.160",
+            "text": "מצפינה את הקובץ הזה באמצעות איזשהו מפתח AES,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:16.560",
+            "offset_end": "0:20:19.780",
+            "text": "ושולחת לבוב את המספרים מוצפנים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:19.800",
+            "offset_end": "0:20:22.060",
+            "text": "בוב, כמובן, לא יכול לקרוא את המספרים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:22.080",
+            "offset_end": "0:20:31.000",
+            "text": "הוא לא יכול לנצל את זה שיש לאליס כוחות על טבעיים, ולמלא תופס לוטו באמצעות המספרים שהיא שלחה לו, כי זה מוצפן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:31.000",
+            "offset_end": "0:20:51.200",
+            "text": "אוקיי? ממתינים שתהיה הגרלה, מגיע היום בשבוע, שבוע יש את ההגרלה, אני לא יודע איזה יום זה, ומפעל הפיס מפרסם את המספרים שזכו, ועכשיו אליס רוצה להוכיח לבוב שהיא ידעה מראש מה היו המספרים, אז היא שולחת לו את המפתח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:51.200",
+            "offset_end": "0:21:06.960",
+            "text": "שולחת לו את המפתח שבאמצעותו היא הצפינה את המסמך. עכשיו, את המפתח הזה, אם היא רוצה להצפין, היא יכולה להצפין באמצעות המפתח הפומבי של בוב. אז זה מצב שבו אליס צריכה ליצור בעצמה את המפתח,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:06.960",
+            "offset_end": "0:21:10.200",
+            "text": "היא לא יכולה לחכות לזה שהיא ובוב ייצרו אותו ביחד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:10.200",
+            "offset_end": "0:21:15.280",
+            "text": "כי אם הם ייצרו אותו ביחד, אז שניהם ידעו את המפתח בדיוק באותו זמן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:20.360",
+            "offset_end": "0:21:34.000",
+            "text": "אז יש גם אלגוריתם של היו's, אני חושב ש... כן, יש אלגוריתם של היוס, שהוא דומה לדפי אלמן, אבל באלגוריתם היוס,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:36.000",
+            "offset_end": "0:21:45.000",
+            "text": "אליס מייצרת מפתח ושולחת אותו, ומעבירה אותו לבוג, זה לא המפתח שהם מייצרים ביחד, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:45.000",
+            "offset_end": "0:21:51.800",
+            "text": "איך הולך אלגוריתם הוז? אלגוריתם הוז הולך ככה, אז כמו קודם, יש לנו מספר ראשוני גדול מאוד,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:51.800",
+            "offset_end": "0:21:59.300",
+            "text": "הפעם נקרא לו פיט, זה לא משנה, ויש לנו איבר פרימיטיבי מודולוגי, יש לנו את אלפא כמו קודם, זה בדיוק כמו ב-DFL.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:00.500",
+            "offset_end": "0:22:10.500",
+            "text": "עכשיו, אליס מייצר את מפתח, איך היא מייצרת מפתח? היא בוחרת מספר אקראי x ומעלה את אלפא בחזקת x, זה יהיה המפתח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:10.500",
+            "offset_end": "0:22:14.600",
+            "text": "התוצאה של אלפא בחזקת x היא תהיה המפתח k.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:14.600",
+            "offset_end": "0:22:19.000",
+            "text": "עכשיו היא צריכה למצוא דרך להעביר את המפתח הזה לבוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:19.000",
+            "offset_end": "0:22:21.800",
+            "text": "אוקיי, איך היא מעבירה את זה לבוב?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:21.800",
+            "offset_end": "0:22:35.400",
+            "text": "אז במקביל, כן, בוב לא מחכה לאליס, הוא בוחר מספר y, כמו שאליס בחה את x, הוא בוחר y, הוא צריך להיות זר לפי מינוס 1, והוא שולח לאליס את אלפא בחזקת y.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:35.400",
+            "offset_end": "0:22:47.000",
+            "text": "אוקיי? שימו לב, אליס חישבה את אלפא בחזקת x, אבל שומרת את התוצאה לעצמה, היא לא מגלה אותה, כי זה מפתח סודי, זה מפתח שאמור להיות המפתח המשותף לה ולבוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:47.000",
+            "offset_end": "0:22:52.000",
+            "text": "בוב לעומת זאת מחשבת Alpha בחזקת Y ושולחת את התוצאה לאליס.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:52.000",
+            "offset_end": "0:23:11.240",
+            "text": "אוקיי? מה עושה אליס עם Y? היא מחשבת את Y בחזקת X, אותו X שהיא בחרה בשלב מספר 1, ושולחת את התוצאה לבוב. אז בוב עכשיו קיבל את x, שזה y בחזקת x, ש-y זה מה שבוב חישב מלכתחילה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:12.520",
+            "offset_end": "0:23:28.360",
+            "text": "אוקיי, כן x גדול, x קטן, לא להתבלבל. ועכשיו בוב, עכשיו אני טוען שלבוב יש את כל המידע כדי לדעת מהו המפתח K שאליס בחרה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:28.360",
+            "offset_end": "0:23:36.120",
+            "text": "אז הוא מחשב את x בחזקת z, כש-z זה ההופכי של y מודולו פי מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:36.120",
+            "offset_end": "0:23:45.400",
+            "text": "z זה ההופכי של y מודולו פי מינוס 1, בגלל זה היינו צריכים ש-y יהיה זר לפי מינוס 1, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:45.400",
+            "offset_end": "0:23:51.600",
+            "text": "אז בוב מחשב את ההופכי של y, מודולו פי מינוס 1, זה לא בעיה לחשב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:51.600",
+            "offset_end": "0:23:54.200",
+            "text": "באמצעות אלגוריתם אוקלידס, המורחב,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:54.200",
+            "offset_end": "0:24:00.600",
+            "text": "ומחשב את ה-x הזה, שמה שאליס שלחה לו, בחזקת z, שזה ההופכי של y מודולו פי מינוס 1,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:00.600",
+            "offset_end": "0:24:10.500",
+            "text": "והטענה היא שה-k טאג הזה שבוב חישב הוא בעצם שווה ל-K שאליס חישבה מלכתחילה. כן? אז זאת הטענה, נראה למה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:10.500",
+            "offset_end": "0:24:54.960",
+            "text": "אז מה זה K טאג? זה X בחזקת Z, כמו שאמרנו, מודולו P. אבל מי זה Z? Z זה ההופכי של Y, מודולו P מינוס 1. אוקיי, בסדר. אוקיי, מה זה x? בואו נראה מה זה x. x, בואו ניזכר מי היה x. רגע, עשיתי פה טעות, רגע. עשיתי טעות. לא, שנייה, החצתי על הכפתור הלא נכון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:55.960",
+            "offset_end": "0:24:56.840",
+            "text": "אוקיי, עוד פעם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:10.000",
+            "offset_end": "0:25:15.000",
+            "text": "אז k טאג זה x בחזקת z, מוד p, z זה ההופכי של y מודולו p מינוס 1, ו-X זה Y בחזקת X, כן? X זה Y בחזקת X. אם אתם זוכרים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:31.500",
+            "offset_end": "0:25:37.500",
+            "text": "X זה Y בחזקת X קטן, אוקיי? בסדר? אז אני רושם Y בחזקת X, אבל מי זה y? y זה alpha בחזקת y קטן, מה שבו בחר. אוקיי, בואו נרשום את זה, אבל שימו לב מה יש לנו פה בחזקה. y כפול x כפול ההופכי של y.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:37.500",
+            "offset_end": "0:25:49.500",
+            "text": "אבל y כפול ההופכי של y זה 1, זה מה שהופכי אומר, הכפל פה הוא כפל של מספרים, הכפל הוא קומוטטיבי, אז אני יכול להחליף את x ו-y,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:49.500",
+            "offset_end": "0:26:11.000",
+            "text": "ונקבל y כפול y מינוס 1, שזה 1, ונשארתי עם x בחזקה, אבל מה זה Alpha בחזקת x? זה בדיוק המפתחאן? אליס בחרה מפתח, ואיכשהו בדרך עקיפה הצליחה להעביר את המפתח הזה לבוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:13.000",
+            "offset_end": "0:26:30.520",
+            "text": "אוקיי? על ידי כל מיני עלהות בחזקה. ועכשיו אליס ובוב יכולים להשתמש במפתח המשותף הזה, K, ששווה ל-K' ולהתכתב ב-AES או במה שהם רוצים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:31.520",
+            "offset_end": "0:26:32.720",
+            "text": "אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:39.720",
+            "offset_end": "0:26:43.520",
+            "text": "כן, אפשר גם את אלגוריתם Hughes לעשות, לעקומים אליפטיים, נעשה את זה בתרגול.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:53.000",
+            "offset_end": "0:27:09.880",
+            "text": "אז קיינו שתי שיטות, לעברת מפתח סימטרי, עצפנת המפתח הסימטרי באמצעות המפתח הפומבי של מי ש... כן? אז שוב, יש יצירת מפתח ביחד, או יצירת מפתח והעברה אותו לצד השני, איזו שיטה יותר טובה? זה תלוי בנסיבות. ‫בעיקרון שתי השיטות, ‫בשתי השיטות, גם בהעברה על ידי RSA,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:09.960",
+            "offset_end": "0:27:16.120",
+            "text": "‫וגם בדיפי אלמן, יש לנו... ‫אלגוריתם של העלה בחזקה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:16.200",
+            "offset_end": "0:27:18.160",
+            "text": "‫יש לנו עלה בחזקה מודולרית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:18.640",
+            "offset_end": "0:27:22.880",
+            "text": "‫אחד ההבדלים בין RSA לדיפי אלמן, ‫או ההבדל המרכזי בעצם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:22.960",
+            "offset_end": "0:27:25.480",
+            "text": "‫זה ש-RSA מסתמך על בעיית הפירוק,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:25.840",
+            "offset_end": "0:27:29.160",
+            "text": "דיפי אלמן מסתמך על בעיית הלוגריתם הדיסקרטי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:30.320",
+            "offset_end": "0:27:37.120",
+            "text": "ובעיית הפירוק או בעיית הלוגריתם הדיסקרטי נחשבת לבעיה יותר קשה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:37.120",
+            "offset_end": "0:27:41.280",
+            "text": "למה היא נחשבת לבעיה יותר קשה? זה לא שמישהו מצא דרך לברוץ את RSA,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:41.480",
+            "offset_end": "0:27:47.680",
+            "text": "אבל היא נחשבת לבעיה יותר קשה בגלל שאפשר להשתמש במספרים יותר קטנים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:47.720",
+            "offset_end": "0:27:53.320",
+            "text": "בדיפי אלמן אפשר להשיג את אותה רמת בטיחות תוך שימוש במספרים יותר קטנים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:54.840",
+            "offset_end": "0:27:59.840",
+            "text": "אז אם המספרים יותר קטנים, אז גם החישובים לוקחים פחות זמן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:00.760",
+            "offset_end": "0:28:03.680",
+            "text": "אוקיי? אבל זה לא ש-RSA היא שיטה לא טובה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:04.200",
+            "offset_end": "0:28:06.360",
+            "text": "צריך רק להשתמש שם במפתחות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:06.360",
+            "offset_end": "0:28:14.000",
+            "text": "המפתחות ב-RSA צריכים להיות יותר גדולים, ולכן המספרים יותר גדולים, ולכן החישובים לוקחים טיפה יותר זמן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:14.000",
+            "offset_end": "0:28:24.360",
+            "text": "אוקיי. אז אני אעצור כאן את הדיון על שיטת דיפי אלמן. אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:24.360",
+            "offset_end": "0:28:26.800",
+            "text": "אנחנו נעשה עכשיו הפסקה של חמש דקות.על שיטת דיפי אלמן, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:29.400",
+            "offset_end": "0:28:30.400",
+            "text": "אנחנו נעשה עכשיו הפסקה של חמש דקות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:37.100",
+            "offset_end": "0:28:40.900",
+            "text": "ואחרי הפסקה אנחנו נמשיך בשיטה ממה שנקרא קריפטוגרפיה קוונטית. אז קודם כל, שאלות? יש לכם שאלות על מה שעשיתי עד עכשיו?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:40.900",
+            "offset_end": "0:28:45.600",
+            "text": "יכולו לשאול גם אחרי הפסקה, אם תרצו, אבל אם יש לכם שאלות עכשיו, תשאלו עכשיו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:49.600",
+            "offset_end": "0:28:50.400",
+            "text": "אוקיי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1180314",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        }
+    ]
+}

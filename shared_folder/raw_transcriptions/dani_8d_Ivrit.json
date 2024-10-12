@@ -1,0 +1,1363 @@
+{
+    "data": [
+        {
+            "offset_start": "0:00:00.000",
+            "offset_end": "0:00:32.360",
+            "text": "שלום לכולם, אנחנו נמשיך קצת את השיעור על הש. ואחר כך נעבור לתרגול. אז בואו נעבור למצגת שלנו, אז תכונה הכי חשובה שצריכה להיות לפונקציית הש, זה שקשה מאוד למצוא התנגשות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:33.640",
+            "offset_end": "0:00:41.640",
+            "text": "קשה מאוד למצוא שני מסמכים שיהיה להם אותו ערך הש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:42.040",
+            "offset_end": "0:01:05.040",
+            "text": "שני מסמכים כלשהם, עם אותו ערך אש כלשהו. ואז נשאלת השאלה, אוקיי, אבל אם אני אקח הרבה מסמכים, ואני אחשב להרבה מסמכים ערכי אש, בסוף, באופן טבעי יהיו לי שניים שיש להם את אותו ערך, כן? ואם אני אחשב הרבה ערכי אש, בסוף חייב להיות מצב שלשני מסמכים יהיה אותו ערך אש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:05.040",
+            "offset_end": "0:01:09.880",
+            "text": "והשאלה היא, כמה מסמכים אני אצטרך לחשב את ההש שלהם, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:09.880",
+            "offset_end": "0:01:12.560",
+            "text": "כמה מסמכים שונים אני אצטרך לחשב את ההש שלהם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:12.560",
+            "offset_end": "0:01:16.760",
+            "text": "כדי שאני אקבל שני מסמכים שיש להם אותו ערך אש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:16.760",
+            "offset_end": "0:01:24.240",
+            "text": "או כדי שהסיכוי או ההסתברות שיהיו שני מסמכים עם אותו ערך אש, תהיה גבוהה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:24.240",
+            "offset_end": "0:01:27.000",
+            "text": "נגיד חצי, פחות חצי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:27.680",
+            "offset_end": "0:01:35.000",
+            "text": "אוקיי? אז המונח שמקובל כדי לענות על השאלה הזאת נקרא פרדוקס יום ההולדת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:35.480",
+            "offset_end": "0:01:39.360",
+            "text": "אוקיי? למה זה נקרא פרדוקס יום ההולדת? אנחנו תכף נבין את ההקשר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:39.440",
+            "offset_end": "0:01:43.520",
+            "text": "אבל מהו פרדוקס יום ההולדת? אני מניח שלמדתי את זה בקורס בהסתברות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:43.760",
+            "offset_end": "0:01:48.320",
+            "text": "פרדוקס יום ההולדת אומר שבקבוצה של 23 אנשים או יותר,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:48.320",
+            "offset_end": "0:01:53.920",
+            "text": "ההסתברות של לפחות שניים מהם יהיה יום הולדת באותו יום, היא גדולה מחצי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:53.920",
+            "offset_end": "0:02:01.880",
+            "text": "בהנחה שהימי הולדת מפוזרים באופן אחיד בין האנשים באוכלוסייה וכן הלאה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:01.880",
+            "offset_end": "0:02:05.000",
+            "text": "אוקיי? עכשיו, למה זה נקרא פרדוקס?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:05.000",
+            "offset_end": "0:02:08.500",
+            "text": "אין פה באמת פרדוקס, אבל נקרא פרדוקס כי זה נראה נורא קטן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:08.500",
+            "offset_end": "0:02:16.500",
+            "text": "זאת אומרת, יש 365 אפשרויות לתאריך של יום הולדת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:16.500",
+            "offset_end": "0:02:23.000",
+            "text": "ומסתבר שאם עם 23 אנשים כבר יש סיכוי מאוד גבוה שלשניים מהם יהיה יום הולדת באותו יום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:23.000",
+            "offset_end": "0:02:25.400",
+            "text": "עכשיו, למה זה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:25.400",
+            "offset_end": "0:02:29.600",
+            "text": "מאיפה באה 23? למה אנחנו מקבלים 23? אז בואו נראה את החישוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:29.600",
+            "offset_end": "0:02:34.600",
+            "text": "אז בואו, עכשיו, איך זה נוגע לעניין שלנו?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:34.600",
+            "offset_end": "0:02:38.400",
+            "text": "אז במקום אנשים תחשבו על מסמכים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:38.400",
+            "offset_end": "0:02:41.600",
+            "text": "ובמקום ימי הולדת תחשבו על ערכי הש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:41.600",
+            "offset_end": "0:03:12.500",
+            "text": "ואז נשאלת השאלה, כמה מסמכים אני צריך כדי שלפחות לשניים מהם יהיה אותו ערך הש. כן? אז זאת ההקבלה, כן? מסמכים זה אנשים, יש לי קבוצה של אנשים, אז זו קבוצה של מסמכים, ויש, ו... ו... ימי הולדת זה ערכי הש. עכשיו, יש פה גם הנחה, קודם כל, שמספר המסמכים גדול ממספר ערכי האש האפשריים, מספר של כל המסמכים האפשריים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:12.500",
+            "offset_end": "0:03:22.500",
+            "text": "והנחה אחרת זה שערכי ההש הם בערך, או הערך הש שאני מקבל על מסמך זה איזשהו מספר אקראי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:22.500",
+            "offset_end": "0:03:27.200",
+            "text": "ואין קשר, אין תלות בין שני מסמכים לערכי האש שלהם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:27.200",
+            "offset_end": "0:03:31.700",
+            "text": "זאת אומרת, אם יש לי שני מסמכים, אין תלות בין ערכי ההש שלהם. אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:31.700",
+            "offset_end": "0:03:42.500",
+            "text": "אז יש לי קבוצה מאוד גדולה של מסמכים או פליין-טקסטים, כמה ערכי, או לכמה מתוכם אני צריך לחשב ערך אש,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:42.500",
+            "offset_end": "0:03:49.000",
+            "text": "כדי שלפחות שניים מהם יקבלו אותו ערך אש שווה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:50.000",
+            "offset_end": "0:03:54.000",
+            "text": "אז אתם מבינים את ההקבלה? מאיפה זה בא?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:54.000",
+            "offset_end": "0:04:14.000",
+            "text": "מה הקשר בין זה ליום הולדת, כן? אז אנשים זה המסמכים, וערכי ההש הזה עם מולד. אז בואו ניקח תת קבוצה של מסמכים, כאן תת קבוצה של x, x היא קבוצת המסמכים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:14.000",
+            "offset_end": "0:05:11.800",
+            "text": "ובואו נניח שהגודל של הקבוצת המסמכים הזאת הוא k, ובואו נניח שמספר כלי ה-hash האפשריים הוא n. אוקיי, ובעצם אני עכשיו לוקח את המסמכים בקבוצה t, מחשב להם ערכי hash, קבל ערכי hash מתוך הקבוצה z, מתוך n אפשריים. כן? אני מחשב ל-k מסמכים, ל-k מסמכים, אני מחשב ערכי hash, וערכי hash הם מתוך n אפשריים, כן? אני מחשב לקי מסמכים, לקי מסמכים, אני מחשב ערכי אש, הערכי אש הם מתוך אין אפשריים. מכיוון ש... או בהנחה שהערכי אש זה משהו אקראי, זה דומה ללקחת קי כדורים ולזרוק אותם בתוך אין קבוצות, קופסאות באופן אקראי. כן? יש לי אין כדורים זה המסמכים, יש לי k כדורים, זה המסמכים, אני זורק אותם בתוך n קופסאות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:12.600",
+            "offset_end": "0:05:20.200",
+            "text": "ה-n, n הקופסאות זה ערכי ההש, ועם שני כדורים נמצאים באותה קופסה, זה אומר שיש להם אותו ערך הש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:20.200",
+            "offset_end": "0:05:28.500",
+            "text": "והמסמכים המתאים, כן? אז ניתן לדמות את הפעלת הפונקציה h על הקבוצה t לזריקה אקראית של k כדורים לתוך n קופסאות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:28.500",
+            "offset_end": "0:05:51.800",
+            "text": "כן, הנה, יש לי פה k כדורים, זרקתי אותם ל-n קופסאות, בחלק מהקופסאות n בכלל כדורים, זה כאילו שחישבתי, או יש לי שני מסמכים עם אותו ערך אש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:51.800",
+            "offset_end": "0:05:57.200",
+            "text": "ואז נשאלת השאלה, מה ההסתברות שזה יקרה? אוקיי? אז מה ההסתברות שזה יקרה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:57.200",
+            "offset_end": "0:06:05.960",
+            "text": "סך כל התוצאות זה אין בחזקת K, כי לכל אחד מכה הכדורים, כל אחד מכה הכדורים יש N אפשרויות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:05.960",
+            "offset_end": "0:06:11.480",
+            "text": "כיוון שיש K כדורים, אז זה N בחזקת K אפשרויות לתוצאות, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:11.480",
+            "offset_end": "0:06:17.860",
+            "text": "אם אני מבחין בין הקופסאות לכדורים, בין כל הקופסאות לבין, ובין כל הכדורים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:19.480",
+            "offset_end": "0:06:27.880",
+            "text": "אבל מה, כמה אפשרויות יש לי שכל הכדורים בקופסאות שונות, כן? כמה תוצאות אפשריות יש לי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:28.380",
+            "offset_end": "0:06:38.440",
+            "text": "אז לכדור הראשון יש n אפשרויות, לכדור השני יש רק n מינוס 1, כי הכדור הראשון כבר חושם לו קופסה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:38.820",
+            "offset_end": "0:06:55.600",
+            "text": "בכדור השלישי יש n מינוס 2 אפשרויות וכן הלאה, אז בסך הכל אנחנו קבלים npk, זאת אומרת, מספר, זה למספר התמורות באורך k על n הצמים, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:55.600",
+            "offset_end": "0:07:05.600",
+            "text": "אז שוב, הראשונה זה, יש לו n אפשרויות לשני n מינוס 1, n מינוס 2 וכן הלאה, עד n מינוס k ועוד 1, שזה n הצרת חלקי n מינוס k הצרת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:05.600",
+            "offset_end": "0:07:13.600",
+            "text": "ולכן ההסתברות שכולם יהיו בקופסאות שונות, זה המספר הזה, חלקי n בחזקת k.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:14.400",
+            "offset_end": "0:07:23.900",
+            "text": "כן? אז מספר האפשרויות שכל הכדורים בקופסאות שונות, זה n כפול n מינוס 1 עד n מינוס k ועוד 1 חלקי 2,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:23.900",
+            "offset_end": "0:07:31.500",
+            "text": "שזה מספר אפשרויות לכך שכל הכדורים יהיו ב� בכופסאות שונות, חלקי n בחזקת k, שזה מספר האפשרויות הכללי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:31.500",
+            "offset_end": "0:07:52.000",
+            "text": "זאת ההסתברות שהם כולם יהיו בכופסאות שונות, זאת אומרת זאת ההסתברות שלכל ה-k מסמכים יהיו ערכי אש שונים, אבל אם אני מעוניין בתוצאה ההפוכה, בדבר ההפוך, זאת אומרת, שיהיו לפחות שניים עם אותו ערך אש, אז זה אחד פחות הדבר הזה, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:52.000",
+            "offset_end": "0:08:26.260",
+            "text": "אז ההסתברות שלפחות שני כדורים באותה קופסה זה אחד פחות הדבר הזה. ההסתברות שלפחות שני מסמכים יהיה אותו ערך אש, זה אחד פחות הדבר. כמובן שככל ש-K יותר גדול, ככל ש-K יותר גדול, אז ההסתברות הזאת גדלה, כי ככל ש-K יותר גדול, המספר הזה הוא יותר קטן, ולכן אחד פחות המספר הזה הוא יותר גדול, ולכן ככל ש-K יותר גדול, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:26.260",
+            "offset_end": "0:08:35.400",
+            "text": "ככל שאני חשב S של יותר מסמכים, גדלה ההסתברות של לפחות שניים מהם יהיה אותו ערך S, זה אינטואיטיבית, אי אפשר להתווכח עם זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:35.400",
+            "offset_end": "0:08:39.400",
+            "text": "אוקיי, עכשיו בואו נחשב את המספר הזה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:39.400",
+            "offset_end": "0:08:47.060",
+            "text": "או בואו נחשב את ההסתברות שהמספר הזה יהיה גדול מאיזשהו אפסילון נתון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:48.060",
+            "offset_end": "0:08:50.160",
+            "text": "אז בואו נחשב את המספר הזה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:50.660",
+            "offset_end": "0:09:02.060",
+            "text": "המספר הזה זה אחד פחות המכפלה, עכשיו שימו לב, למטה יש לי n בחזקת k, זאת אומרת יש לי k פעמים n, n מופיע k פעמים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:02.060",
+            "offset_end": "0:09:05.600",
+            "text": "למעלה יש לי k מספרים שהולכים וקטנים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:05.600",
+            "offset_end": "0:09:15.500",
+            "text": "אז גם במחנה וגם במונה יש לי k מספרים. אז זה 1 פחות, שימו לב. טוב, n חלקי n זה 1, אז לא יכול להיות זה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:15.500",
+            "offset_end": "0:09:35.200",
+            "text": "אז יש לי n מינוס 1 חלקי n כפול n מינוס 2 חלקי n כפול n מינוס 3 חלקי n, ובסוף n מינוס k ועוד 1 חלקי n. או במילים אחרות, יש לנו 1 פחות, 1 מינוס 1 חלקי n, 1 מינוס 2 חלקי n, 1 מינוס 3 חלקי n, 1 מינוס... עד n, 1 מינוס k מינוס 1 חלקי n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:36.200",
+            "offset_end": "0:09:46.000",
+            "text": "אוקיי? בסדר עד כאן? או יש לי 1 פחות המכפלה, i הולך מ-1 עד k-1, של 1 פחות i חלקי n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:51.000",
+            "offset_end": "0:09:55.000",
+            "text": "אוקיי, אז יש לי פה בעצם, כן, נניח i חלקי n, המספרים האלה הם מספרים קטנים, הם הרבה יותר קטנים מ-n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:55.000",
+            "offset_end": "0:10:00.000",
+            "text": "אז בעצם יש לי פה 1 פחות x, כש-x הוא מספר מאוד קטן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:01.000",
+            "offset_end": "0:10:13.900",
+            "text": "עכשיו, 1 פחות x, כש-x מספר מאוד קטן, זה בערך e בחזקת מינוס x, כי e בחזקת מינוס x, פיתוח לטור טיילור, זה 1 מינוס x, ועוד x בריבוע חלקי 2 הצרת מינוס x בשלישית חלק של 3 הצרת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:13.900",
+            "offset_end": "0:10:31.000",
+            "text": "ומכיוון שהx הזה מאוד קטן, אז אפשר להזניח את כל ה... כמעט את כל הגורמים פה בסכום הזה, ולקבל 1 מינוס x. אז במקום 1 פחות i חלקי n או 1 פחות x, אני רושם e בחזקת מינוס x.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:31.000",
+            "offset_end": "0:10:37.600",
+            "text": "כן? אז יש לי מכפלה 1 פחות, מכפלה של e בחזקת מינוס i חלקי n,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:37.600",
+            "offset_end": "0:10:39.400",
+            "text": "כש-i הולך מ-1 עד k מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:39.400",
+            "offset_end": "0:10:49.000",
+            "text": "טוב, חוקי חזקות, יש לי פה 1 פחות e בחזקת הסכום או מינוס הסכום, ש-i הולך מ-1 עד k מינוס 1 של i חלקיהם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:50.200",
+            "offset_end": "0:11:05.160",
+            "text": "אבל כאן יש לי סכום של סדרה חשבונית, סכום של סדרה חשבונית כולם יודעים לחשב, אז בעצם יש לי 1 פחות, e בחזקת מינוס k, כפול k מינוס 1 חלקי 2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:15.280",
+            "offset_end": "0:11:16.480",
+            "text": "אז זה, זאת ההסתברות, כן? ההסתברות שיהיו לפחות שני ערכים של h שווים, היא זאת ההסתברות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:23.480",
+            "offset_end": "0:11:31.300",
+            "text": "אוקיי? וההסתברות הזאת, ככל ש-k יותר גדול, אז יש לפה מינוס של משהו, ככל ש-k יותר גדול, אז המספר הזה, היאזקת מינוס, הדבר הזה הוא יותר קטן, ולכן זה יותר מתקרב לאחד, ההסתברות הזאת מתקרבת לאחד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:31.300",
+            "offset_end": "0:11:55.000",
+            "text": "עכשיו אני רוצה שההסתברות הזאת תהיה יותר גדולה מאיזשהו אפסילון נתון, אז בואו נדרוש ש-PNK גדול מאפסילון, אז מה יש לנו כאן? יש לנו PNK גדול מאפסילון, אוקיי, בואו נעביר אגפים, נעביר את האפסילון לפה ונעביר את ה-E לכאן, E בחזקה מינוס K, K מינוס 1 חלקי n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:55.000",
+            "offset_end": "0:12:09.200",
+            "text": "יש לנו פה חזקה, אז כדי להיפטר מחזקה של E, אנחנו עושים LAN משני הצדדים, אוקיי? אז LAN של 1 מינוס אפסילון גדול מהדבר הזה, מינוס k כפול k מינוס 1 חלקי 2n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:09.200",
+            "offset_end": "0:12:19.400",
+            "text": "ויש לנו כאן סימן מינוס 1, בואו נכפול במינוס 1 את שני האגפים, אנחנו מקבלים את הדבר הזה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:19.400",
+            "offset_end": "0:12:26.060",
+            "text": "k בריבוע מינוס k חלקי 2n גדול מלlan של 1 חלקי 1 מינוס אפסילון, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:26.060",
+            "offset_end": "0:12:35.540",
+            "text": "נכפול את שני אגפים בשני n, כפלתי את שני אגפים בשני n, קיבלתי מספר, גורם מסוים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:35.540",
+            "offset_end": "0:12:48.600",
+            "text": "קטן מ-k בריבוע מינוס k, אבל בהנחה ש-k הוא מספר גדול, אז k זניח יחסית ל-k בריבוע, זה קטן מ-k בריבוע. אוקיי? אז זה קטן מ-k בריבוע.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:48.600",
+            "offset_end": "0:12:55.800",
+            "text": "אז k בריבוע צריך להיות גדול מהדבר הזה, וכדי לדעת מהו k, אז נוציא שורש משני אגפים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:55.800",
+            "offset_end": "0:13:03.100",
+            "text": "נקבל ש-k גדול משורש של שני n כפול n של 1 מינוס 1 חלקי אפסילון, 1 פחות אפסילון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:03.100",
+            "offset_end": "0:13:08.960",
+            "text": "טוב, זה תלוי מהו אפסילון. אז אם ניקח אפסילון שווה חצי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:09.460",
+            "offset_end": "0:13:15.460",
+            "text": "אז אנחנו מקבלים ש-K צריך להיות גדול מ-1.1, 1.1 כפול שורש N.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:16.160",
+            "offset_end": "0:13:20.360",
+            "text": "בסדר? במילים אחרות, K צריך להיות סדר גודל של שורש N.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:21.360",
+            "offset_end": "0:13:38.000",
+            "text": "אם ה-N שלנו זה 365 המים ו-K הוא 23, או אם ה-N שלנו הוא 365 ימים, אז K צריך להיות גדול מ-22.5, ולכן אם הוא שווה ל-23, אז ההסתברות יותר גדולה מחצי, שיהיו שני אנשים עם אותו יום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:38.000",
+            "offset_end": "0:14:47.860",
+            "text": "אבל תשימו לב מה זה אומר לגבי השאלה שלנו. שאלה שלנו הייתה, כמה השם צריך לחשב כדי שלפחות שניים מהם יהיו שווים, או כדי שההסתברות ששניים יהיו שווים תהיה גדולה מחצי. אז כמה אני צריך לחשב? סדר גודל של שורש n. זאת אומרת אם n הוא מאוד גדול, כן, אם מספר ההשם האפשריים הוא מאוד גדול, אז גם שורש n יכול להיות מאוד גדול. למשל, עבור שעה 256, אז זה נותן פלט של 256 ביט. זאת אומרת, מספר ההשים האפשריים הוא 2 בחזקת 256. שורש של זה, זה 2 בחזקת 128. זאת אומרת, כדי לקבל שני השם זהים בהסתברות טובה בשעה 256, אני צריך לחשב השם של 2 בחזקת 128 מסמכים, שזה מספר עצום, שאין שום סיכוי שאיזשהו מחשב בעולם, לא היום ולא בעתיד הנראה לעין יוכל לעשות. אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:47.860",
+            "offset_end": "0:14:55.300",
+            "text": "אז זאת המסקנה, זה כן, זה פרדוקסיה מולדת, זאת המסקנה פרדוקסיה מולדת, כמו שאמרתי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:55.300",
+            "offset_end": "0:15:05.480",
+            "text": "אם n זה 2 בשכת 256, אז k צריך להיות גדול מ-1.1 כפול 2 בחזקת 128. אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:09.480",
+            "offset_end": "0:15:16.760",
+            "text": "אז... כן, זה ממש בלתי מעשי. לעומת זאת, פונקציות השקודמות מהדור הישן, משנות ה... לא יודע, שנות ה-80-90,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:16.760",
+            "offset_end": "0:15:19.760",
+            "text": "אז הם היו עם פלט של 2 בחזקת 128,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:19.760",
+            "offset_end": "0:15:27.660",
+            "text": "ואז מספיק 2 בחזקת 64 מסמכים כדי שיהיו לי שני מסמכים עם אותו הש,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:27.660",
+            "offset_end": "0:15:36.660",
+            "text": "ואז זה כבר מספר, בוא נאמר, עדיין מאוד גדול, אבל עם מחשבי א' אפשר להגיע אליו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:36.660",
+            "offset_end": "0:15:46.000",
+            "text": "אוקיי, אז זה פרדוקסיום ההולדת. אי אפשר לדבר על פונקציות הש, בלי לדבר על פרדוקסיום ההולדת, ששוב, מה המסקנה שלו?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:46.000",
+            "offset_end": "0:15:54.500",
+            "text": "כדי שמתוך n השים אפשריים אני אוכל לקבל שני מסמכים עם אותו ערך אש,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:54.500",
+            "offset_end": "0:16:05.200",
+            "text": "אני צריך לחשב סדר גודל של שורש n השים, או לחשב השים של סדר גודל של ש שורש שאין, מסמכי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:07.000",
+            "offset_end": "0:16:14.600",
+            "text": "וזה כלל אצבע, זאת אומרת, שחשבו על שעה 256, חשבו קודם כל על פרדוקסיה מעולבת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:15.400",
+            "offset_end": "0:16:52.320",
+            "text": "התקן שהקודם, האמת ששעה 256 הוא לא תקן, אבל התקן הקודם שהיה מקובל, שהיה כן תקן לפונקציות ה-ש, נתן, נתן, קראו לו שא, שא אחד, כן, שא one, והוא נתן פלט של 160 ביט, ולכן, פרדוקס יום המולדת, אמר שצריך לחשב, ה-ש של 2 בחזקת 80 מסמכים, שזה גם מספר מאוד גדול. אבל מתישהו בשנות האלפיים, חוקרים גילו דרך להכליש את זה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:52.320",
+            "offset_end": "0:16:58.500",
+            "text": "כך שמספיק יהיה לחשב השם של שתיים בחזקת שישים ותשע מסמכים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:58.500",
+            "offset_end": "0:17:02.840",
+            "text": "כדי ליצור התנגשות בהסתברות טובה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:02.840",
+            "offset_end": "0:17:14.940",
+            "text": "ולכן זה נתן את הטריגר לחישוב תקן חדש ולהכנסה של פונקציות הש חדשות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:16.320",
+            "offset_end": "0:17:20.860",
+            "text": "אז הפונקציות הש המקובלות היום הן עם פלט של 2 מיוחסקת 200, 50 ו-600.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:22.100",
+            "offset_end": "0:17:46.360",
+            "text": "שאלות? יש פה עוד תיאור של שיטה, מה שדיברתי בשיעור הקודם, לפני הפסקה, שיטה של רבין לזיוף חתימות, או שיטה של רבין ליצור שני מסמכים עם אותו ערך אש, אבל עם משמעויות שונות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:46.920",
+            "offset_end": "0:17:50.580",
+            "text": "וכך שלשניהם יש משמעות, שזה לא יהיה מסמך אחד אולי עם משמעות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:50.580",
+            "offset_end": "0:17:53.380",
+            "text": "במסמך אחר שהוא סתם ג'יברש. אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:53.640",
+            "offset_end": "0:18:02.880",
+            "text": "אז אני אשאיר לכם לקרוא את זה, אבל בפועל, כדי ליצור שני מסמכים כאלה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:02.880",
+            "offset_end": "0:18:05.960",
+            "text": "גם כן צריך סדר גודל של שורש n מסמכים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:05.960",
+            "offset_end": "0:18:12.660",
+            "text": "זאת אומרת, צריך לחשב שוב, סדר גודל של שורש n מסמכים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:13.860",
+            "offset_end": "0:18:18.360",
+            "text": "צריך לחשב השם של סדר גודל של שורש n מסמכים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:18.360",
+            "offset_end": "0:18:26.600",
+            "text": "כדי ליצור שני מסמכים, שניהם עם משמעות שיש להם אותו ערך אש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:26.600",
+            "offset_end": "0:18:36.500",
+            "text": "אני סימנתי את זה כחומר רשות, כי זה קוריאות, זה לא משהו שאנחנו באמת צריכים, או עוזר לנו, חושב, משהו, אבל...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:36.500",
+            "offset_end": "0:18:50.500",
+            "text": "אבל מה שמעניין זה שגם כאן זה מדובר על שורש n, ולכן עם הפונקציית השל של היא מחזירה פלט בגודל 2.256, אז הסיכוי שמישהו יוכל לעשות את זה הוא מאוד קלוש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:50.500",
+            "offset_end": "0:18:58.500",
+            "text": "אז יש פה הסבר, ואני לא אכנס אליו, זה הסבר, החישוב פה הוא מאוד מאוד דומה למה שעשינו עם פרדוקס יום העולם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:58.500",
+            "offset_end": "0:19:50.000",
+            "text": "אני רוצה לדבר תכלס, איך יוצרים השק, איך נראית פונקציית השק? אז פונקציית השק נראית ככה. פונקציית השק נראית ככה, זה מי שהגדיר את זה זה אליביה מהטכניון, הוא אומר ככה, יש לנו מסמך, באורך כלשהו, יש לי מסמך באורך כלשהו, ואני רוצה לחשב את ה-hash שלו. עכשיו, האורך, אורך כלשהו, אז שוב, אם אני צריך להצפין מסמך באורך כלשהו, אז אני מחלק אותו לבלוקים, ולכל בלוק יש את הפלט שלו, ואז התוצאה היא באותו אורך כמו, או אולי לא באותו אורך, אבל היא פונקציה של האורך של הפליינטקסט.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:50.000",
+            "offset_end": "0:19:59.500",
+            "text": "פה אני רוצה שהאורך, לא משנה מה יהיה אורך המסמך, הפלט יהיה באורך קבוע מראש. אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:59.500",
+            "offset_end": "0:20:10.360",
+            "text": "אז איך אני עושה את זה? אז אני, כמו בעצפנה, אני מחלק את המסמך לבלוקים, אני יוצר פה איזשהו פדינג, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:11.680",
+            "offset_end": "0:20:17.440",
+            "text": "אני, סביר להניח שהבלוקים לא יתחלקו באורך שאני צריך,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:19.720",
+            "offset_end": "0:20:45.640",
+            "text": "או אורך המסמך לא יתחלק בדיוק באורך שאני צריך, אז אני עושה פדינג לפי האורך שאני צריך, ואני משתמש בפונקציה h רגילה. מה זאת אומרת פונקציה h רגילה? היא פונקציה שגם הכלת שלה הוא באורך קבוע. כן? אני רוצה ליצור פונקציה שהכלת שלה הוא באורך כלשהו, אז אני משתמש בפונקציה h שהכלת שלה באורך קבוע.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:50.040",
+            "offset_end": "0:20:50.740",
+            "text": "האמת שיש לה שני כלתים. יש לה כלת שהוא בלוק של המסמך,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:59.340",
+            "offset_end": "0:21:00.340",
+            "text": "ויש לה כלת אחר שהוא בהתחלה הוא איזשהו אינישל וקטור, ידוע מראש, כולם מכירים אותו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:03.340",
+            "offset_end": "0:21:03.640",
+            "text": "ועכשיו אני עושה מין שזירה כזאת, שימו לב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:11.200",
+            "offset_end": "0:21:17.500",
+            "text": "m1 והאינישל וקטור ננים פלט, נקרא לו h1, h1 קטן. עכשיו אני מפעיל את אותה פונקציה m, h, על הבלוק הבא,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:17.500",
+            "offset_end": "0:21:27.500",
+            "text": "וכאן הכלת במקום העני של וקטור זה הפלט של ה-h הקודם, כן, שגם הוא באורך קבוע, ויותר לי ה-H2, וכך אני ממשיך בשבירה הזאת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:27.500",
+            "offset_end": "0:21:34.000",
+            "text": "ובסופו של דבר, הפלט שאני מקבל בסוף הוא הערך H.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:34.000",
+            "offset_end": "0:21:41.500",
+            "text": "אז מכיוון שלפונקציה ה-H הצהובה יש פלט באורך קבוע,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:41.500",
+            "offset_end": "0:21:46.400",
+            "text": "אז הפלט של הפונקציה ה- h זה מה שאני אקבל בסוף.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:52.100",
+            "offset_end": "0:21:52.600",
+            "text": "ככה עובדת כל פונקציית הש שמשתמשים בה היום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:55.600",
+            "offset_end": "0:22:00.600",
+            "text": "מה מבדיל בין פונקציות ה-h שונות? כמובן, זה הפונקציה h בצהוב, מה היא בדיוק עושה? גודל הבלוקים, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:00.600",
+            "offset_end": "0:22:19.400",
+            "text": "אז בואו נניח שהיום כל הפונקציות ה-' צריכות להוציא כפלט באורך 256 ביט, אבל לאיזה גודל אני, או לאיזה גודל בלוק אם אני מחלק את המסמך, זה משתנה מאלגוריתם לאלגוריתם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:19.400",
+            "offset_end": "0:22:26.600",
+            "text": "כן? למשל ב-9256, אז המסמכים הם באורך 512 ביט. הבלוקים הם באורך 512 ביט.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:27.800",
+            "offset_end": "0:22:32.800",
+            "text": "אז כל, כדי לוודאות, כל H תלוי ב-H שלפניו, נכון?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:32.800",
+            "offset_end": "0:22:34.600",
+            "text": "נכון, כן, נכון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:35.700",
+            "offset_end": "0:22:42.300",
+            "text": "נכון, כן, יש פה ממש, עכשיו, הפונקציות ה-H האלה, אם נסתכל על,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:42.300",
+            "offset_end": "0:22:50.760",
+            "text": "אני ממש לא רוצה להיכנס לזה, גם לא בשעה 256, יש פה בהמשך המצגת איך שעה 256 מחולקת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:50.760",
+            "offset_end": "0:22:58.760",
+            "text": "זאת אומרת, נותנים לכם בדיוק מה האינישל וקטור, בתוך כל פונקציה h כזאת יש כמה עשרות סבבים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:58.760",
+            "offset_end": "0:23:10.000",
+            "text": "שמבצעים שוב ושוב את אותה פעולה, כמו בסלסה, אם אתם זוכרים, יש פעולות של אלמנטריות על ביטים, שבסך הכל יוצרים איזשהו ערבול כזה של ביטים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:10.000",
+            "offset_end": "0:23:15.800",
+            "text": "שגם אם נשנה ביט אחד בקלט, בסופו של דבר בפלט, ישתנו הרבה ביטים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:15.800",
+            "offset_end": "0:23:17.800",
+            "text": "זה מה שנקרא אפקט המפולת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:17.800",
+            "offset_end": "0:23:33.600",
+            "text": "אז הפונקציות אש האלה, זה איזושהי הרכבה של כמה פונקציות וכמה סבבים של אותה פונקציה, שמבצעים פעולות אלמנטריות על הקלטים, על הביטים של הקלטים של הפונקציה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:33.600",
+            "offset_end": "0:23:52.100",
+            "text": "אז זו תורה שלמה, זו תורה שלמה בקריפטולוגיה של איך לעצב פונקציות אש, או איך, זה הרחבה של איך... זה חלק ממה... או שזה... זה שייך לאותו תחום כמו לייצר PRG,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:52.100",
+            "offset_end": "0:24:01.500",
+            "text": "זאת אומרת, איך ליצור פונקציה שהפלט שלה הוא ממש אקראי, הוא ממש נראה אקראי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:01.500",
+            "offset_end": "0:24:05.840",
+            "text": "ושאם אני משנה ביט אחד בכלת, אז הפלט משתנה בהרבה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:05.840",
+            "offset_end": "0:24:13.760",
+            "text": "זאת אומרת, אי אפשר לעשות את זה אנליזה שמשנה טיפה את הכלת כדי לראות מה קורה בפלט.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:15.400",
+            "offset_end": "0:24:19.360",
+            "text": "אוקיי? אז השאלה היא באמת איך בונים כזאת פונקציית A.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:19.760",
+            "offset_end": "0:24:31.000",
+            "text": "יש ויש שני אלגוריתמים, אולי שהכי משתמשים בהם כיום, שזה, כמו שאמרתי, שעה 256, והשני הוא שעה 3, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:32.500",
+            "offset_end": "0:24:36.900",
+            "text": "יש פה שיטה של רבין שהיא לא מעשית, כי היא משתמשת באלגוריתם הצפנה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:36.900",
+            "offset_end": "0:24:51.100",
+            "text": "ויש פה סקירה של פונקציות אש בהיסטוריה ומה מקובל היום, אבל בוא נאמר ש-MD4 ו-MD5 הם כבר לא נחשבות לבטוחות,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:51.120",
+            "offset_end": "0:24:55.800",
+            "text": "הן שייכות למאה הקודמת, לאלף הקודם,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:55.900",
+            "offset_end": "0:25:02.100",
+            "text": "שעה אחד היה תקן עד לאמצע שנות האלפיים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:03.440",
+            "offset_end": "0:25:10.280",
+            "text": "שעה שתיים החליף את זה, ואחת הגרסאות של שש שתיים זה שעה 256, שבה אנחנו משתמשים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:10.280",
+            "offset_end": "0:25:16.120",
+            "text": "ויש גם שעה שלוש, שהוא נחשב לסטנדרט משנת 2012,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:18.120",
+            "offset_end": "0:25:31.560",
+            "text": "אולי ראוי לציון גם רייפ MD, שזה התקן האירופאי, שהוא מוציא פלט בגודל 160 ביט, אבל לאחרונה התקנו את זה גם ל-256 ו-320 ביט.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:31.560",
+            "offset_end": "0:25:46.600",
+            "text": "יותר מזה אני לא ארחיב, אני רוצה... כי באמת אם תסתכלו על השקפים הבאים אחרי זה, אז יש שם המון המון מידע טכני,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:46.600",
+            "offset_end": "0:25:54.240",
+            "text": "שזה פשוט, ככה עושים את זה, ואני לא, אין מה להיכנס לשיקולים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:54.240",
+            "offset_end": "0:26:08.000",
+            "text": "אלא אם כן זה קורס באמת בתחום הזה של ערבול, כן? של ערבול כלת, עד שאפשר יהיה להבחין בו בפלט.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:12.000",
+            "offset_end": "0:26:14.000",
+            "text": "זהו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:16.000",
+            "offset_end": "0:26:20.000",
+            "text": "אז זה היה החלק הראשון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:20.000",
+            "offset_end": "0:26:22.000",
+            "text": "בוא נפסיק את ההקלטה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1177929",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        }
+    ]
+}

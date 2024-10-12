@@ -1,0 +1,607 @@
+{
+    "data": [
+        {
+            "offset_start": "0:00:00.000",
+            "offset_end": "0:00:09.600",
+            "text": "אז בואו נחזור רגע למקום שהיינו בו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:09.600",
+            "offset_end": "0:00:22.000",
+            "text": "כן, יש פה דוגמאות לחיבור וכיף, אני לא רוצה להיכנס לזה כי אנחנו נתרגל את המשוואות האלה עוד מעט בתרגול, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:22.000",
+            "offset_end": "0:00:36.000",
+            "text": "אז אני לא אכנס לפה לדוגמאות האלה, אנחנו נתרגל את זה, אבל אנחנו צריכים לדעת מתי y בריבוע שווה משהו, יש לו פתרון ומתי אין לו פתרון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:36.000",
+            "offset_end": "0:00:48.760",
+            "text": "אז בשביל זה קודם כל יש לנו הגדרה. אז עבור ראשוני יזוגי, כן, איזשהו ראשוני, כמובן איזוגי, מתי x נקרא שערית ריבועית?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:48.760",
+            "offset_end": "0:00:52.760",
+            "text": "אם למשוואה y בריבוע קונגורנטי ל-x מודולו p יש פתרון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:52.760",
+            "offset_end": "0:01:14.300",
+            "text": "אז אם, במילים אחרות זה אפשר להגיד ששערית ריבועית זה אם ל-x יש שורש ריבועי מודולו 11, אז ל-1, 3, 4, 5 ו-9 יש שורש מודולו 11, ול-2, 6, 7, 8 ו-10 אין, למשל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:14.300",
+            "offset_end": "0:01:18.900",
+            "text": "אוקיי? זה לא משהו שאפשר לחזות אותו מראש, אבל זה משהו שאפשר לבדוק אותו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:18.900",
+            "offset_end": "0:01:34.000",
+            "text": "ויש לנו קריטריון Euler, יש לנו קריטריון שקובע מתי למספר יש שערית ריבועית, מתי מספר הוא שערית ריבועית. אוקיי? אז מתי x הוא שערית ריבועית מודולו p?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:34.000",
+            "offset_end": "0:01:50.300",
+            "text": "קל מאוד לבדוק את זה, אני מחשב את x בחזקת p מינוס, אז p כמובן הוא מספר יזוגי, אז p מינוס 1 הוא מספר זוגי, אז פי מינוס אחד חלקי שתיים הוא מספר שלם. אז אני מחשב את איקס בחזקת פי מינוס אחד חלקי שתיים, אם זה נותן אחד, הוא שיירית ריבועית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:50.300",
+            "offset_end": "0:01:53.300",
+            "text": "אם זה לא נותן אחד, הוא לא שיירית ריבועית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:53.300",
+            "offset_end": "0:01:57.500",
+            "text": "עכשיו, אם זה לא נותן אחד, זה חייב לתת מינוס אחד.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:59.500",
+            "offset_end": "0:02:05.840",
+            "text": "למה? בגלל שאיקס בחזקת פי מינוס 1 הוא תמיד קונגורנטי ל-1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:15.160",
+            "offset_end": "0:02:17.560",
+            "text": "אז x בחזקת p מינוס 1 כלכל 2, זה משהו שכשאני מעלה אותו בריבוע אני מקבל 1, לכן זה חייב להיות או 1 או מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:29.100",
+            "offset_end": "0:02:36.900",
+            "text": "אוקיי, זה אנחנו ראינו כבר בשיעור קודם. שוב, x בחזקת p מינוס 1, לפי משפט פרמה הקטן, x בחזקת p מינוס 1, חייב להיות קונגורנטי ל-1 מודולו p. אז x בחזקת p מינוס 1 חלקי 2, זה מספר שאם אני עלה אותו בריבוע, אני מקבל 1 מודולו p,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:36.900",
+            "offset_end": "0:02:41.100",
+            "text": "ולכן x בחזקת p מינוס 1 חלקי 2, צריך להיות 1 או מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:41.100",
+            "offset_end": "0:02:45.700",
+            "text": "אם זה 1, הוא שערית ריבועית, ואם זה מינוס 1 הוא לא שערית ריבועית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:45.700",
+            "offset_end": "0:02:52.500",
+            "text": "זה קריטריון שקל מאוד לבדוק בגלל שלעלות בחזקה זה משהו שאנחנו יודעים לעשות בזמן פולינומיאלים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:53.800",
+            "offset_end": "0:02:57.700",
+            "text": "אוקיי? אז יש פה הוכחה של קריטריון אוילר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:00.000",
+            "offset_end": "0:03:04.500",
+            "text": "אני מתלבט אם לעבור עליה, זאת אומרת, אם ורק אם, טוב, בואו נראה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:04.500",
+            "offset_end": "0:03:10.740",
+            "text": "אז נניח ש-x הוא שערית ריבועית, אז בואו נלך בכיוון הזה, אם הוא שערית ריבועית, אז זה חייב להיות 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:10.740",
+            "offset_end": "0:03:17.540",
+            "text": "אז נניח ש-x הוא שערית ריבועית מודולו-p, כלומר קיים y כך ש-y בריבוע קורונטי ל-x מודולו-p.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:17.540",
+            "offset_end": "0:03:25.400",
+            "text": "אז מה זה x בחזקת p מינוס 1 חלקי 2? זה y בריבוע בחזקת p מינוס 1 כלכי 2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:25.400",
+            "offset_end": "0:03:30.000",
+            "text": "אבל מה זה y בריבוע בחזקת p מינוס 1 כלכי 2? זה y בחזקת p מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:31.000",
+            "offset_end": "0:03:37.000",
+            "text": "לפי משפט פרמה, בגלל ש-p הוא ראשוני, אנחנו חייבים לקבל 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:37.000",
+            "offset_end": "0:03:41.000",
+            "text": "אוקיי, אז אם הוא שערית ריבועית, הוא חייב לתת לנו 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:42.000",
+            "offset_end": "0:03:43.000",
+            "text": "אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:44.000",
+            "offset_end": "0:03:50.400",
+            "text": "זה לפי משפט פרמה. כיוון הפוך, אם הוא נותן אחד, אני רוצה להגיד, להראות שזה שערית ריבועית.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:50.400",
+            "offset_end": "0:04:01.700",
+            "text": "אוקיי, אז משהו שאמרתי אותו, ואני לא מוכיח אותו פה, החבורה הכפלית מודולופי היא חבורה ציקלית, ולכן יש לה יוצר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:01.700",
+            "offset_end": "0:04:08.760",
+            "text": "מה זה אומר שיש לה יוצר? שכל איבר בה, יש בה איבר שכל החזקות שלו נותנות את החבורה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:08.760",
+            "offset_end": "0:04:19.760",
+            "text": "אז אם אני לוקח את x, יש איזושהי חלקה של היוצר g שנותנת את x, אז נניח ש-g בחזקת k נותנת x, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:19.760",
+            "offset_end": "0:04:29.100",
+            "text": "עכשיו מה אנחנו יודעים? ש-x בחזקה p מינוס 1 חלקי 2 קונגרנטי ל-1 מודול או p, אוקיי? אז בואו נכתוב את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:29.100",
+            "offset_end": "0:04:54.400",
+            "text": "x זה g בחזקת k, x בחזקת p מינוס 1 חלקי 2 זה g בחזקת k בחזקת p מינוס 1 חלקי 2, שזה x בחזקת מינוס 1 חלקי, זה נותן 1, אז אנחנו יודעים ש-g בחזקת k, p מינוס 1 חלקי 2, נותן 1, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:54.400",
+            "offset_end": "0:05:10.660",
+            "text": "עכשיו בואו נראה, מה אנחנו מקבלים בעצם? ש-g בחזקת הדבר הזה נותן 1, זאת אומרת שהסדר של G צריך לחלק את המספר הזה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:10.660",
+            "offset_end": "0:05:17.560",
+            "text": "K כפול P מינוס 1 חלקי 2, אבל מה זה הסדר של G? הסדר של G זה P מינוס 1, כי הוא יוצר של החבורה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:17.560",
+            "offset_end": "0:05:33.800",
+            "text": "זאת אומרת ש-P מינוס 1 חייב לחלק את המספר K כפולול פי מינוס אחת חלקי שתיים. אבל מה זה קי כפול פי מינוס אחת חלקי שתיים? זה קי חצי כפול פי מינוס אחת חלקי שתיים, וזה כפולה של פי מינוס אחד, ולכן קי חייב להתחלק בשתיים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:33.800",
+            "offset_end": "0:05:40.800",
+            "text": "פי מינוס אחד הוא הסדר בגלל שהוא הסדר של ה... כאילו שהוא הגודל של החבורה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:40.800",
+            "offset_end": "0:05:43.800",
+            "text": "נכון, ו-G הוא יוצר של החבורה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:43.800",
+            "offset_end": "0:05:49.500",
+            "text": "אז הסדר של G חייב להיות גודל החבורה, כי G נותן את כל עברי החבורה? נכון, ו-G הוא יוצר של החבורה. אז הסדר של G חייב להיות גודל החבורה, כי G נותן את כל אברי החבורה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:51.700",
+            "offset_end": "0:05:56.500",
+            "text": "אוקיי? אז אנחנו מגיעים למסקנה ש-K חייב להיות זוגי,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:56.500",
+            "offset_end": "0:06:25.840",
+            "text": "בוא נקרא לו, בוא נגיד ש-K שווה לשני M, אז Y זה G בחזקת, סליחה, k זה 2m, זאת אומרת שx זה g בחזקת 2m, אוקיי, x זה g בחזקת 2m, אז y, השורש של p, של x זה g בחזקת m, כי כשאני אלה את y בריבוע אני אקבל את x.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:25.840",
+            "offset_end": "0:06:28.840",
+            "text": "כן, אם אני אלה את y בריבוע אני אקבל את g בחזקת שני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:30.240",
+            "offset_end": "0:06:35.840",
+            "text": "אז y בריבוע זה g בחזקת m, בריבוע זה g בחזקת שני m, זה g בחזקת k, אז זה x.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:36.340",
+            "offset_end": "0:06:37.840",
+            "text": "אז זה קריטריון אוילר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:41.440",
+            "offset_end": "0:06:42.240",
+            "text": "אוקיי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:42.640",
+            "offset_end": "0:06:51.300",
+            "text": "אז קריטריון אוילר נותן לנו דרך למצוא נקודות על הקורמליק, כן? איך זה עובד? אני לוקח איזשהו x,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:51.300",
+            "offset_end": "0:06:56.900",
+            "text": "מחשב את x בשלישית ועוד a x ועוד b, קבל איזשהו z,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:56.900",
+            "offset_end": "0:07:07.200",
+            "text": "בודק אם z הוא שערית ריבועית באמצעות קריטריון אוילר, אם z הוא שערית ריבוע, אני צריך לחשב y, כך ש-y בריבוע קונקרטי ל-z.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:07.200",
+            "offset_end": "0:07:10.000",
+            "text": "אוקיי, איך אני מחשב את זה, זה סיפור אחר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:11.000",
+            "offset_end": "0:07:17.300",
+            "text": "יש לנו אלגוריתם פולינומיאלי לזה, זה אלגוריתם די מסובך, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:18.000",
+            "offset_end": "0:07:24.100",
+            "text": "יש מקרים, אם יש לי 13 שבועות בקורס, אז אני מצליח איכשהו להסביר את האלגוריתם הזה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:24.100",
+            "offset_end": "0:07:30.840",
+            "text": "כשיש 10 שבועות בקורס, בסמסטר, אז אני מעדיף לא להתעכב על זה, אז אני לא אתעכב על זה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:30.840",
+            "offset_end": "0:07:39.860",
+            "text": "אבל יש אלגוריתם פולינומיאלי, כך שאם z הוא שערית ריבועית, הוא מוצא לנו y, כך שy בריבוע קונגורנטי ל-z, ואני...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:39.860",
+            "offset_end": "0:07:52.000",
+            "text": "פולינומיאלי במה? ב-z? פולינומיאלי ב-p, ב-log-p, יותר נכון. פולינומיאלי במה? בסד? פולינומיאלי ב-p, בלוג-p יותר נכון. פולינומיאלי בלוג-p, אוקיי? לא ב-p, בלוג-p.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:52.000",
+            "offset_end": "0:08:09.160",
+            "text": "אז יש אלגוריתם שעושה את זה די מהר, אני קודדתי את האלגוריתם הזה בפייתון, ואנחנו נשתמש בו היום, בשיעור היום, באלגוריתם הזה. אז אני מקבל שתי נקודות, xy ו-xp-y, שהם שתי מה לעקום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:09.160",
+            "offset_end": "0:08:17.860",
+            "text": "אם z לא שערית ריבועית, אז x הוא לא, אין לי נקודה עם x, ש-x הוא הקורדינטה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:17.860",
+            "offset_end": "0:08:21.660",
+            "text": "אז x לא נמצא על העקום, במילים אחרות.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:23.660",
+            "offset_end": "0:08:29.600",
+            "text": "אז זהו, בואו נסכם את הנושא של הקום אלים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:29.600",
+            "offset_end": "0:08:38.200",
+            "text": "יש לנו משוואה מודולרית, משוואה מודולופי, משוואה שממהלה שלישית בין x ל-y,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:38.200",
+            "offset_end": "0:08:41.400",
+            "text": "ש-y מופיע שם בריבוע ו-x מופיע שם בשלישית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:42.400",
+            "offset_end": "0:08:48.900",
+            "text": "ברגע שיש לנו p ראשוני ויש לנו את המקדמים A ו-B,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:48.900",
+            "offset_end": "0:08:53.200",
+            "text": "אז יש אוסף של נקודות שנותנים לי חבורה על העקום.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:53.200",
+            "offset_end": "0:09:01.800",
+            "text": "נותנים לי חבורה, ולחבורה הזאת יש תעולה שאני קורא לה פלוס, כן, זה לא פלוס רגיל,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:01.800",
+            "offset_end": "0:09:08.860",
+            "text": "תעולה פלוס שמאפשרת לבצע אריתמטיקה על הקומו שלו, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:08.860",
+            "offset_end": "0:09:18.780",
+            "text": "איך? כש-P מאוד גדול, זה לא קל למצוא את החבורה הזאת, זה לא קל גם למצוא מה הגודל של החבורה הזאת, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:18.780",
+            "offset_end": "0:09:22.620",
+            "text": "יש נוסחה מאוד מסובכת למצוא את הגודל של זה, אנחנו לא עושים את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:22.620",
+            "offset_end": "0:09:26.800",
+            "text": "אבל בואו נניח שיש לנו עקום אליפטי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:32.800",
+            "offset_end": "0:09:34.300",
+            "text": "בוא נניח שיש לנו עקום אליפטי, ואנחנו רוצים להשתמש בו כדי לבנות צופן. אוקיי? אז זה הדבר הבא.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1175300",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        }
+    ]
+}

@@ -1,0 +1,1696 @@
+{
+    "data": [
+        {
+            "offset_start": "0:00:00.000",
+            "offset_end": "0:00:05.960",
+            "text": "אוקיי? אז עכשיו סוף סוף, כן? אנחנו נראה אלגוריתם לבדיקת ראשונים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:08.260",
+            "offset_end": "0:00:14.360",
+            "text": "רגע, למה הגעתי לפה? אוקיי. אז איך אני בודק ראשונים?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:15.760",
+            "offset_end": "0:00:21.860",
+            "text": "אוקיי, אז הקדמה. בואו נזכר במשפט פרמה, מלפני, לא יודע, חצי שעה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:23.660",
+            "offset_end": "0:00:30.600",
+            "text": "משפט פרמה אמר שאם p ראשוני ו-a זר לפי, אז a בחזקת p מינוס 1 קונגורנטי ל-1 מודולו p.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:33.600",
+            "offset_end": "0:00:51.000",
+            "text": "אבל השאלה היא האם זה נכון גם בכיוון ההפוך, כלומר, אם אני בוחר איזשהו a בחזקת n מינוס 1 ואני מקבל 1 מודולו n, האם זה בהכרח אומר שn ראשוני?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:00:51.000",
+            "offset_end": "0:01:01.500",
+            "text": "כן, אז עוד פעם, אם n ראשוני, אני אקבל 1. אבל אם אני מקבל 1, האם זה אומר שn ראשוני?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:01.500",
+            "offset_end": "0:01:26.600",
+            "text": "התשובה היא לא, זה תלוי, זה תלוי מי זה A. ל-A מסוימים כן, ל-A אחרים לא. כן? אם זה היה נכון, אז יופי, יש לנו קריטריון מאוד פשוט לראשוניות, אבל התשובה היא לא. זה לא נכון. אבל זה לא נכון, אבל זה נותן לנו משהו לאחר זה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:28.600",
+            "offset_end": "0:01:42.600",
+            "text": "אז השאלה היא, מה ההסתברות שזה ייכשל? זאת אומרת, בעצם, אני אחזור רגע לפה, נניח שלקחתי a, איזשהו a, אני רוצה לבדוק אם n ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:01:42.600",
+            "offset_end": "0:02:10.760",
+            "text": "אני לוקח איזשהו a שזר ל-n, אני מחשב את a בחזקת n מינוס 1, מקבל 1. אוקיי, אז לא בטוח שזה אומר ש-n ראשוני, אבל באיזושהי הסתברות, אולי כן, מה ההסתברות ש-n יהיה ראשוני, בהינת n שקיבלנו פה 1? זאת השאלה, אוקיי? כי אם אני יודע שבהסתברות מסוימת הוא ראשוני, אז אולי אני אעשה את זה עוד פעם ימי אחר,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:10.760",
+            "offset_end": "0:02:14.880",
+            "text": "ואם אני גם מקבל שהוא ראשוני, אז אולי אני מגדיל את ההסתברות שהוא ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:14.880",
+            "offset_end": "0:02:22.480",
+            "text": "ואולי אם אני אנעשה פעם שלישית ימי שלישי, אני שוב אקבל אחד, אז אולי אני עוד יותר מגדיל את ההסתברות שהוא יהיה ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:22.480",
+            "offset_end": "0:02:28.440",
+            "text": "ואז יש לי פה, ואז פעולה אחת לא נותנת לי תשובה ברורה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:28.720",
+            "offset_end": "0:02:33.520",
+            "text": "אבל אולי אם אני אבצע את אותה פעולה שוב ושוב, ואני מקבל תמיד אותה תוצאה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:33.600",
+            "offset_end": "0:02:35.640",
+            "text": "אולי זה מגדיל את ההסתברות שהיה ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:37.240",
+            "offset_end": "0:02:41.160",
+            "text": "בסדר? זה ברור? ההיגיון פה ברור?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:43.640",
+            "offset_end": "0:02:45.560",
+            "text": "בסדר? כן. כן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:45.680",
+            "offset_end": "0:02:50.040",
+            "text": "אז השאלה היא אם אנחנו יכולים להקטין את ההסתברות, את הסתברות השגיאה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:50.120",
+            "offset_end": "0:02:52.120",
+            "text": "על ידי חישובים איי משונים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:53.080",
+            "offset_end": "0:02:59.200",
+            "text": "אז, טוב, במקרה הספציפי הזה של איי בחזקת n מינוס אחד, זה לא בהכרח נכון,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:02:59.280",
+            "offset_end": "0:03:03.600",
+            "text": "אבל עבור פעולה קצת שונה זה כן נכון, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:03.680",
+            "offset_end": "0:03:06.800",
+            "text": "אז עכשיו אנחנו בואו נכיר את אלגוריתם מילא רבין,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:07.800",
+            "offset_end": "0:03:17.200",
+            "text": "שהוא נותן באמת אלגוריתם כזה, זאת אומרת, אלגוריתם כזה שנותן תשובה שאין ראשוני, אבל היא לא בטוחה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:17.200",
+            "offset_end": "0:03:22.800",
+            "text": "אבל אם אני חוזר שוב ושוב על הפעולה הזאת, וכל פעם אני מקבל את אותה תשובה שאין ראשונית,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:22.800",
+            "offset_end": "0:03:29.600",
+            "text": "ככל שאני חוזר יותר פעמים על הבדיקה, ההסתברות עולה, שאין ראשוני היא עולה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:29.600",
+            "offset_end": "0:03:37.600",
+            "text": "ובסופו של דבר אני מגיע להסתברות כל כך גבוהה, או אני מגיע להסתברות שגיאה כל כך נמוכה, שזה מספיק טוב בשבילי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:39.000",
+            "offset_end": "0:03:48.100",
+            "text": "אוקיי, אז בשביל האלגוריתם מילר רבין, בואו נזכר, יש לי מספר n אי זוגי, ואני רוצה לבדוק האם הוא ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:48.100",
+            "offset_end": "0:03:53.300",
+            "text": "חשוב להגיד שהוא אי זוגי, כמובן שאם הוא זוגי אז אין לי מה לבדוק, כי אני יודע שהוא לא ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:03:53.300",
+            "offset_end": "0:04:05.620",
+            "text": "אז n הוא מספר אי זוגי, ואני רוצה לבדוק אם הוא ראשוני. אוקיי. אז אם n הוא אי זוגי, אז n פחות 1 הוא זוגי. זאת אומרת, n פחות 1 מתחלק ב-2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:14.260",
+            "offset_end": "0:04:16.060",
+            "text": "זאת אומרת, אני יכול לכתוב את n פחות 1 כאיזושהי חזקה של 2 כפול מספר אי זוגי, t שהוא אי זוגי, נכון?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:17.620",
+            "offset_end": "0:04:18.600",
+            "text": "בסדר? כן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:22.180",
+            "offset_end": "0:04:23.140",
+            "text": "כי n מינוס 1 זה מכפלה של מספרים ראשוניים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:26.500",
+            "offset_end": "0:04:31.500",
+            "text": "אז אני מרכז את כל ה-2 אם שם במכפלה ביחד, אז זה שתיים בעז חזקת איזשהו s כפול t, כש-t הוא מספר אי זוגי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:31.500",
+            "offset_end": "0:04:57.060",
+            "text": "ו-s חייב להיות גדול ממש מאפס, כי אני יודע ש-n פחות 1 הוא זוגי, ולכן יש שם איזושהי חזקה של שתיים. כלומר, המספר הזה, או הפירוק הזה עם s וt, אפשר לראות אותו יפה כשאני מסתכל על הייצוג הבינארי של n פחות 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:04:57.060",
+            "offset_end": "0:05:12.560",
+            "text": "כן, הייצוג הבינארי של n פחות 1, הוא מסתיים באפסים, כן, מספר האפסים בצד הנמוך זה בדיוק s, ואחר כך יש לי מספר, יש לי איזשהו מספר t שהוא עיזובי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:12.560",
+            "offset_end": "0:05:27.400",
+            "text": "זאת אומרת, אם אני לוקח פחות אחד מחלק, מחלק, מחלק בשתיים, אני יכול לחלק בשתיים s פעמים, נפטר מכל האפסים בחלק הנמוך, ואני נשאר עם מספר איזומי. בסדר?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:27.400",
+            "offset_end": "0:05:36.000",
+            "text": "אז זה לא קשה, זה לא קשה למצוא את s ו-t, נכון? אז אני מוצא את ה-s וה-t האלה, ואז אני עושה את הדבר הבא.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:36.000",
+            "offset_end": "0:05:45.080",
+            "text": "אני בוחר איזשהו מספר רנדומלי a, אוקיי? קטן מ-n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:46.680",
+            "offset_end": "0:05:53.480",
+            "text": "מחשב את a בחזקת t, זוכרים t? t זה n פחות 1 שווה ל-t כפול 2 בחזקת s.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:53.480",
+            "offset_end": "0:05:57.780",
+            "text": "אז אני קודם כל מחשב את a בחזקת t מודולו n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:05:59.280",
+            "offset_end": "0:06:01.480",
+            "text": "אוקיי? יש פה עלה בחזקה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:01.480",
+            "offset_end": "0:06:07.660",
+            "text": "אנחנו יודעים עוד מהקורס במבוא למדעי המחשב שיש אלגוריתם מהיר להעלה וחזקה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:07.660",
+            "offset_end": "0:06:13.860",
+            "text": "יש אלגוריתם מהיר, ובפייטון יש את הפונקציה POW שעושה את זה, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:13.860",
+            "offset_end": "0:06:25.400",
+            "text": "עכשיו, אם בשלב הזה קיבלתי 1 או n פחות 1, האלגוריתם עוצר, מחזיר את התשובה n ראשוני, שילה תשובה ב-100 אחוז נכונה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:26.200",
+            "offset_end": "0:06:27.400",
+            "text": "אם לא, אני ממשיך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:27.700",
+            "offset_end": "0:06:33.200",
+            "text": "זאת אומרת, אני עכשיו... רגע, דני, האלגוריתם המהיר הוא לחישוב חזקה, אבל במודולו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:33.900",
+            "offset_end": "0:06:36.100",
+            "text": "לא סתם חישוב חזקה, אני שואל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:36.600",
+            "offset_end": "0:06:37.100",
+            "text": "כן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:39.900",
+            "offset_end": "0:06:40.900",
+            "text": "איזה אלגוריתם?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:42.200",
+            "offset_end": "0:06:48.100",
+            "text": "אמרת שיש אלגוריתם מהיר לחישוב חזקה, האלגוריתגוריתם הזה חזקה במודולו, לא סתם חזקה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:48.100",
+            "offset_end": "0:06:49.800",
+            "text": "נכון, במודולו, כן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:50.200",
+            "offset_end": "0:06:53.100",
+            "text": "כמובן שאם זה בלי מודולו, הוא לא יכול להיות מהיר,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:06:53.100",
+            "offset_end": "0:06:57.700",
+            "text": "בגלל שאתה מקבל כאלה מספרים גדולים שם שזה אוכל לך את כל הזיכרון במחשב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:00.700",
+            "offset_end": "0:07:07.100",
+            "text": "אז נכון, זה במודולו, ויש את הפונקציה POW בפייתון שעושה את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:07.100",
+            "offset_end": "0:07:19.100",
+            "text": "אוקיי, אבל עכשיו אני ממשיך, אם לא קיבלתי 1 או n פחות 1, אני ממשיך, ואני מעלה כל פעם את d בריבוע, מעלה בריבוע, ואחרי כל העלה בריבוע, אני בודק אם קיבלתי n פחות 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:19.100",
+            "offset_end": "0:07:26.400",
+            "text": "אם קיבלתי באיזשהו שלב n פחות 1, אני אומר ש-n הוא ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:28.400",
+            "offset_end": "0:07:35.200",
+            "text": "אם אחרי שהעליתי בריבוע, העליתי שוב ושוב ושוב בריבוע, ולא קיבלתי אף פעם n פחות 1,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:36.000",
+            "offset_end": "0:07:44.000",
+            "text": "ולא קיבלתי אף פעם n פחות 1, אז אני מחזיר את התשובה ש-n הוא פריק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:44.000",
+            "offset_end": "0:07:48.800",
+            "text": "ואם אני מחזיר את התשובה ש-n הוא פריק, אז זה בטוח נכון, ותכף נראה למה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:49.600",
+            "offset_end": "0:07:58.100",
+            "text": "אוקיי? אז שימו לב, אני מעלה בחזקת t ואחר כך ממשיך לעלות בריבוע, לא עד s, אלא עד s פחות 1, זה חשוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:07:58.600",
+            "offset_end": "0:08:00.300",
+            "text": "בעצם מה אני עושה פה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:00.700",
+            "offset_end": "0:08:12.300",
+            "text": "אני חושב את a בחזקת t, בחזקת 2, חזקת 2, חזקת 2, חזקת 2, s פחות 1 פעמים, בעצם חישבתי את a בחזקת n פחות 1 כלכל 2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:12.300",
+            "offset_end": "0:08:31.500",
+            "text": "כי אם הייתי מעלה פה בחזקת 2 s פעמים, אז מה יש לי פה חזקות? t כפול 2 בחזקת s, זה בדיוק n פחות 1. מכיוון שאני עושה את זה s מינוס 1 פעמים, אז חישבתי את a בחזקת n מינוס 1 חלקי 2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:34.500",
+            "offset_end": "0:08:48.800",
+            "text": "בסדר? אז אם הגעתי עד הסוף, כן, אם לא יצאתי באמצע באלגוריתם, אם הגעתי עד הסוף, אז חישבתי את a בחזקת n מינוס 1 חלקי 2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:08:50.300",
+            "offset_end": "0:08:58.200",
+            "text": "אוקיי? וקיבלתי ש-a בחזקת n מינוס 1 חלקי 2 הוא לא n מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:01.900",
+            "offset_end": "0:09:07.500",
+            "text": "לא רק שהוא לא n מינוס 1, הוא גם לא n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:12.500",
+            "offset_end": "0:09:14.500",
+            "text": "כי אם הוא היה n, אז בשלב קודם הייתי צריך לקבל n פחות 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:16.000",
+            "offset_end": "0:09:16.500",
+            "text": "אוקיי, תפחות אני אז אסביר את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:21.000",
+            "offset_end": "0:09:23.000",
+            "text": "זאת אומרת... דני, אתה יכול באמת לחדד פה את התנאים, זה לא כל כך טוב. אוקיי, אני מסביר, שוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:26.000",
+            "offset_end": "0:09:30.000",
+            "text": "אני אסביר שוב על הלוח, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:38.000",
+            "offset_end": "0:09:40.000",
+            "text": "אוקיי, אז שוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:41.000",
+            "offset_end": "0:09:52.500",
+            "text": "אני לוקח את A, מחשב אותו בחזקת T, ואחר כך בריבוע, בריבוע, בריבוע, בריבוע, בריבוע, s מינוס 1 קיימים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:52.500",
+            "offset_end": "0:09:58.500",
+            "text": "אז בעצם חישבתי את a בחזקת n מינוס 1 חלקי 2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:09:58.500",
+            "offset_end": "0:10:12.560",
+            "text": "אוקיי? ונניח שהגעתי עד הסוף, ולא יצאתי מהעלולה, כן? אם לא יצאתי מהעלולה, יצאתי באמצע עלולה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:17.360",
+            "offset_end": "0:10:18.860",
+            "text": "עלולה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:21.860",
+            "offset_end": "0:10:47.360",
+            "text": "עלולה.לולאה, לולאה, אוקיי? אם לא יצאתי באמצע לולאה, אז...לא, מסיק לכתוב, לא יודע למה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:47.360",
+            "offset_end": "0:10:51.960",
+            "text": "מה זה לצאת מהעלולה? מה התנאי פה בעצם?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:10:51.960",
+            "offset_end": "0:11:04.960",
+            "text": "לצאת מהעלולה זה אומר שבאיזשהו שלב, לאורך הדרך הזאת, קיבלתי n פחות 1, מודולו n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:04.960",
+            "offset_end": "0:11:08.500",
+            "text": "n פחות 1 מודולו n זה כמו מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:08.500",
+            "offset_end": "0:11:13.860",
+            "text": "כן? אז באיזשהו שלב לאורך עלולה קיבלתי n מינוס, קיבלתי מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:13.860",
+            "offset_end": "0:11:18.860",
+            "text": "זאת אומרת, אם לא יצאתי מהלולה, זאת אומרת שבשום שלב לא קיבלתי מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:18.860",
+            "offset_end": "0:11:21.860",
+            "text": "אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:23.860",
+            "offset_end": "0:11:49.000",
+            "text": "אה... זהו... שוקו...אוקיי?אה, לא. יש לי בעיה עם ה... מה...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:49.000",
+            "offset_end": "0:11:58.000",
+            "text": "בעיה עם הטאבלט, לא יודע בדיוק מה אין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:11:58.000",
+            "offset_end": "0:12:45.800",
+            "text": "אוקיי, אז שוב, יש לי את a בחזקת t בחזקת 2, 2ופו של דבר חשבתי את ה-b בחזקת n מינוס 1 חלקי 2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:46.800",
+            "offset_end": "0:12:49.200",
+            "text": "ובשום שלב לא קיבלתי מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:50.600",
+            "offset_end": "0:12:53.000",
+            "text": "בשום שלב לא קיבלתי את n מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:53.800",
+            "offset_end": "0:12:58.900",
+            "text": "זאת אומרת ש-a בחזקת n מינוס 1 חלקי 2 הוא לא n מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:12:59.700",
+            "offset_end": "0:13:00.800",
+            "text": "והוא גם לא n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:02.100",
+            "offset_end": "0:13:05.300",
+            "text": "כי אם הוא היה n, הייתי צריך לקבל n מינוס 1 בשלב קודם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:07.300",
+            "offset_end": "0:13:14.800",
+            "text": "אוקיי? אז בעצם קיבלתי... אוקיי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:16.000",
+            "offset_end": "0:13:21.300",
+            "text": "אז הטענה היא שאלגוריתם מילא רבין הוא אלגוריתם מונטה קרלו מוטה לכן עבור השאלה אם n פריק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:21.300",
+            "offset_end": "0:13:31.000",
+            "text": "מה זאת אומרת? זאת אומרת, אני צריך להראות שאם קיבלתי תשובה ש-n הוא פריק, אז היא בטוח נכונה. אוקיי? אז בואו נגדיר פה משהו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:31.000",
+            "offset_end": "0:13:50.500",
+            "text": "a שנותן תשובה n פריק קרוי add, witness באנגלית. ו-a שנותן תשובה n ראשוני הוא לא add, non-witness באנגלית. אוקיי? אז בואו נוכיח את הנכון, אז כדי להוכיח שאלגוריתם מילא רבין נכון, זאת אומרת, מה זה אומר שאלגוריתם מילא רבין נכון?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:13:50.500",
+            "offset_end": "0:14:16.000",
+            "text": "זה אומר שאם אלגוריתם מילא רבין אומר, אם אלגוריתם מילא רבין אומר שאין הוא פריק, אז התשובה היא נכונה, אוקיי? בטוח. אז טענת עזר. אז קודם כל בואו נוכיח למה. כן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:16.000",
+            "offset_end": "0:14:53.000",
+            "text": "אני לא רואה, כאילו, לא יודע אם זה בעיה אצלי, אבל אני לא רואה את מה ש... אתה לא רואה את הלוח? לא, אני רואה רק את התקייה של הסלייס. ועכשיו? עכשיו אני רואה מצגת שלוכחת נכונות של הגוגל על מילי רבים. כן, אוקיי. אוקיי, אז בואו נוכיח למה. אם פי ראשוני ו-x בריבוע קונגרואנטי ל-1 מודולו פי, אז x קונגרואנטי לפלוס מינוס 1 מודולו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:14:53.000",
+            "offset_end": "0:15:14.200",
+            "text": "זאת אומרת, אם x בריבוע הוא 1, אז x הוא או 1 או מינוס 1, כלומר, פי מינוס 1. אוקיי? אז בשביל זה אני צריך טענת עזר, אם פי ראשוני ופי מחלק מכפלה, אז הוא חייב לחלק את 1 מהם, זה אני לא אוכיח.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:14.200",
+            "offset_end": "0:15:19.500",
+            "text": "ואז בואו נוכיח את הלמה, בואו נניח ש-x בריבוע קונגרואנטי ל-1 מודולו פי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:20.000",
+            "offset_end": "0:15:25.120",
+            "text": "טוב, מעביר את ה-1 אגף, זה אומר ש-x בריבוע פחות 1 קונגוונטי ל-0 מודולו p,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:25.120",
+            "offset_end": "0:15:32.920",
+            "text": "זאת אומרת ש-p מחלק את x בריבוע פחות 1, אבל x בריבוע פחות 1 זה x מינוס 1 כפול x פלוס 1,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:32.920",
+            "offset_end": "0:15:40.480",
+            "text": "זאת אומרת שאו ש-x, או ש-p מחלק את x פחות 1, או שהוא מחלק את x פלוס 1, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:41.480",
+            "offset_end": "0:15:52.400",
+            "text": "טוב, מה זה אומר שהוא מחלק את x פחות 1? זה אומר ש... מה זה אומר שהוא מחלק את x ועוד 1?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:15:52.400",
+            "offset_end": "0:16:01.000",
+            "text": "זאת אומרת שהיא קונגוונטי למינוס 1 מודולו p, כי אמרנו שמתי a קונגוונטי ל-b, אם p מחלק את a פחות b.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:01.000",
+            "offset_end": "0:16:10.000",
+            "text": "אז a קונגוונטי למינוס 1, x קונגוונטי למינוס 1, אם p מחלק את x פחות מינוס 1, זאת אומרת x פלוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:10.000",
+            "offset_end": "0:16:26.200",
+            "text": "וזה ש-p מחלק את x פחות 1 שקול לזה שx קונגורנטי ל-1, אז קיבלנו מה שרצינו. אוקיי? אז אם x בריבוע קונגורנטי ל-1, אז x הוא או אחד או מינוס אחד, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:26.200",
+            "offset_end": "0:16:28.500",
+            "text": "כמובן, בהינתן ש-p הוא ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:30.000",
+            "offset_end": "0:16:37.100",
+            "text": "אז צריך עכשיו להראות שאם האלגוריתם נתן לנו ש-n פריק, אז זה בהכרח נכון, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:38.400",
+            "offset_end": "0:16:44.600",
+            "text": "זאת אומרת, לא יכול להיות ש-n יהיה ראשוני ואנחנו נקבל את התשובה ש-n פריק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:16:44.600",
+            "offset_end": "0:17:08.000",
+            "text": "זה בעצם מה שאנחנו צריכים להראות. אוקיי? אז בואו נניח ש-n ראשוני. אז לפי משפט פרמה אמרנו a בחזקת n פחות 1 קונגרואנטי ל-1 מוד n. אבל מה זה a בחזקת n מינוס 1? זה a בחזקת t בחזקת 2, 2, 2, 2, 2, S פעמים, נכון? זה N-1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:08.000",
+            "offset_end": "0:17:12.000",
+            "text": "זה יכול להיות שזה גם S פעמים וגם פחות מ-S פעמים?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:12.000",
+            "offset_end": "0:17:31.000",
+            "text": "מה? לא משנה. עוד פעם. אנחנו יודעים ש... בוא נניח ש-N ראשוני, אני צריך להראות שלא יכול להיות שהתשובה היא שיש n, שn פריק. אז בוא נניח שn ראשוני. אז אנחנו יודעים לפי משפט פרמה של a בחזקת n פחות 1, קונגורנטי ל-1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:17:31.000",
+            "offset_end": "0:18:07.900",
+            "text": "אוקיי, אבל בואו נעבור רגע ללוח, בשביל זה אני צריך לוח, אוקיי, אז עוד פעם, מה קיבלנו? ש-a, קיבלנו ש-a בחזקת n מינוס 1, פה רואונטי ל-1, עוד n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:07.900",
+            "offset_end": "0:18:21.900",
+            "text": "אוקיי, אבל מה זה בחזקת n מינוס 1? זה בחזקת n מינוס 1 חלקי 2 בריבוע, נכון?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:18:21.900",
+            "offset_end": "0:19:11.000",
+            "text": "בסדר? אוקיי, אז זה אומר לפי הלמה, זה אומר לפי הלמה, זה אומר ש-a בחזקת n מינוס 1, a מינוס 1 חלקי 2, זה ה-x שלנו. כן? יש לי פה איקס בריבוע קונגואנטי לאחד. איי בחזקת איי מינוס אחד חלקי שתיים, קונגואנטי לפלוסוס 1, כי אם הוא היה קונגואנטי למינוס 1, אז האלגוריתם היה אומר ש-n ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:11.000",
+            "offset_end": "0:19:16.000",
+            "text": "אבל אנחנו אומרים שהוא, לא, אנחנו אומרים, לא, שהאלגוריתם... רגע, למה זה?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:16.000",
+            "offset_end": "0:19:28.100",
+            "text": "כי כשאני, היה שם הסדרה של לעלות ברבוע, אם באיזשהו שלב אני מקבל n מינוס 1, אז אני יוצא החוצה והאלגוריתם אומר שהמספר ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:29.100",
+            "offset_end": "0:19:31.900",
+            "text": "אבל קיבלנו תשובה שהוא פריק, זאת אומרת שלא יצאנו.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:34.400",
+            "offset_end": "0:19:35.100",
+            "text": "בסדר?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:36.300",
+            "offset_end": "0:19:46.100",
+            "text": "כן. אז מינוס 1 לא יכול להיות, אז המסקנה היא שגם a בחזקת n מינוס 1 ח 2 קונגרואנטי ל-1, מודאן.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:48.100",
+            "offset_end": "0:19:52.200",
+            "text": "אוקיי, אז עכשיו בואו נמשיך לחלק ב-2, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:19:52.200",
+            "offset_end": "0:20:06.300",
+            "text": "בואו נמשיך לחלק ב-2, בכל שלב, כן? עכשיו אנחנו אומרים ש-a בחזקת n-1 חלקי 4 קונגרואנטי לפלוס או מינוס 1, מוד n.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:11.200",
+            "offset_end": "0:20:13.800",
+            "text": "ואני יכול להמשיך ככה עד שאני נפטר מכל העלאות בריגוע, אבל אנחנו יודעים שזה לא מינוס 1, כי אם זה היה מינוס 1,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:13.800",
+            "offset_end": "0:20:18.100",
+            "text": "אלגוריתם מילא רבין היה מוציא אותנו ואומר שהוא ראשוני, אז זה חייב להיות 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:18.100",
+            "offset_end": "0:20:23.100",
+            "text": "אז אנחנו ממשיכים ללכת אחורה ככה, עד שאנחנו מגיעים ל-a בחזקת t,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:23.100",
+            "offset_end": "0:20:31.000",
+            "text": "אבל a בחזקת t הוא לא 1 והוא לא מינוס 1, כי אם הוא היה או 1 או מינוס 1, היינו מקבלים תשובה ש-n ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:31.000",
+            "offset_end": "0:20:55.300",
+            "text": "ולכן לא יכול להיות שקיבלנו תשובה n פריק. אוקיי? אז אלגוריתמי לרבין, כן? אז לא יכול להיות שקיבלנו תשובה שאין פריק, ולכן זה חייב להיות שאין ראשונים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:20:57.300",
+            "offset_end": "0:21:27.360",
+            "text": "אוקיי, אז ההס להיות שהאלגוריתם ייתן תשובה לא נכונה, זאת אומרת שהוא יגיד שהמספר ראשוני, אבל זה לא נכון, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:27.360",
+            "offset_end": "0:21:37.660",
+            "text": "ויש מקרה כזה, ואז אנחנו אומרים ש-n הוא ראשוני מדומה חזק בבסיס a, זאת אומרת, אם עבור a מסוים הוא נתן תשובה ש-n ראשוני ו-n הוא לא ראשוני,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:37.660",
+            "offset_end": "0:21:42.900",
+            "text": "אז אנחנו אומרים שהוא ראשוני מדומה חזק, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:42.900",
+            "offset_end": "0:21:55.600",
+            "text": "יש לנו פה דוגמאות לשני מספרים כאלה, 91 ו-10,585, בואו נסתכל על 10,585, ברור שהוא לא מספר ראשוני, כן? כי הוא מתחלק בחמש.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:21:55.600",
+            "offset_end": "0:22:07.600",
+            "text": "עכשיו, מה זה 10,584? מה זה n פחות 1? זה 323 כפול 2 בשלישית. מסתבר שכשאני אעלה, אה, זה צריך להיות, את 3...",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:09.600",
+            "offset_end": "0:22:13.100",
+            "text": "אה, יש פה טעות, זה צריך להיות בחזקה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:13.100",
+            "offset_end": "0:22:20.000",
+            "text": "כשאני חושב את 3 בחזקת f323, זה ה-t שלי, אני מקבל מינוס 1.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:20.000",
+            "offset_end": "0:22:25.400",
+            "text": "זאת אומרת שאני מקבל תשובה במילא רבין שהמספר הוא ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:25.400",
+            "offset_end": "0:22:27.800",
+            "text": "אבל אין הרבה מספרים כאלה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:28.800",
+            "offset_end": "0:22:35.900",
+            "text": "ויש משפט שאומר שהסתברות שהאלגוריתם מחזיר תשובה אין ראשוני שגויה היא לכל היותר רבע.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:36.900",
+            "offset_end": "0:22:41.300",
+            "text": "אוקיי? לכל היותר רבע. זאת אומרת, ההסתברות לתשובה שגויה היא רבע.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:41.300",
+            "offset_end": "0:22:52.000",
+            "text": "עכשיו, אם אני אעשה את זה פעמיים, מה ההסתברות לתשובה שגויה היא רבע כפול רבע? אם אני אעשה את זה עשר פעמים, ההסתברות לתשובה שגויה היא רבע בחזקת עשר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:22:54.000",
+            "offset_end": "0:23:06.560",
+            "text": "זאת אומרת, ככל שאני אעשה את הפעולה הזאת של לבחור A ולהריץ אלגוריתם מילא רבין יותר פעמים, ככל שאני אעשה את זה יותר פע, ובכל הפעמים אני מקבל תשובה אין ראשוני,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:06.960",
+            "offset_end": "0:23:14.760",
+            "text": "אז ההסתברות שאין הוא אכן ראשוני, או שהתשובה היא לא נכונה, יורדת.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:16.520",
+            "offset_end": "0:23:19.560",
+            "text": "אוקיי? ולכן... יש פה הנחה של התלות, אבל.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:20.560",
+            "offset_end": "0:23:22.160",
+            "text": "יש הנחה של התלות, נכון.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:22.440",
+            "offset_end": "0:23:26.800",
+            "text": "אז זה משהו שצריך להוכיח, ובאמת אנשים הוכיחו את זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:27.440",
+            "offset_end": "0:23:32.840",
+            "text": "אבל זה אכן עובד, ולמעשה הרבע הזה הוא גם כן הגזמה, זאת אומרת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:33.120",
+            "offset_end": "0:23:35.480",
+            "text": "ברוב המקרים זה הרבה יותר קטן מרבע,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:35.960",
+            "offset_end": "0:23:44.040",
+            "text": "ויש פה משפט שאומר שעבור מספר של 500 ביט, הסתברות השגיאה היא אפילו קטנה מ-4 בחזקת מינוס 28.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:44.160",
+            "offset_end": "0:23:46.360",
+            "text": "וזה על פעם אחת שאני מליץ את האלגוריתם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:48.080",
+            "offset_end": "0:23:58.480",
+            "text": "אוקיי, אז אני אחזור לזה בשיעור הבא, אבל מה שאני רוצה, פה אני מוכיח את ההסתברות הזאת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:23:58.480",
+            "offset_end": "0:24:09.500",
+            "text": "אבל יש עוד אלגוריתם אחד, הסיבה שאני רוצה להראות אותו, בגלל שאנחנו נולך לעשות אותו בתרגול, יש ארגוריתם שנראה לכאורה יותר פשוט ממילא רבין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:13.500",
+            "offset_end": "0:24:26.200",
+            "text": "במקום לקחת s ו-t ולקחת a בחזקת s, סליחה, t כפול 2 בחזקת s וכן הלאה, הוא אומר לא, אנחנו לא צריכים את כל זה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:26.200",
+            "offset_end": "0:24:31.000",
+            "text": "בואו נחשב על ההתחלה את a בחזקת n מינוס 1 חלקי 2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:31.000",
+            "offset_end": "0:24:36.500",
+            "text": "במקום לחשב את זה בשלבים, ובכל שלב יש לנו אפשרות יציאה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:36.500",
+            "offset_end": "0:24:40.000",
+            "text": "אז בואו נחשב ישר את a בחזקת n מינוס 1 חלקי 2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:40.000",
+            "offset_end": "0:24:45.640",
+            "text": "שזה מה שאנחנו חושבים בסופו של דבר באלגוריתמי לרבין, אבל בשלבים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:45.640",
+            "offset_end": "0:24:51.000",
+            "text": "פה לא, הוא אומר, תעזוב את השלבים, חשב פעם אחת את ה-n-1 ופעם אחת את ה-2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:24:51.000",
+            "offset_end": "0:25:10.500",
+            "text": "אם אתה מקבל 1 או n-1, תגיד שn ראשוני, אני חייב לקבל 1 או מינוס 1, זה הוכחנו בלמה קודם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:10.500",
+            "offset_end": "0:25:14.300",
+            "text": "זאת אומרת, אם n הוא ראשוני, לא ייתכן שאני אקבל תשובה שהוא פריק.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:14.300",
+            "offset_end": "0:25:25.120",
+            "text": "זה נקרא אלגוריתם לימן, אז הוא יותר פשוט לכתיבה ולתכנות ולהבנה, לא שהקודם כזה מסובך.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:30.560",
+            "offset_end": "0:25:31.080",
+            "text": "הסתברות השגיאה פה היא קצת יותר גבוהה, זאת הסיבה שאנשים אוהבים להשתמש במילא רבין.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:35.880",
+            "offset_end": "0:25:37.040",
+            "text": "באלגוריתם לימן, הסתברות השגיאה היא קצת יותר גבוהה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:43.240",
+            "offset_end": "0:25:47.260",
+            "text": "ולכן אם אני רוצה לקבל את אותה הסתברות שגיאה כמו באלגוריתם מילרבין, אני צריך להריץ את למן עם יותר aim כאלה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:47.260",
+            "offset_end": "0:25:49.740",
+            "text": "אבל למן יותר מהיר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:49.740",
+            "offset_end": "0:25:52.480",
+            "text": "למן לא יותר מהיר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:52.480",
+            "offset_end": "0:25:58.300",
+            "text": "כי מה למן מחשב? למן מחשבת, ה' בחזקת אין מנוס חצי חלקי שתיים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:25:58.300",
+            "offset_end": "0:26:02.180",
+            "text": "גם אלגוריתמי לרבין מחשבת ה' בחזקת אין מנוס חצי חלקי שתיים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:02.180",
+            "offset_end": "0:26:10.000",
+            "text": "זאת אומרת, להפך, באלגוריתמי לרבין אתה יכול לצאת קודם, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:10.000",
+            "offset_end": "0:26:13.600",
+            "text": "במקרה הגרוע אתה מחשב את ה-e בחזקת n מינוס 1 חלק של 2.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:14.400",
+            "offset_end": "0:26:19.500",
+            "text": "בחלק מהמקרים אתה מחשב פחות, אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:20.200",
+            "offset_end": "0:26:33.000",
+            "text": "אז הוא לא יותר מהיר, הם מהירים פחות או יותר באותה מידה. כי תכלס, אלגוריתם מילר רבין יוצא באמצע רק אם הוא מגיע למסקנה שהמספר ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:33.000",
+            "offset_end": "0:26:36.600",
+            "text": "אבל רוב המספרים הם לא ראשונים, הם פריקים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:36.600",
+            "offset_end": "0:26:42.900",
+            "text": "ולכן אלגוריתם מילר רבין ולמן, הם שניהם ברוב המקרים מחשבים את ה-A בצקת M מינוס קצת פרשתיים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:42.900",
+            "offset_end": "0:26:46.280",
+            "text": "אז שניהם מחשבים את אותו דבר, בסופו של דבר.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:46.280",
+            "offset_end": "0:26:50.480",
+            "text": "היתרון של מילר רבין, שהסתברות השגיאה שלו היא יותר קטנה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:51.680",
+            "offset_end": "0:26:54.240",
+            "text": "אוקיי? אבל גם למן הוא אלגוריתם טוב.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:54.240",
+            "offset_end": "0:26:58.000",
+            "text": "זאת אומרת, אם אתם תריצו את למן 10 פעמים ותקבלו שאין ראשוני,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:26:58.000",
+            "offset_end": "0:27:02.080",
+            "text": "אתם יכולים להמר על זה בהרבה כסף שהוא אכן ראשוני.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:04.280",
+            "offset_end": "0:27:05.000",
+            "text": "אוקיי?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:09.000",
+            "offset_end": "0:27:11.000",
+            "text": "אז זהו, אז ראינו שני אלגוריתמים.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:12.000",
+            "offset_end": "0:27:13.000",
+            "text": "שוב, אני אסכם.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:14.000",
+            "offset_end": "0:27:22.500",
+            "text": "אלגוריתם הסתברותי, התשובה, שני אלגוריתמים, אלגוריתמים הסתברותיים, שניהם נותנים תשובה 100% נכונה,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:23.000",
+            "offset_end": "0:27:25.200",
+            "text": "אם הם אומרים שהמספר לא ראשוני, אבל אם הם אומרים שהמספר ראשוני, אז התשובה היא לא ב-100% נכונה אם הם אומרים שהמספר לא ראשוני,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:25.200",
+            "offset_end": "0:27:29.300",
+            "text": "אבל אם הם אומרים שהמספר ראשוני, אז התשובה היא לא ב-100% נכונה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:29.300",
+            "offset_end": "0:27:35.700",
+            "text": "היא נכונה במקרה הכי גרוע במילר רבין בשלוש תלוי, כן?",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:35.700",
+            "offset_end": "0:27:38.800",
+            "text": "ב-75% תשובה נכונה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:38.800",
+            "offset_end": "0:27:43.300",
+            "text": "בלמן, החסם הוא יותר נמוך, זאת אומרת, של חצי.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:43.300",
+            "offset_end": "0:27:50.600",
+            "text": "אבל בכל מקרה, אבל בשניהם לא מספיק להריץ פעם אחת,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:50.600",
+            "offset_end": "0:27:54.000",
+            "text": "מריצים שוב ושוב ושוב, ימיים שונים,",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:27:54.000",
+            "offset_end": "0:28:01.300",
+            "text": "ואם בכל המקרים זה נותן תשובה שהוא ראשוני, סבבה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        },
+        {
+            "offset_start": "0:28:01.300",
+            "offset_end": "0:28:22.000",
+            "text": "אם באחד המקרים זה אומר שזה פריק, תזרקו את המספר הזה, כן? כי התשובה פריק היא נכונה במאה אחוז. זהו. אז זה היה השיעור של היום, ועוד חצי שעה נתרגל את הדברים האלה.",
+            "lang": "he",
+            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1170084",
+            "course_name": "cryptology",
+            "media_type": "audio"
+        }
+    ]
+}
