@@ -4,21 +4,31 @@ import typing as t
 
 from langchain.schema import Document
 
-
 RAW_TRANSCRIPTION_FOLDER = 'shared_folder/raw_transcriptions/'
+DONE_TRANSCRIPTIONS_FILE = 'shared_folder/done_transcriptions.json'
+
 
 class DataLoader:
     ''' Class to load data from a JSON file. '''
-    
+
     def load_json(self, file_path: str) -> t.List[t.Dict[str, str]]:
         ''' Load raw transcriptions from the shared folder. '''
         with open(file_path, 'r', encoding='utf-8') as json_file:
             return json.load(json_file)['data']
-        
+
+    def read_done_transcriptions(self) -> t.List[str]:
+        ''' Read the done transcriptions from the shared folder. '''
+        # TODO: implemnt this !
+        return []
+
     def load_transcriptions_segments(self, folder_path: str) -> t.List[t.Dict[str, str]]:
-        ''' Load all raw transcriptions from the shared folder. '''
+        ''' Load only the transcriptions that have not been processed yet. '''
+        done_transcriptions_files = self.read_done_transcriptions()
+        all_files = os.listdir(folder_path)
+        pending_files = set(all_files) - set(done_transcriptions_files)
+
         segments = []
-        for file in os.listdir(folder_path):
+        for file in pending_files:
             file_path = os.path.join(folder_path, file)
             segments.extend(self.load_json(file_path))
         return segments
@@ -26,15 +36,15 @@ class DataLoader:
 
 class ChunkingManager:
     ''' Class to chunk text segments '''
-    def __init__(self, chunk_size: int = 1000): #TODO: change the default value, why 1000?
+
+    def __init__(self, chunk_size: int = 1000):  # TODO: change the default value, why 1000?
         self.chunk_size = chunk_size
         self.data_loader = DataLoader()
-
 
     def split_text_into_chunked_segments(
             self,
             segments: t.List[t.Dict] = None
-         ) -> t.List[t.Dict]:
+    ) -> t.List[t.Dict]:
         '''
         Chunk the text segments into chunk_size segments.
 
@@ -85,66 +95,34 @@ class ChunkingManager:
 
         return chunked_segments
 
+    def create_document_objects(self, data: t.List[t.Dict]) -> t.List[Document]:
+        ''' Convert the chunked segments into Document objects. '''
+        return [Document(page_content=segment.pop('text'),
+                         metadata=segment
+                         )
+                for segment in data]
 
-    def convert_segment_dicts_to_documents(
-            self,
-            data: t.Dict[str, t.List[t.Dict[str, str]]]
-            ) -> t.List[Document]:
-        ''' Convert a dictionary of segment dictionaries to a list of Document objects. '''
-        documents = []
-        for item in data:
-            text = item.get('text')
-            metadata = item.copy()
-            metadata.pop('text')
-
-            doc = Document(page_content=text, metadata=metadata)
-            documents.append(doc)
-        return documents
-
-
-    def group_segments_by_course(self, segments: t.List[t.Dict]) -> t.Dict[str, t.List[t.Dict]]:
-        '''
-        Group the segments by course name.
-        
-        Args:
-            segments (List[Dict]): List of text segments with the following
-                keys: 'offset_start','offset_end', 'text', 'lang', 'type', 'ref', 'course_name'.
-
-        Returns:
-            Dict[str,List[Dict]]: Dictionary with course names as keys and lists of segments as values.
-        '''
-        segments_by_course = {}
-        for segment in segments:
-            course_name = segment['course_name']
-            if course_name not in segments_by_course:
-                segments_by_course[course_name] = []
-            segments_by_course[course_name].append(segment)
-        return segments_by_course 
-
-
-    def genarate_chunked_documents_from_shared_folder(self) -> t.Dict[str, t.List[Document]]:
+    def genarate_chunked_documents_from_shared_folder(self) -> t.List[Document]:
         '''
         Generate chunked documents from the transcriptions in the shared folder. 
 
         Returns:
-            Dict[str,List[Document]]: Dictionary with course names as keys and lists of Document objects as values.
+            List[Document]]: List of Document objects.
                 Each document object contains the next attributes:
                     - page_content: str
                     - metadata: Dict[str,Any]
-                        - "offset_start"
-                        - "offset_end"
-                        - "lang"
-                        - "ref"
-                        - "course_name"
-                        - "media_type"  
+                        {
+                            "offset_start",
+                            "offset_end",
+                            "lang",
+                            "ref",
+                            "course_name",
+                            "media_type"
+                        }
         '''
+        # TODO: use the langchain_core.runnablesRunnablePassthrough | operator to simplify the code
         raw_segments = self.data_loader.load_transcriptions_segments(RAW_TRANSCRIPTION_FOLDER)
-        segments_by_course = self.group_segments_by_course(raw_segments)
-        chunked_documents = {
-            course_name : self.convert_segment_dicts_to_documents(
-                self.split_text_into_chunked_segments(segments)
-            )
-            for course_name, segments in segments_by_course.items()
-        }
+        chunked_segments = self.split_text_into_chunked_segments(raw_segments)
+        chunked_documents = self.create_document_objects(chunked_segments)
 
         return chunked_documents
