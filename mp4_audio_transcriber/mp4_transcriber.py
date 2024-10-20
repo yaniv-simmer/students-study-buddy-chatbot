@@ -102,6 +102,7 @@ class MP4AudioTranscriber:
     def run(self, mp4_path: str, output_path: str, url: str, course_name: str) -> None:
         '''
         Main function to transcribe audio from an mp4 file and save the transcription to a JSON file.
+        After transcription, the mp4 and temporary wav audio files are deleted.
 
         Args:
             mp4_path (str): Path to the mp4 file.
