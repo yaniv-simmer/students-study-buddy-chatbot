@@ -1,1039 +1,1039 @@
 {
-    "data": [
-        {
-            "offset_start": "0:00:00.520",
-            "offset_end": "0:00:01.520",
-            "text": "שלום.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:00:01.840",
-            "offset_end": "0:00:06.240",
-            "text": "היום זה שיעור הקדמה, או שיעור מבוא לתחום הקריפטולוגיה,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:00:06.240",
-            "offset_end": "0:00:11.320",
-            "text": "נראה סקירה היסטורית ונלמד כמה מושגי יסוד בקריפטולוגיה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:00:15.000",
-            "offset_end": "0:00:25.640",
-            "text": "אתם רואים פה בפתיחה כמה דמויות מרכזיות מההיסטוריה של תורת העצפנות.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:00:26.640",
-            "offset_end": "0:00:30.760",
-            "text": "‫יש לנו פה את יולוס קיסר, ‫של שמו נקרצופן קיסר, שתראה אותו.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:00:30.840",
-            "offset_end": "0:00:36.000",
-            "text": "‫יש לנו את פומרי, המלכה הסקוטית, ‫שכיפחה את חייה",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:00:37.080",
-            "offset_end": "0:00:40.000",
-            "text": "‫כתוצאה מתגלית קריפטולוגית.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:00:40.160",
-            "offset_end": "0:00:47.320",
-            "text": "‫יש לנו כאן את אלן תיורינג, ‫שלא צריך�בר עליו יותר מדי, כדי כולם מכירים את השם,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:00:47.320",
-            "offset_end": "0:00:52.040",
-            "text": "ויש לנו פה את השלישייה של RSA, שמיר, רי ווסט ועדלמן,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:00:52.040",
-            "offset_end": "0:01:00.000",
-            "text": "שהם אלה שהמציאו את הקוד RSA, שהוא קוד פורץ דרך בהיסטוריה של תורת העצבנות.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:01:01.000",
-            "offset_end": "0:01:30.520",
-            "text": "אז שוב, מה זה קריפטולוגיה או קריפטוגרפיה? מי בנית קריפטו זה סודי, גרפיה זאת כתיבה, זאת תורה שעוסקת בפיתוח אלגוריתמים לצורך גם הסתרת תוכן של מידע, גם בדיקת מקוריות או זהות של מי ששולח את הידיעה, וכיוון ההפוך, כל השיטות לגילוי תוכן של ידיעות מוצפנות, או פריצה של צופנים,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:01:30.520",
-            "offset_end": "0:01:36.760",
-            "text": "והכיוון ההפוך של בדיקת נכונות או מקוריות של ידיעה, כל השיטות לזיוף מקוריות של ידיעה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:01:36.760",
-            "offset_end": "0:01:43.120",
-            "text": "לא בגלל שאנחנו רוצים לזייף או לפרוץ, אלא בגלל שאנחנו רוצים להתגונן מפני הדברים האלה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:01:43.120",
-            "offset_end": "0:01:50.760",
-            "text": "אז כמו שבהגנת סייבר צריך ללמוד את כל השיטות של ההאקרים כדי שאפשר יהיה להתגונן, אז גם כאן אותו דבר.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:01:51.160",
-            "offset_end": "0:01:52.480",
-            "text": "אז כמה מושגי יסוד.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:01:52.480",
-            "offset_end": "0:01:59.640",
-            "text": "פליין טקסט זה אותו מסמך מקורי שאנחנו רוצים להצפין, זה המסמך הגלוי שאותו רוצים להצפין,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:01:59.640",
-            "offset_end": "0:02:04.960",
-            "text": "וסייפר טקסט, הכתב נסתר, זה המסמך אחרי שהוא עוצפן.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:02:04.960",
-            "offset_end": "0:02:11.000",
-            "text": "סייפר או קוד זה צופן, זה אלגוריתם להפיכת פליינטקסט לסייפר טקסט,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:02:11.000",
-            "offset_end": "0:02:18.760",
-            "text": "וקי, מפתח, זה אותו מידע קריטי וסודי שמשמש את הצופן.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:02:18.760",
-            "offset_end": "0:02:25.560",
-            "text": "ורק מי שיודע את המפתח יכול לפענח בצורה פשוטה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:02:30.080",
-            "offset_end": "0:02:37.120",
-            "text": "עצפנה, אינקריפטיון, זה תהליך של הפיכת פליינטקסט לסייפרטקסט, דקריפטיון זה התהליך ההפוך, שבו אנחנו הופכים את הסייפרטקסט לפליינטקסט בעזרת המפתח.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:02:37.480",
-            "offset_end": "0:02:40.480",
-            "text": "קריפטואנליזה זה כאשר אנחנו עושים את זה בלי המפתח,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:02:40.480",
-            "offset_end": "0:02:44.360",
-            "text": "זאת אומרת, כאשר אנחנו רוצים לפרוץ את זה ואנחנו לא יודעים את המפתח,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:02:44.360",
-            "offset_end": "0:02:48.840",
-            "text": "והאטק או התקפה זה הפעולה של הפריצה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:02:48.840",
-            "offset_end": "0:02:52.440",
-            "text": "זאת אומרת, הקריפטואנליזה, השיטות של הקריפטואנליזה, הן כולם התקפות.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:02:54.440",
-            "offset_end": "0:03:01.940",
-            "text": "כשאנחנו מדברים על התקפות, אז ראוי להיות מודע לפחות לשיטת התקפה הכי פשוטה,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:03:01.940",
-            "offset_end": "0:03:06.700",
-            "text": "שהיא נקראת brute force, או בעברית חיפוש מפתחות ממצה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:03:06.700",
-            "offset_end": "0:03:11.200",
-            "text": "זה פשוט מנסים את כל המפתחות האפשריים עד שמגלים את המפתח הנכון.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:03:14.200",
-            "offset_end": "0:03:16.300",
-            "text": "מה זאת מערכת צפינה?",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:03:16.800",
-            "offset_end": "0:03:19.600",
-            "text": "כן, אז מערכת צפינה הוא מערכת קריפטוגרפית,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:03:19.600",
-            "offset_end": "0:03:23.100",
-            "text": "כאשר מדובר על צופן, בעצם מדברים על מערכת קריפטוגרפית.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:03:23.100",
-            "offset_end": "0:03:26.440",
-            "text": "אנחנו מדברים פה על שלושה מרחבים או קבוצות.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:03:26.920",
-            "offset_end": "0:03:31.520",
-            "text": "קבוצת כל הפליינטקסטים האפשריים, כל המסמכים או כל היחידות,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:03:31.520",
-            "offset_end": "0:03:36.720",
-            "text": "יותר נכון להגיד כל יחידות פליינטקסט, כי גם את הפליינטקסט או המסמך אפשר לחלק ליחידות,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:03:36.720",
-            "offset_end": "0:03:42.320",
-            "text": "למשל כמו אותיות או מילים, מה שאנחנו בוחרים, או בלוקים שמוגדרים מראש.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:03:42.880",
-            "offset_end": "0:03:46.200",
-            "text": "אז קבוצת כל הפליינטקסטים האפשריים זה אם,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:03:46.200",
-            "offset_end": "0:03:50.700",
-            "text": "קבוצת כל הסייפרטקסטים האפשריים וקבוצת כל המפתחות האפשריים.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:03:50.700",
-            "offset_end": "0:04:02.000",
-            "text": "אז וצופן תמיד מוגדר מעל איזושהי מערכת צפינה או מעל איזושהי שלישייה כזאת של פליינטקסטים, סייפרטקסטים ומפתחות,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:04:02.000",
-            "offset_end": "0:04:11.000",
-            "text": "אז הוא זוג של אלגוריתמים, אלגוריתם אחד להצפנה E זה אלגוריתם הצפנה, הוא לוקח מפתח ומסמך ומקבל סייפר טקסט,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:04:11.000",
-            "offset_end": "0:04:27.200",
-            "text": "ואלגוריתם פענוח לוקח, מקבל מפתח וסייפר טקסט ונותן לנו מסמך גלוי. וכמובן צריך ששתי הפונקציות האלה יהיו אופחיות, זאת אומרת, אם אני מצפין את מסמך M בעזרת מפתח K,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:04:27.200",
-            "offset_end": "0:04:33.800",
-            "text": "ואחר כך מפענח בעזרת אותו מפתח K, אני אמור לקבל חזרה את המסמך שאיתו התחלתי.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:04:34.800",
-            "offset_end": "0:04:37.200",
-            "text": "כן? והתנאי הזה נקרא תנאי העקביות.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:04:38.800",
-            "offset_end": "0:04:51.000",
-            "text": "עכשיו, כשאני מדבר על צופן בתור אלגוריתם יעיל, אני מתכוון, בדרך כלל אנחנו מתכוונים שהאלגוריתם העצפנה והפי התנוח הם אלגוריתמים יעילים,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:04:51.000",
-            "offset_end": "0:04:57.000",
-            "text": "זאת אומרת שהסיבוכיות שלהם היא פולינומיאלית באורך הקלט.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:04:57.000",
-            "offset_end": "0:05:10.440",
-            "text": "ופולינומיאלית אנחנו מתכוונים בריבוע לכל עתר בשלישית. אוקיי. אז אלה מושגי יסוד, ועכשיו אנחנו נשתמש במושגים, אנחנו נראה איך המושגים האלה",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:05:10.440",
-            "offset_end": "0:05:16.320",
-            "text": "תופסים לאורך ההיסטוריה, או בצופנים שהומצאו לאורך ההיסטוריה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:05:16.320",
-            "offset_end": "0:05:20.400",
-            "text": "הצופן הראשון שאנחנו רוצים לדבר הוא צופן מונואלפבטי.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:05:20.400",
-            "offset_end": "0:05:29.000",
-            "text": "צופן מונואלפבטי הוא צופן שאם יש מפתח נתון, אז תמיד אותה יחידת פלנטקסט תוצפן אותו דבר. אנחנו נראה דוגמה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:05:29.000",
-            "offset_end": "0:05:50.600",
-            "text": "אז הצופן הראשון הוא צופן קיסר, זה הצופן העתיק ביותר שידוע, הוא אומר, קיסר ולילוס קיסר, האימפריה הרומית, הם כבר השתמשו באותיות לטיניות באותה תקופה, הוא אומר ככה, אם אני רוצה להצפין מסמך, מן הסתם הוא מורכב מאותיות, כן, יש בו טקסט, אז כל אות הוצפן על ידי אות אחרת.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:05:50.600",
-            "offset_end": "0:06:10.600",
-            "text": "אבל עם חוקיות קבועה, זאת אומרת, עם איזושהי הזזה ציקלית, זאת אומרת, למשל, הזזה יכולה להיות בשלוש, אז במקום A, אנחנו את A מצפינים ב-D, ואז את B ב-E, ו-C ב-F, וכן הלאה, ובסוף, כשאנחנו מגיעים לאותיות אחרונות, אז X, Y, Z כבר מוצפנות ב-A, B ו-C.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:06:10.600",
-            "offset_end": "0:06:16.600",
-            "text": "אוקיי? אז, והאזזה יכולה להיות ב-3, ב-4, ב-5,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:06:16.600",
-            "offset_end": "0:06:28.500",
-            "text": "ולמעשה יש 25 אפשרויות לאזזה, כן, יש גם את האזזה שלא מזיזים כלום, אבל את זה אין טעם, אז יש 25 אפשרויות להזזה כזאת.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:06:28.500",
-            "offset_end": "0:06:37.400",
-            "text": "אם אני רוצה להדגים את זה במונחים שכבר ראינו, אז אם אני רוצה לעשות את זה בצורה יותר חישובית,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:06:37.400",
-            "offset_end": "0:06:45.200",
-            "text": "אז במקום כל אות, לכל אות אנחנו מתאימים מספר, A זה 0, B זה 1 וכן הלאה, עד Z שזה 25.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:06:45.400",
-            "offset_end": "0:06:50.700",
-            "text": "ואז למעשה הפליין טקסטים והסייפר טקסטים וגם המפתחות,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:06:50.900",
-            "offset_end": "0:06:54.700",
-            "text": "זו אותה קבוצה, זה מספרים מ-0 עד 25.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:06:55.400",
-            "offset_end": "0:06:59.600",
-            "text": "כן, אני מצפין אותיות, אז אני מצפין מספרים בין 0 ל-25,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:06:59.800",
-            "offset_end": "0:07:04.900",
-            "text": "אני מקבל גם מספרים בין 0 ל-25, וגם המפתח הוא מספר בין 0 ל-25.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:07:08.500",
-            "offset_end": "0:07:14.700",
-            "text": "אז מהי פעולת העצפנה? אנחנו מחברים לכל plain text x את המפתח, ואנחנו עושים את זה מודולו 26,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:07:14.700",
-            "offset_end": "0:07:22.500",
-            "text": "כדי שבסוף זה יהיה ציקלי, כדי ש-x, y, האותיות האחרונות כבר יוצפנו על ידי אותיות ראשונות באלף ב',",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:07:22.500",
-            "offset_end": "0:07:25.300",
-            "text": "מהו הפיענוח?",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:07:28.700",
-            "offset_end": "0:07:32.700",
-            "text": "החזרה את המפתח, ואז חוזרים, חזרה ל-X המקורי.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:07:36.600",
-            "offset_end": "0:07:39.900",
-            "text": "ועכשיו שתי שאלות, איזה יתרון יש לצופן קיסר, ואיזה חיסרון יש לצופן קיסר? אז תחשבו קצת.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:07:41.600",
-            "offset_end": "0:08:09.840",
-            "text": "אולי כדאי להתחיל דווקא מהחיסרון, כמו שאמרתי קודם, כן? ישות 25 מפתחות אפשריים.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:08:11.360",
-            "offset_end": "0:08:14.880",
-            "text": "בכל זאת, אי אפשר להתעלם מהיתרון של צופן קיסר,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:08:14.880",
-            "offset_end": "0:08:21.080",
-            "text": "וזה שהוא קודם כול צופן מאוד פשוט, ושנית, המפתח הוא מאוד קטן, קל לזכור אותו.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:08:21.080",
-            "offset_end": "0:08:24.720",
-            "text": "זאת אומרת, זה שיש מעט מפתחות אפשריים, גם אומר שהמפתחות הן קטנים,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:08:24.720",
-            "offset_end": "0:08:28.120",
-            "text": "ושקל לזכור אותם זאת אומרת, זה שיש מעט מפתחות אפשריים, גם אומר שהמפתחות הן קטנים, וקל לזכור אותן, שזה גם יתרון.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:08:29.480",
-            "offset_end": "0:08:36.780",
-            "text": "אבל כמובן צופן קיסר הוא צופן מאוד לא יעיל, לא רק היום, אלא גם לפני אלפיים שנה כבר אפשר היה בקלות לפרוץ אותו,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:08:36.780",
-            "offset_end": "0:08:53.000",
-            "text": "ולכן היו צריכים משהו יותר טוב, ולכן הרעיון הבא הוא מתבסס על צופן קיסר, אבל הוא מארחיב אותו. זאת אומרת, אם קודם בצופן קיסר לקחנו את האותיות ועשינו עליהן תמורה, אבל תמורה מאוד מוגדרת של אותה הזזה של כל האותיות,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:08:53.000",
-            "offset_end": "0:09:17.300",
-            "text": "צופן הזזה, הצבא אומר, לא, נבחר תמורה כלשהי, כן? יש לי 26 אותיות, בואו נעשה תמורה לאותיות האלה, כן? למשל, אנחנו יכולים לראות כאן תמורה כזאת, כן? האותיות AB וC. האותיות כל אחת מוחלפת על ידי אות אחרת, אוקיי? כל אחת מוחלפת על ידי אות אחרת, זהו.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:09:17.300",
-            "offset_end": "0:09:26.080",
-            "text": "אז אם יש לי ידיעה מסוימת, ואני מחליף לפי הכלל הזה, אני מקבל איזושהי תוצאה, ואני מתעלם מרווחים וסימני פיסוק,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:09:26.080",
-            "offset_end": "0:09:29.480",
-            "text": "אז אני מקבל משהו כמובן מאוד לא קרי.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:09:29.480",
-            "offset_end": "0:09:36.440",
-            "text": "ואם אני, דיברנו על צופן קיסר קודם, שהיו 25 מפתחות אפשריים,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:09:36.440",
-            "offset_end": "0:09:40.000",
-            "text": "אז כאן כבר יש לנו הרבה יותר מפתחות אפשריים,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:09:40.000",
-            "offset_end": "0:09:49.860",
-            "text": "יש לנו 26 הצרת מפתחות אפשריים, אם מדובר באלף בית הלטין, אוקיי?",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:09:49.860",
-            "offset_end": "0:09:54.760",
-            "text": "העצפנה היא פשוט הפעלה של תמורה, של התמורה על כל אות,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:09:54.760",
-            "offset_end": "0:09:59.380",
-            "text": "והפיענוח הוא הפעלה של התמורה ההפוכה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:09:59.380",
-            "offset_end": "0:10:05.160",
-            "text": "וכשאני כותב סיגמה מינוס 1, אז אנחנו בעצם רואים תכונה שלא אמרתי קודם,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:10:05.160",
-            "offset_end": "0:10:10.360",
-            "text": "אבל חייבת להיות פונקציית עצפנה, ושהיא צריכה להיות פונקציה הפיכה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:10:10.360",
-            "offset_end": "0:10:14.480",
-            "text": "זאת אומרת, פונקציית עצפנה צריכה להיות פונקציה חד-חד ערכית ועל.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:10:15.600",
-            "offset_end": "0:10:21.640",
-            "text": "אוקיי? כדי שיהיה לה גם את הפונקציית הפיענוח, היא הפונקציה ההפוכה שלה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:10:24.360",
-            "offset_end": "0:10:33.000",
-            "text": "אז שוב, אז מה היתרון בולט של צופן הצבא? יש הרבה מפתחות, זאת אומרת שבברוט פורס ייקח לנו המון זמן לנסות את כל המפתחות.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:10:33.800",
-            "offset_end": "0:10:38.800",
-            "text": "חיסרון בולט של צופן הצבא? אז קודם כל, חיסרון אחד כבר ראינו קודם,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:10:39.800",
-            "offset_end": "0:10:45.160",
-            "text": "והוא החיסרון שהמפתח הוא תמורה, אוקיי?",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:10:45.400",
-            "offset_end": "0:10:50.480",
-            "text": "המפתח הוא תמורה, ותמורה זה משהו ארוך, קשה לזכור אותו, צריך לרשום אותו איפשהו,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:10:50.480",
-            "offset_end": "0:10:52.840",
-            "text": "צריך לשמור את הפתק הזה שעליו זה רשום.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:10:54.640",
-            "offset_end": "0:10:58.440",
-            "text": "אבל יש לזה עוד חיסרון מאוד בולט, לצורך הנה זה,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:10:59.040",
-            "offset_end": "0:11:06.000",
-            "text": "והוא העובדה שאפשר לעשות ניתוח שכיחויות לסייפרטקס.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:11:06.000",
-            "offset_end": "0:11:13.080",
-            "text": "נניח שיש בידי סייפרטקס, אז אני עכשיו בודק אותו ומתחיל לספור כמה פעמים מופיעה קולעות,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:11:13.080",
-            "offset_end": "0:11:17.880",
-            "text": "ואז אני רואה שאותיות מסוימות מופיעות יותר פעמים ואותיות מסוימות מופיעות פחות פעמים,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:11:17.880",
-            "offset_end": "0:11:29.160",
-            "text": "ואז אני יודע שהאותיות שמופיעות יותר פעמים הן מן הסתם מצפינות את האותיות שמופיעות יותר פעמים באלף בית הלטיני, אם מדובר באלף בית הלטיני.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:11:30.400",
-            "offset_end": "0:11:36.160",
-            "text": "ואותיות שמפיעות מעט הן כנראה מצפינות אותיות שהן יותר נדירות באלף בית הלטיני,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:11:36.480",
-            "offset_end": "0:11:44.160",
-            "text": "ואם יש לי מספיק סייפר טקסט ואני עושה, ויש לי מספיק זמן לשבת ולנתח, אני בסופו של דבר יכול לפרוץ את הצופן הזה,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:11:44.440",
-            "offset_end": "0:11:49.520",
-            "text": "ועל זה כבר עלו המתמטיקאים הפרסים במאה ה-9 לפני הספירה,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:11:49.520",
-            "offset_end": "0:11:53.880",
-            "text": "סליחה, במאה ה-9 לספירה, זאת אומרת, בערך לפני 1,200 שנה,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:11:53.880",
-            "offset_end": "0:11:59.160",
-            "text": "ויש פה מסמך שמתעד את הרעיון הזה מאותה תקופה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:11:59.160",
-            "offset_end": "0:12:05.400",
-            "text": "כדאי לציין שאת זה כבר ידעו המתמ�יקאים הפרסים במאה התשיעית, כמו שאמרתי,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:12:05.400",
-            "offset_end": "0:12:08.920",
-            "text": "אבל באירופה לקח עוד איזה 500 שנה לעלות על הרעיון.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:12:08.920",
-            "offset_end": "0:12:15.000",
-            "text": "אנחנו רואים פה את השכיחויות של אותיות באלף בית הלטיני, כן?",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:12:15.000",
-            "offset_end": "0:12:19.000",
-            "text": "אנחנו רואים שהאות E היא הכי נפוצה, אחריה האות T וכן הלאה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:12:19.000",
-            "offset_end": "0:12:25.000",
-            "text": "זאת אומרת שאם יש לי סייפר טקסט והאות, נאמר, איקס, היא הכי נפוצה שם,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:12:25.000",
-            "offset_end": "0:12:28.320",
-            "text": "יש סיכוי טוב שהאות איקס היא בעצם זאת שמצפינה את האותי.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:12:30.640",
-            "offset_end": "0:12:35.160",
-            "text": "כמו שאמרתי, באירופה עלו על הרעיון רק איזה 500 שנה אחרי זה.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:12:37.240",
-            "offset_end": "0:12:40.920",
-            "text": "סיפור מפורסם, ואני אעשה את זה בקצרה,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:12:41.960",
-            "offset_end": "0:13:06.600",
-            "text": "זה הסיפור של מרי, המלכה הסקוטית, שהייתה טוענת לכתר באנגליה, ובאותה תקופה שלטה אליזבת הראשונה. אליזבת הרגישה מאוימת מצד מרי סטיוט, ולכן קלעה אותה, בגיל 18 הכניסה אותה לכלא, ושם היא חיה בכלא, והיא הייתה מתכתבת עם אנשים. חלק מההתכתבויות שלה היו באמצעות צופן, והצופן מסתבר שזה היה צופן הצבא,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:13:06.600",
-            "offset_end": "0:13:16.120",
-            "text": "והמתמטיקאים או המדענים בחצרה של אליזבת הראשונה ניתחו את הצופנים האלה,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:13:16.120",
-            "offset_end": "0:13:22.240",
-            "text": "ובסופו של דבר הצליחו לפענע חלק מהצופנים האלה באמצעות ניתוח שריכויות,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:13:22.240",
-            "offset_end": "0:13:27.720",
-            "text": "ואז גילו שמרי ביחד עם אנשים שהיו מחוץ לכלא,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:13:27.720",
-            "offset_end": "0:13:36.000",
-            "text": "קשרה קשר להדיח את אליזבת, מבחינת אליזבת זאת הייתה הוכחה לזה שמרי חותרת דרכה,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:13:36.000",
-            "offset_end": "0:13:50.760",
-            "text": "והיא הוציאה אותה להורג, ויש לנו פה ציור שמדגים את זה.אז נשאלת השאלה, היה לנו צופן כל כך טוב, עם מפתחות כל כך גדולים,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:13:50.760",
-            "offset_end": "0:13:58.360",
-            "text": "שניתוח של brute force הוא לא יעיל, אבל יש שיטה אחרת לפרוט,",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:13:58.360",
-            "offset_end": "0:14:05.400",
-            "text": "והשאלה היא, האם יש אפשרות לצופן שהוא עמיד בפני ניתוח שכיחויות.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:14:05.400",
-            "offset_end": "0:14:12.080",
-            "text": "זאת אומרת שלא יהיו שם הבדלים גדולים בשכיחויות בתוך הסייפר-טקסט.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        },
-        {
-            "offset_start": "0:14:12.080",
-            "offset_end": "0:14:16.680",
-            "text": "והתשובה היא כן, ועל זה נדבר בסרטון הבא.",
-            "lang": "he",
-            "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
-            "course_name": "cryptography",
-            "media_type": "audio"
-        }
-    ]
+  "data": [
+    {
+      "offset_start": "0:00:00.520",
+      "offset_end": "0:00:01.520",
+      "text": "שלום.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:00:01.840",
+      "offset_end": "0:00:06.240",
+      "text": "היום זה שיעור הקדמה, או שיעור מבוא לתחום הקריפטולוגיה,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:00:06.240",
+      "offset_end": "0:00:11.320",
+      "text": "נראה סקירה היסטורית ונלמד כמה מושגי יסוד בקריפטולוגיה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:00:15.000",
+      "offset_end": "0:00:25.640",
+      "text": "אתם רואים פה בפתיחה כמה דמויות מרכזיות מההיסטוריה של תורת העצפנות.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:00:26.640",
+      "offset_end": "0:00:30.760",
+      "text": "‫יש לנו פה את יולוס קיסר, ‫של שמו נקרצופן קיסר, שתראה אותו.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:00:30.840",
+      "offset_end": "0:00:36.000",
+      "text": "‫יש לנו את פומרי, המלכה הסקוטית, ‫שכיפחה את חייה",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:00:37.080",
+      "offset_end": "0:00:40.000",
+      "text": "‫כתוצאה מתגלית קריפטולוגית.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:00:40.160",
+      "offset_end": "0:00:47.320",
+      "text": "‫יש לנו כאן את אלן תיורינג, ‫שלא צריך�בר עליו יותר מדי, כדי כולם מכירים את השם,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:00:47.320",
+      "offset_end": "0:00:52.040",
+      "text": "ויש לנו פה את השלישייה של RSA, שמיר, רי ווסט ועדלמן,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:00:52.040",
+      "offset_end": "0:01:00.000",
+      "text": "שהם אלה שהמציאו את הקוד RSA, שהוא קוד פורץ דרך בהיסטוריה של תורת העצבנות.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:01:01.000",
+      "offset_end": "0:01:30.520",
+      "text": "אז שוב, מה זה קריפטולוגיה או קריפטוגרפיה? מי בנית קריפטו זה סודי, גרפיה זאת כתיבה, זאת תורה שעוסקת בפיתוח אלגוריתמים לצורך גם הסתרת תוכן של מידע, גם בדיקת מקוריות או זהות של מי ששולח את הידיעה, וכיוון ההפוך, כל השיטות לגילוי תוכן של ידיעות מוצפנות, או פריצה של צופנים,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:01:30.520",
+      "offset_end": "0:01:36.760",
+      "text": "והכיוון ההפוך של בדיקת נכונות או מקוריות של ידיעה, כל השיטות לזיוף מקוריות של ידיעה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:01:36.760",
+      "offset_end": "0:01:43.120",
+      "text": "לא בגלל שאנחנו רוצים לזייף או לפרוץ, אלא בגלל שאנחנו רוצים להתגונן מפני הדברים האלה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:01:43.120",
+      "offset_end": "0:01:50.760",
+      "text": "אז כמו שבהגנת סייבר צריך ללמוד את כל השיטות של ההאקרים כדי שאפשר יהיה להתגונן, אז גם כאן אותו דבר.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:01:51.160",
+      "offset_end": "0:01:52.480",
+      "text": "אז כמה מושגי יסוד.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:01:52.480",
+      "offset_end": "0:01:59.640",
+      "text": "פליין טקסט זה אותו מסמך מקורי שאנחנו רוצים להצפין, זה המסמך הגלוי שאותו רוצים להצפין,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:01:59.640",
+      "offset_end": "0:02:04.960",
+      "text": "וסייפר טקסט, הכתב נסתר, זה המסמך אחרי שהוא עוצפן.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:02:04.960",
+      "offset_end": "0:02:11.000",
+      "text": "סייפר או קוד זה צופן, זה אלגוריתם להפיכת פליינטקסט לסייפר טקסט,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:02:11.000",
+      "offset_end": "0:02:18.760",
+      "text": "וקי, מפתח, זה אותו מידע קריטי וסודי שמשמש את הצופן.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:02:18.760",
+      "offset_end": "0:02:25.560",
+      "text": "ורק מי שיודע את המפתח יכול לפענח בצורה פשוטה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:02:30.080",
+      "offset_end": "0:02:37.120",
+      "text": "עצפנה, אינקריפטיון, זה תהליך של הפיכת פליינטקסט לסייפרטקסט, דקריפטיון זה התהליך ההפוך, שבו אנחנו הופכים את הסייפרטקסט לפליינטקסט בעזרת המפתח.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:02:37.480",
+      "offset_end": "0:02:40.480",
+      "text": "קריפטואנליזה זה כאשר אנחנו עושים את זה בלי המפתח,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:02:40.480",
+      "offset_end": "0:02:44.360",
+      "text": "זאת אומרת, כאשר אנחנו רוצים לפרוץ את זה ואנחנו לא יודעים את המפתח,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:02:44.360",
+      "offset_end": "0:02:48.840",
+      "text": "והאטק או התקפה זה הפעולה של הפריצה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:02:48.840",
+      "offset_end": "0:02:52.440",
+      "text": "זאת אומרת, הקריפטואנליזה, השיטות של הקריפטואנליזה, הן כולם התקפות.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:02:54.440",
+      "offset_end": "0:03:01.940",
+      "text": "כשאנחנו מדברים על התקפות, אז ראוי להיות מודע לפחות לשיטת התקפה הכי פשוטה,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:03:01.940",
+      "offset_end": "0:03:06.700",
+      "text": "שהיא נקראת brute force, או בעברית חיפוש מפתחות ממצה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:03:06.700",
+      "offset_end": "0:03:11.200",
+      "text": "זה פשוט מנסים את כל המפתחות האפשריים עד שמגלים את המפתח הנכון.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:03:14.200",
+      "offset_end": "0:03:16.300",
+      "text": "מה זאת מערכת צפינה?",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:03:16.800",
+      "offset_end": "0:03:19.600",
+      "text": "כן, אז מערכת צפינה הוא מערכת קריפטוגרפית,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:03:19.600",
+      "offset_end": "0:03:23.100",
+      "text": "כאשר מדובר על צופן, בעצם מדברים על מערכת קריפטוגרפית.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:03:23.100",
+      "offset_end": "0:03:26.440",
+      "text": "אנחנו מדברים פה על שלושה מרחבים או קבוצות.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:03:26.920",
+      "offset_end": "0:03:31.520",
+      "text": "קבוצת כל הפליינטקסטים האפשריים, כל המסמכים או כל היחידות,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:03:31.520",
+      "offset_end": "0:03:36.720",
+      "text": "יותר נכון להגיד כל יחידות פליינטקסט, כי גם את הפליינטקסט או המסמך אפשר לחלק ליחידות,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:03:36.720",
+      "offset_end": "0:03:42.320",
+      "text": "למשל כמו אותיות או מילים, מה שאנחנו בוחרים, או בלוקים שמוגדרים מראש.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:03:42.880",
+      "offset_end": "0:03:46.200",
+      "text": "אז קבוצת כל הפליינטקסטים האפשריים זה אם,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:03:46.200",
+      "offset_end": "0:03:50.700",
+      "text": "קבוצת כל הסייפרטקסטים האפשריים וקבוצת כל המפתחות האפשריים.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:03:50.700",
+      "offset_end": "0:04:02.000",
+      "text": "אז וצופן תמיד מוגדר מעל איזושהי מערכת צפינה או מעל איזושהי שלישייה כזאת של פליינטקסטים, סייפרטקסטים ומפתחות,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:04:02.000",
+      "offset_end": "0:04:11.000",
+      "text": "אז הוא זוג של אלגוריתמים, אלגוריתם אחד להצפנה E זה אלגוריתם הצפנה, הוא לוקח מפתח ומסמך ומקבל סייפר טקסט,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:04:11.000",
+      "offset_end": "0:04:27.200",
+      "text": "ואלגוריתם פענוח לוקח, מקבל מפתח וסייפר טקסט ונותן לנו מסמך גלוי. וכמובן צריך ששתי הפונקציות האלה יהיו אופחיות, זאת אומרת, אם אני מצפין את מסמך M בעזרת מפתח K,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:04:27.200",
+      "offset_end": "0:04:33.800",
+      "text": "ואחר כך מפענח בעזרת אותו מפתח K, אני אמור לקבל חזרה את המסמך שאיתו התחלתי.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:04:34.800",
+      "offset_end": "0:04:37.200",
+      "text": "כן? והתנאי הזה נקרא תנאי העקביות.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:04:38.800",
+      "offset_end": "0:04:51.000",
+      "text": "עכשיו, כשאני מדבר על צופן בתור אלגוריתם יעיל, אני מתכוון, בדרך כלל אנחנו מתכוונים שהאלגוריתם העצפנה והפי התנוח הם אלגוריתמים יעילים,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:04:51.000",
+      "offset_end": "0:04:57.000",
+      "text": "זאת אומרת שהסיבוכיות שלהם היא פולינומיאלית באורך הקלט.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:04:57.000",
+      "offset_end": "0:05:10.440",
+      "text": "ופולינומיאלית אנחנו מתכוונים בריבוע לכל עתר בשלישית. אוקיי. אז אלה מושגי יסוד, ועכשיו אנחנו נשתמש במושגים, אנחנו נראה איך המושגים האלה",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:05:10.440",
+      "offset_end": "0:05:16.320",
+      "text": "תופסים לאורך ההיסטוריה, או בצופנים שהומצאו לאורך ההיסטוריה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:05:16.320",
+      "offset_end": "0:05:20.400",
+      "text": "הצופן הראשון שאנחנו רוצים לדבר הוא צופן מונואלפבטי.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:05:20.400",
+      "offset_end": "0:05:29.000",
+      "text": "צופן מונואלפבטי הוא צופן שאם יש מפתח נתון, אז תמיד אותה יחידת פלנטקסט תוצפן אותו דבר. אנחנו נראה דוגמה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:05:29.000",
+      "offset_end": "0:05:50.600",
+      "text": "אז הצופן הראשון הוא צופן קיסר, זה הצופן העתיק ביותר שידוע, הוא אומר, קיסר ולילוס קיסר, האימפריה הרומית, הם כבר השתמשו באותיות לטיניות באותה תקופה, הוא אומר ככה, אם אני רוצה להצפין מסמך, מן הסתם הוא מורכב מאותיות, כן, יש בו טקסט, אז כל אות הוצפן על ידי אות אחרת.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:05:50.600",
+      "offset_end": "0:06:10.600",
+      "text": "אבל עם חוקיות קבועה, זאת אומרת, עם איזושהי הזזה ציקלית, זאת אומרת, למשל, הזזה יכולה להיות בשלוש, אז במקום A, אנחנו את A מצפינים ב-D, ואז את B ב-E, ו-C ב-F, וכן הלאה, ובסוף, כשאנחנו מגיעים לאותיות אחרונות, אז X, Y, Z כבר מוצפנות ב-A, B ו-C.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:06:10.600",
+      "offset_end": "0:06:16.600",
+      "text": "אוקיי? אז, והאזזה יכולה להיות ב-3, ב-4, ב-5,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:06:16.600",
+      "offset_end": "0:06:28.500",
+      "text": "ולמעשה יש 25 אפשרויות לאזזה, כן, יש גם את האזזה שלא מזיזים כלום, אבל את זה אין טעם, אז יש 25 אפשרויות להזזה כזאת.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:06:28.500",
+      "offset_end": "0:06:37.400",
+      "text": "אם אני רוצה להדגים את זה במונחים שכבר ראינו, אז אם אני רוצה לעשות את זה בצורה יותר חישובית,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:06:37.400",
+      "offset_end": "0:06:45.200",
+      "text": "אז במקום כל אות, לכל אות אנחנו מתאימים מספר, A זה 0, B זה 1 וכן הלאה, עד Z שזה 25.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:06:45.400",
+      "offset_end": "0:06:50.700",
+      "text": "ואז למעשה הפליין טקסטים והסייפר טקסטים וגם המפתחות,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:06:50.900",
+      "offset_end": "0:06:54.700",
+      "text": "זו אותה קבוצה, זה מספרים מ-0 עד 25.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:06:55.400",
+      "offset_end": "0:06:59.600",
+      "text": "כן, אני מצפין אותיות, אז אני מצפין מספרים בין 0 ל-25,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:06:59.800",
+      "offset_end": "0:07:04.900",
+      "text": "אני מקבל גם מספרים בין 0 ל-25, וגם המפתח הוא מספר בין 0 ל-25.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:07:08.500",
+      "offset_end": "0:07:14.700",
+      "text": "אז מהי פעולת העצפנה? אנחנו מחברים לכל plain text x את המפתח, ואנחנו עושים את זה מודולו 26,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:07:14.700",
+      "offset_end": "0:07:22.500",
+      "text": "כדי שבסוף זה יהיה ציקלי, כדי ש-x, y, האותיות האחרונות כבר יוצפנו על ידי אותיות ראשונות באלף ב',",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:07:22.500",
+      "offset_end": "0:07:25.300",
+      "text": "מהו הפיענוח?",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:07:28.700",
+      "offset_end": "0:07:32.700",
+      "text": "החזרה את המפתח, ואז חוזרים, חזרה ל-X המקורי.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:07:36.600",
+      "offset_end": "0:07:39.900",
+      "text": "ועכשיו שתי שאלות, איזה יתרון יש לצופן קיסר, ואיזה חיסרון יש לצופן קיסר? אז תחשבו קצת.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:07:41.600",
+      "offset_end": "0:08:09.840",
+      "text": "אולי כדאי להתחיל דווקא מהחיסרון, כמו שאמרתי קודם, כן? ישות 25 מפתחות אפשריים.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:08:11.360",
+      "offset_end": "0:08:14.880",
+      "text": "בכל זאת, אי אפשר להתעלם מהיתרון של צופן קיסר,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:08:14.880",
+      "offset_end": "0:08:21.080",
+      "text": "וזה שהוא קודם כול צופן מאוד פשוט, ושנית, המפתח הוא מאוד קטן, קל לזכור אותו.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:08:21.080",
+      "offset_end": "0:08:24.720",
+      "text": "זאת אומרת, זה שיש מעט מפתחות אפשריים, גם אומר שהמפתחות הן קטנים,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:08:24.720",
+      "offset_end": "0:08:28.120",
+      "text": "ושקל לזכור אותם זאת אומרת, זה שיש מעט מפתחות אפשריים, גם אומר שהמפתחות הן קטנים, וקל לזכור אותן, שזה גם יתרון.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:08:29.480",
+      "offset_end": "0:08:36.780",
+      "text": "אבל כמובן צופן קיסר הוא צופן מאוד לא יעיל, לא רק היום, אלא גם לפני אלפיים שנה כבר אפשר היה בקלות לפרוץ אותו,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:08:36.780",
+      "offset_end": "0:08:53.000",
+      "text": "ולכן היו צריכים משהו יותר טוב, ולכן הרעיון הבא הוא מתבסס על צופן קיסר, אבל הוא מארחיב אותו. זאת אומרת, אם קודם בצופן קיסר לקחנו את האותיות ועשינו עליהן תמורה, אבל תמורה מאוד מוגדרת של אותה הזזה של כל האותיות,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:08:53.000",
+      "offset_end": "0:09:17.300",
+      "text": "צופן הזזה, הצבא אומר, לא, נבחר תמורה כלשהי, כן? יש לי 26 אותיות, בואו נעשה תמורה לאותיות האלה, כן? למשל, אנחנו יכולים לראות כאן תמורה כזאת, כן? האותיות AB וC. האותיות כל אחת מוחלפת על ידי אות אחרת, אוקיי? כל אחת מוחלפת על ידי אות אחרת, זהו.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:09:17.300",
+      "offset_end": "0:09:26.080",
+      "text": "אז אם יש לי ידיעה מסוימת, ואני מחליף לפי הכלל הזה, אני מקבל איזושהי תוצאה, ואני מתעלם מרווחים וסימני פיסוק,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:09:26.080",
+      "offset_end": "0:09:29.480",
+      "text": "אז אני מקבל משהו כמובן מאוד לא קרי.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:09:29.480",
+      "offset_end": "0:09:36.440",
+      "text": "ואם אני, דיברנו על צופן קיסר קודם, שהיו 25 מפתחות אפשריים,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:09:36.440",
+      "offset_end": "0:09:40.000",
+      "text": "אז כאן כבר יש לנו הרבה יותר מפתחות אפשריים,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:09:40.000",
+      "offset_end": "0:09:49.860",
+      "text": "יש לנו 26 הצרת מפתחות אפשריים, אם מדובר באלף בית הלטין, אוקיי?",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:09:49.860",
+      "offset_end": "0:09:54.760",
+      "text": "העצפנה היא פשוט הפעלה של תמורה, של התמורה על כל אות,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:09:54.760",
+      "offset_end": "0:09:59.380",
+      "text": "והפיענוח הוא הפעלה של התמורה ההפוכה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:09:59.380",
+      "offset_end": "0:10:05.160",
+      "text": "וכשאני כותב סיגמה מינוס 1, אז אנחנו בעצם רואים תכונה שלא אמרתי קודם,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:10:05.160",
+      "offset_end": "0:10:10.360",
+      "text": "אבל חייבת להיות פונקציית עצפנה, ושהיא צריכה להיות פונקציה הפיכה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:10:10.360",
+      "offset_end": "0:10:14.480",
+      "text": "זאת אומרת, פונקציית עצפנה צריכה להיות פונקציה חד-חד ערכית ועל.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:10:15.600",
+      "offset_end": "0:10:21.640",
+      "text": "אוקיי? כדי שיהיה לה גם את הפונקציית הפיענוח, היא הפונקציה ההפוכה שלה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:10:24.360",
+      "offset_end": "0:10:33.000",
+      "text": "אז שוב, אז מה היתרון בולט של צופן הצבא? יש הרבה מפתחות, זאת אומרת שבברוט פורס ייקח לנו המון זמן לנסות את כל המפתחות.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:10:33.800",
+      "offset_end": "0:10:38.800",
+      "text": "חיסרון בולט של צופן הצבא? אז קודם כל, חיסרון אחד כבר ראינו קודם,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:10:39.800",
+      "offset_end": "0:10:45.160",
+      "text": "והוא החיסרון שהמפתח הוא תמורה, אוקיי?",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:10:45.400",
+      "offset_end": "0:10:50.480",
+      "text": "המפתח הוא תמורה, ותמורה זה משהו ארוך, קשה לזכור אותו, צריך לרשום אותו איפשהו,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:10:50.480",
+      "offset_end": "0:10:52.840",
+      "text": "צריך לשמור את הפתק הזה שעליו זה רשום.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:10:54.640",
+      "offset_end": "0:10:58.440",
+      "text": "אבל יש לזה עוד חיסרון מאוד בולט, לצורך הנה זה,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:10:59.040",
+      "offset_end": "0:11:06.000",
+      "text": "והוא העובדה שאפשר לעשות ניתוח שכיחויות לסייפרטקס.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:11:06.000",
+      "offset_end": "0:11:13.080",
+      "text": "נניח שיש בידי סייפרטקס, אז אני עכשיו בודק אותו ומתחיל לספור כמה פעמים מופיעה קולעות,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:11:13.080",
+      "offset_end": "0:11:17.880",
+      "text": "ואז אני רואה שאותיות מסוימות מופיעות יותר פעמים ואותיות מסוימות מופיעות פחות פעמים,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:11:17.880",
+      "offset_end": "0:11:29.160",
+      "text": "ואז אני יודע שהאותיות שמופיעות יותר פעמים הן מן הסתם מצפינות את האותיות שמופיעות יותר פעמים באלף בית הלטיני, אם מדובר באלף בית הלטיני.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:11:30.400",
+      "offset_end": "0:11:36.160",
+      "text": "ואותיות שמפיעות מעט הן כנראה מצפינות אותיות שהן יותר נדירות באלף בית הלטיני,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:11:36.480",
+      "offset_end": "0:11:44.160",
+      "text": "ואם יש לי מספיק סייפר טקסט ואני עושה, ויש לי מספיק זמן לשבת ולנתח, אני בסופו של דבר יכול לפרוץ את הצופן הזה,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:11:44.440",
+      "offset_end": "0:11:49.520",
+      "text": "ועל זה כבר עלו המתמטיקאים הפרסים במאה ה-9 לפני הספירה,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:11:49.520",
+      "offset_end": "0:11:53.880",
+      "text": "סליחה, במאה ה-9 לספירה, זאת אומרת, בערך לפני 1,200 שנה,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:11:53.880",
+      "offset_end": "0:11:59.160",
+      "text": "ויש פה מסמך שמתעד את הרעיון הזה מאותה תקופה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:11:59.160",
+      "offset_end": "0:12:05.400",
+      "text": "כדאי לציין שאת זה כבר ידעו המתמ�יקאים הפרסים במאה התשיעית, כמו שאמרתי,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:12:05.400",
+      "offset_end": "0:12:08.920",
+      "text": "אבל באירופה לקח עוד איזה 500 שנה לעלות על הרעיון.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:12:08.920",
+      "offset_end": "0:12:15.000",
+      "text": "אנחנו רואים פה את השכיחויות של אותיות באלף בית הלטיני, כן?",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:12:15.000",
+      "offset_end": "0:12:19.000",
+      "text": "אנחנו רואים שהאות E היא הכי נפוצה, אחריה האות T וכן הלאה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:12:19.000",
+      "offset_end": "0:12:25.000",
+      "text": "זאת אומרת שאם יש לי סייפר טקסט והאות, נאמר, איקס, היא הכי נפוצה שם,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:12:25.000",
+      "offset_end": "0:12:28.320",
+      "text": "יש סיכוי טוב שהאות איקס היא בעצם זאת שמצפינה את האותי.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:12:30.640",
+      "offset_end": "0:12:35.160",
+      "text": "כמו שאמרתי, באירופה עלו על הרעיון רק איזה 500 שנה אחרי זה.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:12:37.240",
+      "offset_end": "0:12:40.920",
+      "text": "סיפור מפורסם, ואני אעשה את זה בקצרה,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:12:41.960",
+      "offset_end": "0:13:06.600",
+      "text": "זה הסיפור של מרי, המלכה הסקוטית, שהייתה טוענת לכתר באנגליה, ובאותה תקופה שלטה אליזבת הראשונה. אליזבת הרגישה מאוימת מצד מרי סטיוט, ולכן קלעה אותה, בגיל 18 הכניסה אותה לכלא, ושם היא חיה בכלא, והיא הייתה מתכתבת עם אנשים. חלק מההתכתבויות שלה היו באמצעות צופן, והצופן מסתבר שזה היה צופן הצבא,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:13:06.600",
+      "offset_end": "0:13:16.120",
+      "text": "והמתמטיקאים או המדענים בחצרה של אליזבת הראשונה ניתחו את הצופנים האלה,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:13:16.120",
+      "offset_end": "0:13:22.240",
+      "text": "ובסופו של דבר הצליחו לפענע חלק מהצופנים האלה באמצעות ניתוח שריכויות,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:13:22.240",
+      "offset_end": "0:13:27.720",
+      "text": "ואז גילו שמרי ביחד עם אנשים שהיו מחוץ לכלא,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:13:27.720",
+      "offset_end": "0:13:36.000",
+      "text": "קשרה קשר להדיח את אליזבת, מבחינת אליזבת זאת הייתה הוכחה לזה שמרי חותרת דרכה,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:13:36.000",
+      "offset_end": "0:13:50.760",
+      "text": "והיא הוציאה אותה להורג, ויש לנו פה ציור שמדגים את זה.אז נשאלת השאלה, היה לנו צופן כל כך טוב, עם מפתחות כל כך גדולים,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:13:50.760",
+      "offset_end": "0:13:58.360",
+      "text": "שניתוח של brute force הוא לא יעיל, אבל יש שיטה אחרת לפרוט,",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:13:58.360",
+      "offset_end": "0:14:05.400",
+      "text": "והשאלה היא, האם יש אפשרות לצופן שהוא עמיד בפני ניתוח שכיחויות.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:14:05.400",
+      "offset_end": "0:14:12.080",
+      "text": "זאת אומרת שלא יהיו שם הבדלים גדולים בשכיחויות בתוך הסייפר-טקסט.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    },
+    {
+      "offset_start": "0:14:12.080",
+      "offset_end": "0:14:16.680",
+      "text": "והתשובה היא כן, ועל זה נדבר בסרטון הבא.",
+      "lang": "he",
+      "ref": "https://moodle.telhai.ac.il/mod/videostream/view.php?id=1151281",
+      "course_name": "cryptology",
+      "media_type": "audio"
+    }
+  ]
 }
