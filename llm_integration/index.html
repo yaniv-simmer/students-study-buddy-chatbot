@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>אינטראקציה עם צ'אטבוט</title>
+    <style>
+        body {
+            background-color: lightgreen;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            direction: rtl;
+            text-align: right;
+        }
+        #response {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f0fff0;
+            border: 1px solid #c0c0c0;
+            border-radius: 5px;
+        }
+        .low-score {
+            color: red;
+        }
+        .metadata {
+            display: none;
+            margin-top: 10px;
+        }
+        .show-button {
+            margin-top: 10px;
+            padding: 5px 10px;
+        }
+        a {
+            color: blue;
+        }
+        label {
+            font-weight: bold;
+        }
+        input[type="text"] {
+            width: 300px;
+            padding: 5px;
+            text-align: right;
+        }
+        input[type="submit"] {
+            padding: 5px 15px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>אם הייתה מקשיב בשיעור לא הייתה צריך לפנות לAI</h1>
+    <form id="questionForm">
+        <label for="question">שאלה:</label><br>
+        <input type="text" id="question" name="question" required><br><br>
+        <label for="course_name">שם הקורס:</label><br>
+        <input type="text" id="course_name" name="course_name" required><br><br>
+        <input type="submit" value="שלח">
+    </form>
+
+    <div id="response"></div>
+
+    <script>
+        document.getElementById('questionForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const question = document.getElementById('question').value;
+            const course_name = document.getElementById('course_name').value;
+
+            fetch(`/api/answer_question?question=${encodeURIComponent(question)}&course_name=${encodeURIComponent(course_name)}`)
+                .then(response => response.json())
+                .then(data => {
+                    const answer = data.answer;
+                    const metadataList = data.metadata_list;
+
+                    // Trim the answer to remove any leading/trailing whitespace
+                    const trimmedAnswer = answer.trim();
+
+                    // Remove the last character from the answer
+                    const modifiedAnswer = trimmedAnswer.slice(0, -1);
+
+                    // Use regex to extract the last integer from the answer
+                    const indexMatch = trimmedAnswer.match(/(\d+)(?!.*\d)/);
+                    const index = indexMatch ? parseInt(indexMatch[1], 10) - 1 : NaN;
+
+                    // Debugging logs
+                    console.log('Answer:', answer);
+                    console.log('Trimmed Answer:', trimmedAnswer);
+                    console.log('Modified Answer:', modifiedAnswer);
+                    console.log('Extracted Index:', index);
+
+                    // Check if index is a valid number and within the bounds of metadataList
+                    if (isNaN(index) || index < 0 || index >= metadataList.length) {
+                        document.getElementById('response').innerHTML = `<p><strong>תשובה:</strong> ${modifiedAnswer}</p>`;
+                        return;
+                    }
+
+                    const metadataItem = metadataList[index];
+                    
+                    const metadata = metadataItem.metadata;
+                    const ref = metadata.ref;
+                    const offsetStart = metadata.offset_start;
+                    const score = metadataItem.score;
+                    const page_content = metadataItem.page_content;
+
+                    // Determine if the score is under 0.5
+                    const lowScore = score > 0.6; //TODO: find the correct threshold
+
+                    // Build the response HTML
+                    let responseHTML = `
+                        <p><strong>תשובה:</strong> ${modifiedAnswer}</p>
+                        <p><strong>קישור להקלטה:</strong> <a href="${ref}" target="_blank">${ref}</a></p>
+                        <p><strong>התחל לצפות מ:</strong> ${offsetStart}</p>
+                        <p><strong>דיוק: </strong> ${score}</p>
+                        <p><strong>תמלול השיעור: </strong> ${page_content}</p>
+                    `;
+
+                    // Apply red color if the score is under 0.5
+                    const responseDiv = document.getElementById('response');
+                    responseDiv.className = lowScore ? 'low-score' : '';
+
+                    // Insert the response HTML
+                    responseDiv.innerHTML = responseHTML;
+
+                    // Removed the code that displays the rest of the metadataList
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    document.getElementById('response').innerHTML = `<p>שגיאה בשליפת נתונים. אנא נסה שוב מאוחר יותר.</p>`;
+                });
+        });
+    </script>
+</body>
+</html>
