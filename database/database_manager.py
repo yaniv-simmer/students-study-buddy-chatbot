@@ -1,123 +1,80 @@
 import json
 import os
-from typing import List, Dict, Any
+import typing as t
 
+from langchain_community.vectorstores import FAISS, Pinecone
+from langchain_community.vectorstores.utils import DistanceStrategy
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.docstore.in_memory import InMemoryDocstore
 from langchain.schema import Document
-from langchain.vectorstores import FAISS, Pinecone
-from langchain.embeddings import HuggingFaceEmbeddings
+import faiss
 
-
-SHARE_FOLDER_PATH = 'shared_folder/chunked_transcriptions/combined_transcriptions_chunks.json'
-
-class DataLoader:
-    ''' Class to load data from a JSON file. '''
-
-    def read_json_file(self) -> List[List[Dict[str, Any]]]:
-        ''' Load data from a JSON file. '''
-        #TODO: run the chunking script before running this method
-        with open(SHARE_FOLDER_PATH, 'r', encoding='utf-8') as file:
-            data = json.load(file)
-        return data['data']
-
-
-    def data_to_document_objects(self, data: Dict[str, List[Dict[str, str]]]) -> List[Document]:
-        '''
-        Transforms data into a list of Document objects.
-    
-        Args:
-            data (Dict[str, List[Dict[str, str]]]): Data to be transformed.
-    
-        Returns:
-            List[Document]: List of Document objects.
-            Each document object contains the next attributes:
-            - page_content: str
-            - metadata: Dict[str, Any]
-                - metadata contains the next attributes:
-                    - type: str
-                    - ref: str
-                    - offset_start: str
-                    - offset_end: str
-                    - lang: str
-        '''
-        documents = []
-        for item in data:
-            #TODO: simplify this by just saving the item as is minus the text
-            offset_start = item.get('offset_start')
-            offset_end = item.get('offset_end')
-            text = item.get('text')
-            lang = item.get('lang')
-            item_type = item.get('type')
-            item_ref = item.get('ref')
-            metadata = {
-                'type': item_type,
-                'ref': item_ref,
-                'offset_start': offset_start,
-                'offset_end': offset_end,
-                'lang': lang
-            }
-            doc = Document(page_content=text, metadata=metadata)
-            documents.append(doc)
-        return documents
-    
-
-    def process_data_from_shared_folder(self) -> List[Document]:
-        ''' 
-        Load data from a JSON file and process it into a list of Document objects.
-
-        Returns:
-            List[Document]: List of Document objects.
-        '''
-        data = self.read_json_file()
-        return self.data_to_document_objects(data)
-
-
-
+from chunking_manager import ChunkingManager
 
 PINCONE_ENVIRONMENT = 'us-west1-gcp'
 PINCONE_INDEX_NAME = 'langchain-rag'
-
-class DataBaseHandler:
-    def __init__(self, embeddings_model_config: str, embeddings_database_config: str):
-        self.data_loader = DataLoader()
-        self.embeddings_model = self.initialize_embedding_handler(embeddings_model_config)
-        self.embeddings_database = self.initialize_embeddings_database(embeddings_database_config)
+RAW_TRANSCRIPTION_FOLDER = 'shared_folder/raw_transcriptions/'
+DONE_TRANSCRIPTIONS_FILE = 'shared_folder/done_transcriptions.json'
+DEFAULT_CHUNK_SIZE = 1000
+MAX_K_RESULTS = 3
 
 
-    def initialize_embedding_handler(self, embeddings_model_config=None):
-        
-        # use the default faiss is used as the embeddings model, if no model is specified
-        if embeddings_model_config is None:
-            return None 
-        return HuggingFaceEmbeddings(model_name=embeddings_model_config)
-        
+class VectorStore:
+    '''
+    A class to represent the VectorStore that stores the documents and their embeddings.
+    Can be used with different databases like FAISS, Pinecone, Milvus, Chorma, Elasticsearch.
+    '''
 
-    def initialize_embeddings_database(self, embeddings_database_config):
+    def __init__(self, database_config: str, model_config: str):
+        self.database_config = database_config  # TODO: try diffrent databases
+
+        embeddings_model = HuggingFaceEmbeddings(model_name=model_config)
+        index = faiss.IndexFlatL2(len(embeddings_model.embed_query(EXAMPLE_QUERY)))
+        self.index = FAISS(embedding_function=embeddings_model,
+                           index=index,
+                           docstore=InMemoryDocstore(),
+                           normalize_L2=True,
+                           distance_strategy=DistanceStrategy.COSINE,  # TODO: try diffrent distance strategies
+                           index_to_docstore_id={}
+                           )
+
+    def add_documents(self, documents: t.List[Document]):
+        ''' Async run more documents through the embeddings and add to the vectorstore. '''
+        self.index.add_documents(documents=documents)
+
+    def similarity_search_with_score(self, query: str, course_name: str, k: int) -> t.List[t.Tuple[Document, float]]:
         '''
-        Initialize the embeddings database based on the configuration. 
+        Perform similarity search with a query and return the top k results with their normelized scores.
+
+        Args:
+            query (str): The query to search for.
+            k (int): The number of results to return.
 
         Returns:
-            ???
+            list[tuple[Document, float]]: A list of tuples containing the document and the normelized similarity score.
         '''
+        docs_and_scores = self.index.similarity_search_with_relevance_scores(query=query,
+                                                                             k=k,
+                                                                             filter={"course_name": course_name}
+                                                                             )
+        normelized_docs_and_scores = [(doc, self.normalize_score(score)) for doc, score in docs_and_scores]
+        return normelized_docs_and_scores
 
+    def normalize_score(self, cosine_similarity: float) -> float:
+        """
+        Normalizes cosine similarity from the range [-1, 1] to the range [0, 1].
 
-        #TODO: check if a SQL is already saved
-        documents = self.data_loader.process_data_from_shared_folder()
+        Args:
+            cosine_similarity (float): The cosine similarity value in the range [-1, 1].
 
-        if documents == []:
-            raise ValueError("No documents to add to the database.")
-        
-        if embeddings_database_config == 'faiss':
-            database = FAISS.from_documents(documents, self.embeddings_model)
-        elif embeddings_database_config == 'pinecone':
-            database = self.initialize_pinecone()
-        else:
-            raise ValueError(f"Unsupported vector store type: {self.config}")
-        
-        self.remove_processed_transcriptions()
-        return database
+        Returns:
+            float: Normalized cosine similarity in the range [0, 1].
+        """
+        return cosine_similarity
 
+    # return 1 - (cosine_similarity + 1) / 2
 
-    def initialize_pinecone(self):
+    def _initialize_pinecone(self):
         pinecone_api_key = os.environ.get('PINECONE_API_KEY')
         pinecone.init(
             api_key=pinecone_api_key,
@@ -125,49 +82,71 @@ class DataBaseHandler:
         )
 
         if PINCONE_INDEX_NAME not in pinecone.list_indexes():
-            dimension = len(self.embeddings.embed_query("Test")) #TODO: What is this test?
+            dimension = len(self.embeddings.embed_query("hi world"))
             pinecone.create_index(
-                name=PINCONE_INDEX_NAME, metric="cosine", dimension=dimension)
+                name=PINCONE_INDEX_NAME, metric="cosine", dimension=dimension
+            )
             index = pinecone.Index(PINCONE_INDEX_NAME)
             Pinecone.from_documents(
-                self.documents, self.embeddings, index_name=PINCONE_INDEX_NAME)
+                self.documents, self.embeddings, index_name=PINCONE_INDEX_NAME
+            )
         return Pinecone.from_existing_index(PINCONE_INDEX_NAME, self.embeddings)
-            
 
-    def search(self, query: str, k: int = 4):
-        return self.embeddings_database.similarity_search_with_score(query, k=k)
-    
-    
-    def remove_processed_transcriptions(self):
-        '''
-        Remove all chunked transcriptions from the shared file.
-        '''
-        with open(SHARE_FOLDER_PATH, "r+") as file:
-            data = json.load(file)
-            data['data'] = []
-            file.seek(0)
-            json.dump(data, file, indent=2)
-            file.truncate()
 
-        
+class DBManager:
+    '''
+    A class to represent the Database Manager that manages the database and the vector store.
+    '''
+
+    # TODO: try Milvus, FAISS, Pinecone, Chorma, Elasticsearch
+
+    def __init__(self, database_config: str, model_config: str):
+        self.chunking_manager = ChunkingManager(chunk_size=DEFAULT_CHUNK_SIZE)
+        self.vector_store = VectorStore(database_config, model_config)
+
+    def similarity_search_with_score(self, query: str, course_name: str, k: int = MAX_K_RESULTS) -> t.List[t.Dict]:
+        '''
+        Perform similarity search with a query and return the top k results with their scores.
+
+        Args:
+            query (str): The query to search for.
+            k (int): The number of results to return.
+
+        Returns:
+            list[dict]: A list of dictionaries containing the document and the similarity score.
+                dict: {
+                    "page_content": str,
+                    "metadata": dict,
+                    "score": float
+                }
+        '''
+        return self.documents_to_json(self.vector_store.similarity_search_with_score(query=query,
+                                                                                     course_name=course_name,
+                                                                                     k=k
+                                                                                     ))
+
     def update_database(self):
-        '''
-        Check for new documents in the shared json file and add them to the database.
-        '''
-        new_documents = self.data_loader.process_data_from_shared_folder()
-        if new_documents:
-            #TODO: Test this method !!!
-            self.embeddings_database.add_documents(new_documents) 
-            self.remove_processed_transcriptions()
+        ''' Check for new documents in the shared json file and add them to the database. '''
+        # TODO: dont add transcriptions that are already in the database.
+        documents = self.chunking_manager.genarate_chunked_documents_from_shared_folder()
+        self.vector_store.add_documents(documents)
+        self.save_done_transcriptions()
 
+    def save_done_transcriptions(self):
+        ''' Write the done transcriptions to the shared folder. '''
+        done_transcriptions = os.listdir(RAW_TRANSCRIPTION_FOLDER)
+        with open(DONE_TRANSCRIPTIONS_FILE, 'w', encoding='utf-8') as json_file:
+            json.dump({'done_transcriptions': done_transcriptions}, json_file, indent=4)
+
+    def documents_to_json(self, documents: t.List[t.Tuple[Document, float]]) -> t.List[t.Dict]:
+        ''' Convert a list of langchain documents to a json object. '''
+        return [{
+            "page_content": doc.page_content,
+            "metadata": doc.metadata,
+            "score": float(score)
+        }
+            for doc, score in documents]
 
     def save_database(self):
-        '''
-        Save the SQL database to a file.
-        '''
-        pass #TODO: Implement this method
-
-
-        
-
-
+        ''' Save the database to a file. '''
+        pass  # TODO: Implement this method
