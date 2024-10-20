@@ -15,6 +15,7 @@ PINCONE_ENVIRONMENT = 'us-west1-gcp'
 PINCONE_INDEX_NAME = 'langchain-rag'
 RAW_TRANSCRIPTION_FOLDER = 'shared_folder/raw_transcriptions/'
 DONE_TRANSCRIPTIONS_FILE = 'shared_folder/done_transcriptions.json'
+EXAMPLE_QUERY = "מזה צופן סימטרי?"
 DEFAULT_CHUNK_SIZE = 1000
 MAX_K_RESULTS = 3
 
@@ -82,7 +83,7 @@ class VectorStore:
         )
 
         if PINCONE_INDEX_NAME not in pinecone.list_indexes():
-            dimension = len(self.embeddings.embed_query("hi world"))
+            dimension = len(self.embeddings.embed_query(EXAMPLE_QUERY))
             pinecone.create_index(
                 name=PINCONE_INDEX_NAME, metric="cosine", dimension=dimension
             )
