@@ -19,7 +19,7 @@ The chatbot provides students with accurate, context-based responses along with 
 
 ## Key Features:
 
-- **Lecture Transcriptions**: Converts lecture recordings into text using speech-to-text technology using [Ivrit-ai](https://huggingface.co/ivrit-ai/faster-whisper-v2-d3-e3)'s model.
+- **Lecture Transcriptions**: Converts lecture recordings into text using speech-to-text technology using [Ivrit-ai](https://huggingface.co/ivrit-ai/faster-whisper-v2-d3-e3)'s `ivrit-ai/faster-whisper-v2-d3-e3` model.
 - **Database Storage**: Transcriptions are chunked and stored in a database for easy retrieval. 
 - **Question Answering**: Uses a Large Language Model (LLM) to answer questions based on the stored transcriptions.
 - **Web Interface**: Students can interact with the chatbot via a simple web interface.
@@ -42,6 +42,8 @@ And also the usage of various llm models:
 
 ## Project Architecture and Design
 
+### Flow Chart
+![Flow Chart](flow_chart.png)
 
 The project is divided into three main components:
 
@@ -89,7 +91,3 @@ The project is divided into three main components:
 <br>
 
 ---
-```mermaid
-sequenceDiagram
-  A-->B: Works!
-```
