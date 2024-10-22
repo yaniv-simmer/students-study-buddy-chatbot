@@ -19,20 +19,17 @@ The chatbot provides students with accurate, context-based responses along with 
 
 ## Key Features:
 
-- **Lecture Transcriptions**: Converts lecture recordings into text using speech-to-text technology using [Ivrit-ai](https://huggingface.co/ivrit-ai/faster-whisper-v2-d3-e3)'s `ivrit-ai/faster-whisper-v2-d3-e3` model.
+- **Lecture Transcriptions**: Converts lecture recordings into text using speech-to-text technology using **[Ivrit-ai](https://huggingface.co/ivrit-ai/faster-whisper-v2-d3-e3)**'s `ivrit-ai/faster-whisper-v2-d3-e3` model.
 - **Database Storage**: Transcriptions are chunked and stored in a database for easy retrieval. 
 - **Question Answering**: Uses a Large Language Model (LLM) to answer questions based on the stored transcriptions.
 - **Web Interface**: Students can interact with the chatbot via a simple web interface.
 
 ## Modular design 
-Through extensive use of the [Langchain](https://www.langchain.com/) framework, which enables flexible integration with different database backends and LLM models.
+Through extensive use of the **[Langchain](https://www.langchain.com/)** framework, which enables flexible integration with different database backends and LLM models.
 
 Allows for the use of various vector databases, such as: 
-- **FAISS**
-- **Pinecone** 
-- **Milvus**
- - **Chroma**
- - **Elasticsearch**<br>
+- **[FAISS](https://python.langchain.com/docs/integrations/vectorstores/faiss/)**
+- **[Pinecone](https://www.pinecone.io/)** 
 
 And also the usage of various llm models:
 - Various **[HuggingFace](https://huggingface.co/)**  models
