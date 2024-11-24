@@ -10,6 +10,7 @@
 
 The **Students' Study Buddy Chatbot** is a tool designed to assist university students by answering questions about their lecture content. <br>
 The chatbot provides students with accurate, context-based responses along with a link to the relevant lecture recording, as you can see in the image for example.
+Learn more about RAG models [here](https://www.databricks.com/glossary/retrieval-augmented-generation-rag)
 
 ### Project Web Page Interface
 
